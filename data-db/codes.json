@@ -1,0 +1,4630 @@
+{
+    "currentTermDate": {
+        "date": "2023-10-16",
+        "year": 2024,
+        "campus": "AC",
+        "term": 1
+    },
+    "units": [
+        {
+            "code": "34",
+            "level": "G",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "Bloustein School of Planning (G)"
+        },
+        {
+            "code": "10",
+            "level": "U",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "Bloustein School of Planning (U)"
+        },
+        {
+            "code": "50",
+            "level": "U",
+            "campus": "CM",
+            "homeCampus": "CM",
+            "description": "Camden College of Arts & Sciences"
+        },
+        {
+            "code": "81",
+            "level": "G",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "Continuous Education (G)"
+        },
+        {
+            "code": "80",
+            "level": "U",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "Continuous Education (U)"
+        },
+        {
+            "code": "06",
+            "level": "U",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "Douglass College"
+        },
+        {
+            "code": "31",
+            "level": "G",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "Ernest Mario School of Pharmacy (G)"
+        },
+        {
+            "code": "30",
+            "level": "U",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "Ernest Mario School of Pharmacy (U)"
+        },
+        {
+            "code": "18",
+            "level": "G",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "Grad School of Applied & Prof Psych (G)"
+        },
+        {
+            "code": "13",
+            "level": "U",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "Grad School of Applied & Prof Psych (U)"
+        },
+        {
+            "code": "15",
+            "level": "G",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "Graduate School of Education (G)"
+        },
+        {
+            "code": "05",
+            "level": "U",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "Graduate School of Education (U)"
+        },
+        {
+            "code": "02",
+            "level": "U",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "Livingston College"
+        },
+        {
+            "code": "08",
+            "level": "G",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "Mason Gross School of the Arts (G)"
+        },
+        {
+            "code": "07",
+            "level": "U",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "Mason Gross School of the Arts (U)"
+        },
+        {
+            "code": "03",
+            "level": "U",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "Military Science"
+        },
+        {
+            "code": "21",
+            "level": "U",
+            "campus": "NK",
+            "homeCampus": "NK",
+            "description": "Newark College of Arts and Sciences"
+        },
+        {
+            "code": "66",
+            "level": "G",
+            "campus": "NK",
+            "homeCampus": "NK",
+            "description": "Newark Provost Office (Graduate Credit)"
+        },
+        {
+            "code": "65",
+            "level": "U",
+            "campus": "NK",
+            "homeCampus": "NK",
+            "description": "Newark Provost Office (Undergrad Credit)"
+        },
+        {
+            "code": "70",
+            "level": "G",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "Robert Wood Johnson Medical School"
+        },
+        {
+            "code": "22",
+            "level": "G",
+            "campus": "CM, NB, NK",
+            "homeCampus": "NK",
+            "description": "Rutgers Business School (G)"
+        },
+        {
+            "code": "33",
+            "level": "U",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "Rutgers Business School- NB campus (U)"
+        },
+        {
+            "code": "29",
+            "level": "U",
+            "campus": "NK",
+            "homeCampus": "NK",
+            "description": "Rutgers Business School- Newark (U)"
+        },
+        {
+            "code": "12",
+            "level": "U",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "Rutgers College"
+        },
+        {
+            "code": "53",
+            "level": "G",
+            "campus": "CM",
+            "homeCampus": "CM",
+            "description": "Rutgers School of Business-Camden (G)"
+        },
+        {
+            "code": "52",
+            "level": "U",
+            "campus": "CM",
+            "homeCampus": "CM",
+            "description": "Rutgers School of Business-Camden (U)"
+        },
+        {
+            "code": "24",
+            "level": "G",
+            "campus": "CM",
+            "homeCampus": "CM",
+            "description": "Rutgers School of Law-Camden"
+        },
+        {
+            "code": "23",
+            "level": "G",
+            "campus": "NK",
+            "homeCampus": "NK",
+            "description": "Rutgers School of Law-Newark"
+        },
+        {
+            "code": "48",
+            "level": "G",
+            "campus": "NK",
+            "homeCampus": "NK",
+            "description": "Rutgers/NJIT Exchange (G)"
+        },
+        {
+            "code": "28",
+            "level": "U",
+            "campus": "NK",
+            "homeCampus": "NK",
+            "description": "Rutgers/NJIT Exchange (U)"
+        },
+        {
+            "code": "49",
+            "level": "G",
+            "campus": "NK",
+            "homeCampus": "NK",
+            "description": "Rutgers/UMDNJ Exchange (G)"
+        },
+        {
+            "code": "01",
+            "level": "U",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "School of Arts & Sciences"
+        },
+        {
+            "code": "17",
+            "level": "G",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "School of Communication & Info (G)"
+        },
+        {
+            "code": "04",
+            "level": "U",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "School of Communication & Info (U)"
+        },
+        {
+            "code": "27",
+            "level": "G",
+            "campus": "NK",
+            "homeCampus": "NK",
+            "description": "School of Criminal Justice (G)"
+        },
+        {
+            "code": "47",
+            "level": "U",
+            "campus": "NK",
+            "homeCampus": "NK",
+            "description": "School of Criminal Justice (U)"
+        },
+        {
+            "code": "14",
+            "level": "U",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "School of Engineering"
+        },
+        {
+            "code": "11",
+            "level": "U",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "School of Environmental & Biological Sci"
+        },
+        {
+            "code": "16",
+            "level": "G",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "School of Graduate Studies"
+        },
+        {
+            "code": "76",
+            "level": "G",
+            "campus": "NK",
+            "homeCampus": "NK",
+            "description": "School of Graduate Studies"
+        },
+        {
+            "code": "74",
+            "level": "G",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "School of Health Professions - Grad"
+        },
+        {
+            "code": "73",
+            "level": "U",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "School of Health Professions - UG"
+        },
+        {
+            "code": "43",
+            "level": "U",
+            "campus": "NK",
+            "homeCampus": "NK",
+            "description": "School of Law - Newark (U)"
+        },
+        {
+            "code": "44",
+            "level": "U",
+            "campus": "CM",
+            "homeCampus": "CM",
+            "description": "School of Law ¿ Camden"
+        },
+        {
+            "code": "38",
+            "level": "G",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "School of Management & Labor Rel (G)"
+        },
+        {
+            "code": "37",
+            "level": "U",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "School of Management & Labor Rel (U)"
+        },
+        {
+            "code": "58",
+            "level": "G",
+            "campus": "CM",
+            "homeCampus": "CM",
+            "description": "School of Nursing - Camden (Grad)"
+        },
+        {
+            "code": "57",
+            "level": "U",
+            "campus": "CM",
+            "homeCampus": "CM",
+            "description": "School of Nursing - Camden (UG)"
+        },
+        {
+            "code": "45",
+            "level": "G",
+            "campus": "NK",
+            "homeCampus": "NK",
+            "description": "School of Nursing - NB & NK campus (G)"
+        },
+        {
+            "code": "25",
+            "level": "U",
+            "campus": "CM, NB, NK",
+            "homeCampus": "NK",
+            "description": "School of Nursing - NB & NK campus (U)"
+        },
+        {
+            "code": "77",
+            "level": "U",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "School of Nursing - New Brunswick (U)"
+        },
+        {
+            "code": "20",
+            "level": "G",
+            "campus": "NK",
+            "homeCampus": "NK",
+            "description": "School of Public Affairs & Admin (G)"
+        },
+        {
+            "code": "40",
+            "level": "U",
+            "campus": "NK",
+            "homeCampus": "NK",
+            "description": "School of Public Affairs & Admin (U)"
+        },
+        {
+            "code": "75",
+            "level": "G",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "School of Public Health"
+        },
+        {
+            "code": "19",
+            "level": "G",
+            "campus": "CM, NB, NK",
+            "homeCampus": "NB",
+            "description": "School of Social Work (G)"
+        },
+        {
+            "code": "09",
+            "level": "U",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "School of Social Work (U)"
+        },
+        {
+            "code": "56",
+            "level": "G",
+            "campus": "CM",
+            "homeCampus": "CM",
+            "description": "The Graduate School-Camden"
+        },
+        {
+            "code": "26",
+            "level": "G",
+            "campus": "CM, NB, NK",
+            "homeCampus": "NK",
+            "description": "The Graduate School-Newark"
+        },
+        {
+            "code": "64",
+            "level": "U",
+            "campus": "CM",
+            "homeCampus": "CM",
+            "description": "University College - Camden"
+        },
+        {
+            "code": "61",
+            "level": "U",
+            "campus": "NB",
+            "homeCampus": "NB",
+            "description": "University College-New Brunswick"
+        },
+        {
+            "code": "62",
+            "level": "U",
+            "campus": "NK",
+            "homeCampus": "NK",
+            "description": "University College-Newark"
+        }
+    ],
+    "buildings": [
+        {
+            "code": "ACK",
+            "campus": "7",
+            "name": "ACKERSON HALL",
+            "id": "7214"
+        },
+        {
+            "code": "ADK",
+            "campus": "7",
+            "name": "AIDEKMAN RES CTR",
+            "id": "7499"
+        },
+        {
+            "code": "AE",
+            "campus": "4",
+            "name": "AGRICULT ENGINEERING",
+            "id": "6069"
+        },
+        {
+            "code": "AFR",
+            "campus": "4",
+            "name": "AFRICANA HOUSE",
+            "id": "8347"
+        },
+        {
+            "code": "AGN",
+            "campus": "6",
+            "name": "AGENCY",
+            "id": "0001"
+        },
+        {
+            "code": "ARH",
+            "campus": "4",
+            "name": "ART HISTORY HALL",
+            "id": "8428"
+        },
+        {
+            "code": "ARM",
+            "campus": "1",
+            "name": "ARMY ROTC BUILDING",
+            "id": "3072"
+        },
+        {
+            "code": "ATG",
+            "campus": "6",
+            "name": "ARMITAGE HALL",
+            "id": "7036"
+        },
+        {
+            "code": "BE",
+            "campus": "3",
+            "name": "BECK HALL",
+            "id": "4145"
+        },
+        {
+            "code": "BH",
+            "campus": "1",
+            "name": "BISHOP HOUSE",
+            "id": "3049"
+        },
+        {
+            "code": "BIO",
+            "campus": "4",
+            "name": "BIOLOGICAL SCIENCES",
+            "id": "8304"
+        },
+        {
+            "code": "BL",
+            "campus": "4",
+            "name": "BLAKE HALL",
+            "id": "6005"
+        },
+        {
+            "code": "BME",
+            "campus": "2",
+            "name": "Biomedical Engr",
+            "id": "3893"
+        },
+        {
+            "code": "BOY",
+            "campus": "7",
+            "name": "BOYDEN HALL",
+            "id": "7217"
+        },
+        {
+            "code": "BRD",
+            "campus": "7",
+            "name": "BRADLEY HALL",
+            "id": "7230"
+        },
+        {
+            "code": "BSB",
+            "campus": "6",
+            "name": "NEW BUSINESS SCHOOL",
+            "id": "7073"
+        },
+        {
+            "code": "BSL",
+            "campus": "2",
+            "name": "BIO-SCIENCE LABS",
+            "id": "3526"
+        },
+        {
+            "code": "BSN",
+            "campus": "3",
+            "name": "LEVIN BUSINESS SCHL",
+            "id": "4163"
+        },
+        {
+            "code": "BT",
+            "campus": "4",
+            "name": "BARTLETT HALL",
+            "id": "6024"
+        },
+        {
+            "code": "CA",
+            "campus": "1",
+            "name": "CAMPBELL HALL",
+            "id": "3121"
+        },
+        {
+            "code": "CAF",
+            "campus": "4",
+            "name": "FOOD TECH BUILDING",
+            "id": "6328"
+        },
+        {
+            "code": "CAG",
+            "campus": "1",
+            "name": "COLLEGE AVE GYM",
+            "id": "3097"
+        },
+        {
+            "code": "CAM",
+            "campus": "N",
+            "name": "CAMPBELL BLDG-(NJIT)",
+            "id": "0002"
+        },
+        {
+            "code": "CAR",
+            "campus": "4",
+            "name": "CARRIAGE HOUSE",
+            "id": "8325"
+        },
+        {
+            "code": "CCA",
+            "campus": "1",
+            "name": "CRITICAL ANALYS. CTR",
+            "id": "7584"
+        },
+        {
+            "code": "CCR",
+            "campus": "2",
+            "name": "CERAMICS RESEAR. CTR",
+            "id": "3861"
+        },
+        {
+            "code": "CDR",
+            "campus": "4",
+            "name": "COOK/DOUGLAS REC CTR",
+            "id": "6258"
+        },
+        {
+            "code": "CEB",
+            "campus": "2",
+            "name": "CIVIL ENGINEER. BLDG",
+            "id": "3868"
+        },
+        {
+            "code": "CEL",
+            "campus": "2",
+            "name": "CIVIL ENGIN. LAB",
+            "id": "3557"
+        },
+        {
+            "code": "CHA",
+            "campus": "1",
+            "name": "HISTORIC.ANALYS.CTR",
+            "id": "3027"
+        },
+        {
+            "code": "CHM",
+            "campus": "4",
+            "name": "CHEMISTRY",
+            "id": "8302"
+        },
+        {
+            "code": "CHX",
+            "campus": "4",
+            "name": "CHEMISTRY ANNEX",
+            "id": "5023"
+        },
+        {
+            "code": "CI",
+            "campus": "1",
+            "name": "SCH/COMMUN/INFO",
+            "id": "3134"
+        },
+        {
+            "code": "CMG",
+            "campus": "6",
+            "name": "CAMDEN GYM",
+            "id": "7056"
+        },
+        {
+            "code": "COB",
+            "campus": "4",
+            "name": "COOK COLLEGE OFF.BLD",
+            "id": "6259"
+        },
+        {
+            "code": "COL",
+            "campus": "N",
+            "name": "COLTON HALL-(NJIT)",
+            "id": "0003"
+        },
+        {
+            "code": "CON",
+            "campus": "7",
+            "name": "CONKLIN HALL",
+            "id": "7218"
+        },
+        {
+            "code": "COR",
+            "campus": "2",
+            "name": "COMPU RES&ED BLDG",
+            "id": "3883"
+        },
+        {
+            "code": "CPE",
+            "campus": "2",
+            "name": "PACKAG ENGINEER CTR",
+            "id": "3529"
+        },
+        {
+            "code": "CPH",
+            "campus": "4",
+            "name": "CARPENDER HOUSE",
+            "id": "8312"
+        },
+        {
+            "code": "CRR",
+            "campus": "2",
+            "name": "CAREER DEVELOPMENT",
+            "id": "3538"
+        },
+        {
+            "code": "CSB",
+            "campus": "5",
+            "name": "CIVIC SQUARE BLD",
+            "id": "3158"
+        },
+        {
+            "code": "CUL",
+            "campus": "N",
+            "name": "CULLIMORE HALL(NJIT)",
+            "id": "0004"
+        },
+        {
+            "code": "DAV",
+            "campus": "4",
+            "name": "DAVISON HALL",
+            "id": "8322"
+        },
+        {
+            "code": "DDC",
+            "campus": "4",
+            "name": "DEVELOP DISAB CTR",
+            "id": "8370"
+        },
+        {
+            "code": "DL",
+            "campus": "4",
+            "name": "DOUGLASS LIBRARY",
+            "id": "8313"
+        },
+        {
+            "code": "DOO",
+            "campus": "2",
+            "name": "DOOLITTLE BUILDING",
+            "id": "3572"
+        },
+        {
+            "code": "EAS",
+            "campus": "1",
+            "name": "39 EASTON AVENUE",
+            "id": "3106"
+        },
+        {
+            "code": "ED",
+            "campus": "1",
+            "name": "GRAD SCHOOL OF EDUC",
+            "id": "3037"
+        },
+        {
+            "code": "EE",
+            "campus": "2",
+            "name": "ELECTR ENGINEER BLD",
+            "id": "3859"
+        },
+        {
+            "code": "ELE",
+            "campus": "2",
+            "name": "ELECTR ENGINEER BLD",
+            "id": "3859"
+        },
+        {
+            "code": "EN",
+            "campus": "2",
+            "name": "ENGINEERING BLDG",
+            "id": "3558"
+        },
+        {
+            "code": "ENG",
+            "campus": "7",
+            "name": "ENGELHARD HALL",
+            "id": "7227"
+        },
+        {
+            "code": "ENR",
+            "campus": "4",
+            "name": "Environ Science Bldg",
+            "id": "6279"
+        },
+        {
+            "code": "ENV",
+            "campus": "4",
+            "name": "ENV RESOURCES BLDG",
+            "id": "6279"
+        },
+        {
+            "code": "FA",
+            "campus": "6",
+            "name": "FINE ARTS BUILDING",
+            "id": "7057"
+        },
+        {
+            "code": "FAC",
+            "campus": "N",
+            "name": "FACULTY HALL-(NJIT)",
+            "id": "0005"
+        },
+        {
+            "code": "FBO",
+            "campus": "2",
+            "name": "FIBER OPTICS BLG",
+            "id": "3869"
+        },
+        {
+            "code": "FG",
+            "campus": "4",
+            "name": "FLORICUL GREENHOUSE",
+            "id": "6002"
+        },
+        {
+            "code": "FH",
+            "campus": "1",
+            "name": "FRELINGHUYSEN HALL",
+            "id": "3117"
+        },
+        {
+            "code": "FOR",
+            "campus": "4",
+            "name": "FORAN HALL",
+            "id": "6347"
+        },
+        {
+            "code": "FR",
+            "campus": "4",
+            "name": "FRENCH HOUSE",
+            "id": "8344"
+        },
+        {
+            "code": "FS",
+            "campus": "4",
+            "name": "FOOD SCIENCE BLDG",
+            "id": "6246"
+        },
+        {
+            "code": "GAT",
+            "campus": "4",
+            "name": "GATEHOUSE, WOODLAWN",
+            "id": "8326"
+        },
+        {
+            "code": "GER",
+            "campus": "4",
+            "name": "GERMAN HOUSE RESID.",
+            "id": "8369"
+        },
+        {
+            "code": "GH",
+            "campus": "1",
+            "name": "GERMAN HOUSE",
+            "id": "3026"
+        },
+        {
+            "code": "GIB",
+            "campus": "4",
+            "name": "GIBBONS",
+            "id": "8377"
+        },
+        {
+            "code": "GMH",
+            "campus": "4",
+            "name": "GRADUATE MUSIC HOUSE",
+            "id": "8306"
+        },
+        {
+            "code": "GOR",
+            "campus": "3",
+            "name": "GORDON RD",
+            "id": "3863"
+        },
+        {
+            "code": "GYM",
+            "campus": "7",
+            "name": "GYMNASIUM (NJIT)",
+            "id": "0006"
+        },
+        {
+            "code": "HAL",
+            "campus": "2",
+            "name": "HALE CENTER",
+            "id": "3500"
+        },
+        {
+            "code": "HCK",
+            "campus": "4",
+            "name": "HICKMAN HALL",
+            "id": "8311"
+        },
+        {
+            "code": "HH",
+            "campus": "1",
+            "name": "HARDENBERGH HALL",
+            "id": "3119"
+        },
+        {
+            "code": "HIL",
+            "campus": "7",
+            "name": "HILL HALL",
+            "id": "7225"
+        },
+        {
+            "code": "HLL",
+            "campus": "2",
+            "name": "HILL CENTER",
+            "id": "3752"
+        },
+        {
+            "code": "HOS",
+            "campus": "W",
+            "name": "HOSPITAL",
+            "id": "0007"
+        },
+        {
+            "code": "HUM",
+            "campus": "W",
+            "name": "HUMANITIES -(NJIT)",
+            "id": "0008"
+        },
+        {
+            "code": "INF",
+            "campus": "N",
+            "name": "INFO TECH BLDG(NJIT)",
+            "id": "0009"
+        },
+        {
+            "code": "ITL",
+            "campus": "4",
+            "name": "ITALIAN HOUSE (RES)",
+            "id": "0010"
+        },
+        {
+            "code": "JAM",
+            "campus": "4",
+            "name": "JAMESON RESIDENCE D",
+            "id": "8398"
+        },
+        {
+            "code": "JS",
+            "campus": "4",
+            "name": "JOHN SMITH BLDG",
+            "id": "6213"
+        },
+        {
+            "code": "JSH",
+            "campus": "4",
+            "name": "JOHN SMITH HALL",
+            "id": "6110"
+        },
+        {
+            "code": "KC",
+            "campus": "1",
+            "name": "KIRKPATRICK CHAPEL",
+            "id": "3003"
+        },
+        {
+            "code": "KIL",
+            "campus": "3",
+            "name": "LIVINGSTON LIBRARY",
+            "id": "4147"
+        },
+        {
+            "code": "LAB",
+            "campus": "3",
+            "name": "LIVINGSTON ART BLD",
+            "id": "4165"
+        },
+        {
+            "code": "LAC",
+            "campus": "3",
+            "name": "LIVINGSTON ART CTR",
+            "id": "4054"
+        },
+        {
+            "code": "LAS",
+            "campus": "3",
+            "name": "LIVINGSTON ART STUD",
+            "id": "4089"
+        },
+        {
+            "code": "LAT",
+            "campus": "1",
+            "name": "LATINO CULTURAL",
+            "id": "3130"
+        },
+        {
+            "code": "LAW",
+            "campus": "6",
+            "name": "LAW BLDG",
+            "id": "7052"
+        },
+        {
+            "code": "LEC",
+            "campus": "4",
+            "name": "LABOR EDUCATION CTR",
+            "id": "6109"
+        },
+        {
+            "code": "LEV",
+            "campus": "4",
+            "name": "LEVIN THEATER",
+            "id": "8423"
+        },
+        {
+            "code": "LH",
+            "campus": "4",
+            "name": "LIPMAN HALL",
+            "id": "6025"
+        },
+        {
+            "code": "LLB",
+            "campus": "1",
+            "name": "LANGUAGE LAB BLDG",
+            "id": "3036"
+        },
+        {
+            "code": "LOR",
+            "campus": "4",
+            "name": "LOREE BUILDING",
+            "id": "8432"
+        },
+        {
+            "code": "LSH",
+            "campus": "3",
+            "name": "LUCY STONE HALL",
+            "id": "4153"
+        },
+        {
+            "code": "LSW",
+            "campus": "3",
+            "name": "LIVINGS SOCIAL WORK",
+            "id": "4086"
+        },
+        {
+            "code": "LT",
+            "campus": "4",
+            "name": "LITTLE THEATER",
+            "id": "8339"
+        },
+        {
+            "code": "LVG",
+            "campus": "3",
+            "name": "LIVINGSTON GYM",
+            "id": "4154"
+        },
+        {
+            "code": "MAR",
+            "campus": "4",
+            "name": "MARTIN HALL",
+            "id": "6006"
+        },
+        {
+            "code": "CPS",
+            "campus": "7",
+            "name": "CTR URBAN &PUB SERV",
+            "id": "7488"
+        },
+        {
+            "code": "CCC",
+            "campus": "6",
+            "name": "CAMDEN COLLEGE CTR",
+            "id": "7004"
+        },
+        {
+            "code": "JLB",
+            "campus": "3",
+            "name": "JANICE H LEVIN BLD",
+            "id": "4163"
+        },
+        {
+            "code": "ARC",
+            "campus": "2",
+            "name": "ALLISON ROAD CLASSRM",
+            "id": "3878"
+        },
+        {
+            "code": "IT",
+            "campus": "1",
+            "name": "ITALIAN BLDG",
+            "id": "3039"
+        },
+        {
+            "code": "CLJ",
+            "campus": "7",
+            "name": "LAW AND JUSTICE CTR",
+            "id": "7492"
+        },
+        {
+            "code": "MEC",
+            "campus": "N",
+            "name": "MECH ENGG (NJIT)",
+            "id": "0011"
+        },
+        {
+            "code": "MED",
+            "campus": "2",
+            "name": "RWJMS Research Tower",
+            "id": "3688"
+        },
+        {
+            "code": "MET",
+            "campus": "4",
+            "name": "METEOROLOGY BUILDING",
+            "id": "6003"
+        },
+        {
+            "code": "MI",
+            "campus": "1",
+            "name": "MILLEDOLER HALL",
+            "id": "3010"
+        },
+        {
+            "code": "MIN",
+            "campus": "1",
+            "name": "43 MINE STREET",
+            "id": "3041"
+        },
+        {
+            "code": "MK",
+            "campus": "1",
+            "name": "15 Bartlett Street",
+            "id": "3042"
+        },
+        {
+            "code": "MSB",
+            "campus": "4",
+            "name": "Marine Science Bldg",
+            "id": "6350"
+        },
+        {
+            "code": "MSC",
+            "campus": "2",
+            "name": "MATH & SCI LEARN CTR",
+            "id": "3528"
+        },
+        {
+            "code": "MU",
+            "campus": "1",
+            "name": "MURRAY HALL",
+            "id": "3011"
+        },
+        {
+            "code": "MUS",
+            "campus": "4",
+            "name": "MUSIC BUILDING",
+            "id": "8310"
+        },
+        {
+            "code": "MX",
+            "campus": "4",
+            "name": "MUSIC ANNEX",
+            "id": "8438"
+        },
+        {
+            "code": "NH",
+            "campus": "2",
+            "name": "NELSON HALL",
+            "id": "3559"
+        },
+        {
+            "code": "NIH",
+            "campus": "4",
+            "name": "NICHOLAS HALL",
+            "id": "8434"
+        },
+        {
+            "code": "NJ",
+            "campus": "1",
+            "name": "NEW JERSEY HALL",
+            "id": "3014"
+        },
+        {
+            "code": "NKG",
+            "campus": "W",
+            "name": "NEWARK GYM",
+            "id": "7233"
+        },
+        {
+            "code": "NTR",
+            "campus": "4",
+            "name": "NEW THEATER (DC)",
+            "id": "8439"
+        },
+        {
+            "code": "OLS",
+            "campus": "7",
+            "name": "OLSON HALL",
+            "id": "7229"
+        },
+        {
+            "code": "OTC",
+            "campus": "4",
+            "name": "OPERATOR TRAININ.CTR",
+            "id": "6072"
+        },
+        {
+            "code": "OTR",
+            "campus": "3",
+            "name": "OFFICE OF TV-RADIO",
+            "id": "4048"
+        },
+        {
+            "code": "PEN",
+            "campus": "6",
+            "name": "CAMDEN LIBRARY-PENN",
+            "id": "7003"
+        },
+        {
+            "code": "PH",
+            "campus": "2",
+            "name": "PHARMACY",
+            "id": "3750"
+        },
+        {
+            "code": "PHY",
+            "campus": "2",
+            "name": "PHYSICS",
+            "id": "3562"
+        },
+        {
+            "code": "PPA",
+            "campus": "4",
+            "name": "PLANT PHYSIOLOGY",
+            "id": "6014"
+        },
+        {
+            "code": "PR",
+            "campus": "4",
+            "name": "PUERTO RICAN HOUSE",
+            "id": "8342"
+        },
+        {
+            "code": "PSY",
+            "campus": "2",
+            "name": "PSYCHOLOGY BUILDING",
+            "id": "3757"
+        },
+        {
+            "code": "RAB",
+            "campus": "4",
+            "name": "RUTH ADAM BUILDING",
+            "id": "8303"
+        },
+        {
+            "code": "RH",
+            "campus": "4",
+            "name": "ROUND HOUSE",
+            "id": "6013"
+        },
+        {
+            "code": "RLH",
+            "campus": "4",
+            "name": "REHEARSAL HALL",
+            "id": "8422"
+        },
+        {
+            "code": "ROB",
+            "campus": "6",
+            "name": "ROBESON LIBRARY",
+            "id": "7003"
+        },
+        {
+            "code": "RTC",
+            "campus": "2",
+            "name": "RUTCOR BUILDING",
+            "id": "3870"
+        },
+        {
+            "code": "RUS",
+            "campus": "4",
+            "name": "RUSSIAN HOUSE",
+            "id": "8367"
+        },
+        {
+            "code": "SC",
+            "campus": "1",
+            "name": "SCOTT HALL",
+            "id": "3038"
+        },
+        {
+            "code": "SCI",
+            "campus": "6",
+            "name": "SCIENCE BLDG.",
+            "id": "7002"
+        },
+        {
+            "code": "SEC",
+            "campus": "2",
+            "name": "SCI & ENGIN. RESOUR.",
+            "id": "3854"
+        },
+        {
+            "code": "SEM",
+            "campus": "1",
+            "name": "18 SEMINARY PLACE",
+            "id": "3017"
+        },
+        {
+            "code": "SEN",
+            "campus": "1",
+            "name": "5 SENIOR STREET",
+            "id": "3073"
+        },
+        {
+            "code": "SMH",
+            "campus": "2",
+            "name": "SMITHERS HALL",
+            "id": "3570"
+        },
+        {
+            "code": "SMT",
+            "campus": "7",
+            "name": "SMITH HALL",
+            "id": "7223"
+        },
+        {
+            "code": "SPA",
+            "campus": "4",
+            "name": "SPANISH HOUSE",
+            "id": "8346"
+        },
+        {
+            "code": "SRN",
+            "campus": "2",
+            "name": "SERIN II BLDG.",
+            "id": "3865"
+        },
+        {
+            "code": "STD",
+            "campus": "6",
+            "name": "STEDMAN BUILDING",
+            "id": "7064"
+        },
+        {
+            "code": "SW",
+            "campus": "1",
+            "name": "SCHOL OF SOCIAL WORK",
+            "id": "3008"
+        },
+        {
+            "code": "SWA",
+            "campus": "1",
+            "name": "SCH OF SOC/WORK ANEX",
+            "id": "3007"
+        },
+        {
+            "code": "TCB",
+            "campus": "2",
+            "name": "TAYLOR RD CLASS BLDG",
+            "id": "3848"
+        },
+        {
+            "code": "TER",
+            "campus": "N",
+            "name": "TIERMAN HALL(NJIT)",
+            "id": "0012"
+        },
+        {
+            "code": "TH",
+            "campus": "4",
+            "name": "THOMPSON HALL",
+            "id": "6004"
+        },
+        {
+            "code": "THR",
+            "campus": "W",
+            "name": "THEATER(NJIT)",
+            "id": "0013"
+        },
+        {
+            "code": "TIL",
+            "campus": "3",
+            "name": "TILLETT HALL",
+            "id": "4146"
+        },
+        {
+            "code": "UC",
+            "campus": "1",
+            "name": "35 COLLEGE AVENUE",
+            "id": "3021"
+        },
+        {
+            "code": "VC",
+            "campus": "4",
+            "name": "VOORHEES CHAPEL",
+            "id": "8307"
+        },
+        {
+            "code": "VD",
+            "campus": "1",
+            "name": "VAN DYCK HALL",
+            "id": "3016"
+        },
+        {
+            "code": "VH",
+            "campus": "1",
+            "name": "VOORHEES HALL",
+            "id": "3013"
+        },
+        {
+            "code": "VIX",
+            "campus": "3",
+            "name": "VISUAL ARTS ANNEX",
+            "id": "4051"
+        },
+        {
+            "code": "VRL",
+            "campus": "3",
+            "name": "VISUAL RESEARCH LB",
+            "id": "4051"
+        },
+        {
+            "code": "WAK",
+            "campus": "2",
+            "name": "WAKSMAN INSTITUTE",
+            "id": "3573"
+        },
+        {
+            "code": "WAL",
+            "campus": "4",
+            "name": "WALLER HALL",
+            "id": "6000"
+        },
+        {
+            "code": "WD",
+            "campus": "4",
+            "name": "WOOD LAWN MANSION",
+            "id": "8323"
+        },
+        {
+            "code": "WIN",
+            "campus": "2",
+            "name": "WIN LABS",
+            "id": "3867"
+        },
+        {
+            "code": "WL",
+            "campus": "2",
+            "name": "WRIGHT LAB",
+            "id": "3556"
+        },
+        {
+            "code": "WLT",
+            "campus": "4",
+            "name": "WALTERS HALL",
+            "id": "8419"
+        },
+        {
+            "code": "WSH",
+            "campus": "7",
+            "name": "15 WASHINGTON ST",
+            "id": "7498"
+        },
+        {
+            "code": "WST",
+            "campus": "N",
+            "name": "WESTON HALL(NJIT)",
+            "id": "0014"
+        },
+        {
+            "code": "WWC",
+            "campus": "6",
+            "name": "WALT WHITMAN CENTER",
+            "id": "7072"
+        },
+        {
+            "code": "RJC",
+            "campus": "4",
+            "name": "RUTH J CROCKETT BLDG",
+            "id": "8309"
+        },
+        {
+            "code": "CJS",
+            "campus": "1",
+            "name": "JEWISH STUDIES CTR",
+            "id": "3101"
+        },
+        {
+            "code": "CLA",
+            "campus": "1",
+            "name": "12 COLLEGE AVE",
+            "id": "3101"
+        },
+        {
+            "code": "BLM",
+            "campus": "7",
+            "name": "BLUMENTHAL HALL",
+            "id": "7493"
+        },
+        {
+            "code": "ZAM",
+            "campus": "1",
+            "name": "ZIMMERLI ART MUSEUM",
+            "id": "3013"
+        },
+        {
+            "code": "AL",
+            "campus": "1",
+            "name": "Alexander Library",
+            "id": "3107"
+        },
+        {
+            "code": "CDL",
+            "campus": "4",
+            "name": "COOK/DGLS LECTURE HA",
+            "id": "8840"
+        },
+        {
+            "code": "LCB",
+            "campus": "3",
+            "name": "LIVINGSTON CLSRM BLG",
+            "id": "8841"
+        },
+        {
+            "code": "HSB",
+            "campus": "4",
+            "name": "HELDRICH SCIENCE BLG",
+            "id": "8302"
+        },
+        {
+            "code": "SOC",
+            "campus": "6",
+            "name": "SOCIOLOGY BUILDING",
+            "id": "7042"
+        },
+        {
+            "code": "CS",
+            "campus": "6",
+            "name": "COOPER STREET BLDG",
+            "id": "7018"
+        },
+        {
+            "code": "PSB",
+            "campus": "1",
+            "name": "Public Safety BLDG",
+            "id": "3168"
+        },
+        {
+            "code": "LSC",
+            "campus": "7",
+            "name": "Life Science\nCenter",
+            "id": "7245"
+        },
+        {
+            "code": "BMD",
+            "campus": "2",
+            "name": "Biomedical Engr Mod",
+            "id": "3858"
+        },
+        {
+            "code": "MH",
+            "campus": "1",
+            "name": "Miller Hall",
+            "id": "3103"
+        },
+        {
+            "code": "BRT",
+            "campus": "1",
+            "name": "Brett Hall",
+            "id": "3065"
+        },
+        {
+            "code": "HU",
+            "campus": "1",
+            "name": "Huntington House",
+            "id": "3169"
+        },
+        {
+            "code": "1WP",
+            "campus": "7",
+            "name": "One Washington Park",
+            "id": "7491"
+        },
+        {
+            "code": "NUR",
+            "campus": "5",
+            "name": "College of Nursing",
+            "id": "3166"
+        },
+        {
+            "code": "GEI",
+            "campus": "4",
+            "name": "Geiger Turf Ed Ctr",
+            "id": "6314"
+        },
+        {
+            "code": "SM3",
+            "campus": "1",
+            "name": "3 Seminary Place",
+            "id": "3090"
+        },
+        {
+            "code": "CML",
+            "campus": "1",
+            "name": "Comp Literature Bldg",
+            "id": "3162"
+        },
+        {
+            "code": "LST",
+            "campus": "3",
+            "name": "LIV STUDENT CENTER",
+            "id": "4160"
+        },
+        {
+            "code": "VJM",
+            "campus": "4",
+            "name": "MASTROBUONO THEATER",
+            "id": "8439"
+        },
+        {
+            "code": "RSC",
+            "campus": "1",
+            "name": "Rutgers Student Ctr",
+            "id": "3133"
+        },
+        {
+            "code": "IHC",
+            "campus": "5",
+            "name": "INST HLTH/HLTH CARE",
+            "id": "3172"
+        },
+        {
+            "code": "CSW",
+            "campus": "6",
+            "name": "CAMDEN SOCIAL WORK",
+            "id": "7064"
+        },
+        {
+            "code": "BPS",
+            "campus": "6",
+            "name": "MPP/POLI SCI BLDG",
+            "id": "7041"
+        },
+        {
+            "code": "LP",
+            "campus": "4",
+            "name": "LIPMAN HOUSE",
+            "id": "6010"
+        },
+        {
+            "code": "CRW",
+            "campus": "4",
+            "name": "CORWIN LODGE",
+            "id": "8340"
+        },
+        {
+            "code": "BST",
+            "campus": "2",
+            "name": "BUSCH ENGG SCI&TECH",
+            "id": "3905"
+        },
+        {
+            "code": "LRB",
+            "campus": "3",
+            "name": "LIV RES HALL B",
+            "id": "4178"
+        },
+        {
+            "code": "BRR",
+            "campus": "3",
+            "name": "BUSS ROCKEFELLER RD",
+            "id": "4181"
+        },
+        {
+            "code": "RMH",
+            "campus": "4",
+            "name": "ROBERT MORTENSEN HLL",
+            "id": "8443"
+        },
+        {
+            "code": "CH",
+            "campus": "4",
+            "name": "COLLEGE HALL",
+            "id": "8300"
+        },
+        {
+            "code": "GTW",
+            "campus": "1",
+            "name": "GATEWAY BUILDING",
+            "id": "3178"
+        },
+        {
+            "code": "RC",
+            "campus": "3",
+            "name": "RUTGERS CINEMA",
+            "id": "4178"
+        },
+        {
+            "code": "BLC",
+            "campus": "2",
+            "name": "BUSCH LAB CENTER",
+            "id": "3692"
+        },
+        {
+            "code": "KTL",
+            "campus": "2",
+            "name": "KESSLER TEACHING LAB",
+            "id": "3910"
+        },
+        {
+            "code": "AAC",
+            "campus": "3",
+            "name": "Asian Am Cultrl Ctr",
+            "id": "4054"
+        },
+        {
+            "code": "CIP",
+            "campus": "2",
+            "name": "CTR INT PROTEOMICS",
+            "id": "3903"
+        },
+        {
+            "code": "HC",
+            "campus": "1",
+            "name": "HONORS COLLEGE",
+            "id": "3197"
+        },
+        {
+            "code": "AB",
+            "campus": "1",
+            "name": "RU ACADEMIC BLDG",
+            "id": "3198"
+        },
+        {
+            "code": "WRT",
+            "campus": "6",
+            "name": "Writers House",
+            "id": "7081"
+        },
+        {
+            "code": "HPR",
+            "campus": "6",
+            "name": "OFFICE BUILDING",
+            "id": "7063"
+        },
+        {
+            "code": "HAH",
+            "campus": "7",
+            "name": "Hahne and Company",
+            "id": "8734"
+        },
+        {
+            "code": "DRM",
+            "campus": "6",
+            "name": "Camden Res Hall",
+            "id": "7071"
+        },
+        {
+            "code": "KLG",
+            "campus": "4",
+            "name": "KWL Gl Vg Lv Lrn Ctr",
+            "id": "8444"
+        },
+        {
+            "code": "NPL",
+            "campus": "2",
+            "name": "Nanophysics Lab",
+            "id": "3571"
+        },
+        {
+            "code": "LS2",
+            "campus": "7",
+            "name": "Life Science II",
+            "id": "7250"
+        },
+        {
+            "code": "CNS",
+            "campus": "6",
+            "name": "CAMDEN/NURSI/SCIENCE",
+            "id": "7194"
+        },
+        {
+            "code": "ALB",
+            "campus": "5",
+            "name": "120 Albany Street",
+            "id": "7597"
+        },
+        {
+            "code": "LSB",
+            "campus": "2",
+            "name": "Life Sciences Bldg",
+            "id": "3894"
+        },
+        {
+            "code": "CAB",
+            "campus": "5",
+            "name": "Clinical Acad Bldg",
+            "id": "3183"
+        },
+        {
+            "code": "CHI",
+            "campus": "5",
+            "name": "Child Hlth Inst NJ",
+            "id": "3189"
+        },
+        {
+            "code": "FNH",
+            "campus": "4",
+            "name": "NJInst Food,Nut,Hlth",
+            "id": "6432"
+        },
+        {
+            "code": "SSB",
+            "campus": "W",
+            "name": "Stanley S. Bergen Jr",
+            "id": "7252"
+        },
+        {
+            "code": "RWJ",
+            "campus": "2",
+            "name": "RWJMS Sch of PubHlth",
+            "id": "2689"
+        },
+        {
+            "code": "GEO",
+            "campus": "1",
+            "name": "Geology Hall",
+            "id": "3002"
+        },
+        {
+            "code": "VN",
+            "campus": "1",
+            "name": "Van Nest Hall",
+            "id": "3001"
+        },
+        {
+            "code": "WH",
+            "campus": "1",
+            "name": "Winants Hall",
+            "id": "3004"
+        },
+        {
+            "code": "ASB",
+            "campus": "2",
+            "name": "Admin Services Build",
+            "id": "3751"
+        },
+        {
+            "code": "CCB",
+            "campus": "2",
+            "name": "Chem&Bio Bld",
+            "id": "3594"
+        },
+        {
+            "code": "DVN",
+            "campus": "2",
+            "name": "Davidson Hall",
+            "id": "3567"
+        },
+        {
+            "code": "LSM",
+            "campus": "2",
+            "name": "Lib of Sci/Medicine",
+            "id": "3749"
+        },
+        {
+            "code": "LTS",
+            "campus": "2",
+            "name": "Lib Tech Service Bld",
+            "id": "3845"
+        },
+        {
+            "code": "FMS",
+            "campus": "3",
+            "name": "Busch/Livingston FMS",
+            "id": "4117"
+        },
+        {
+            "code": "JDC",
+            "campus": "3",
+            "name": "James Dickson Carr",
+            "id": "4147"
+        },
+        {
+            "code": "LDC",
+            "campus": "3",
+            "name": "Livingston Dining Co",
+            "id": "4176"
+        },
+        {
+            "code": "OIT",
+            "campus": "3",
+            "name": "OIT Ent Infrastructe",
+            "id": "4114"
+        },
+        {
+            "code": "RUN",
+            "campus": "3",
+            "name": "RUNet Field Offices",
+            "id": "4168"
+        },
+        {
+            "code": "TED",
+            "campus": "3",
+            "name": "Thomas Edison Servic",
+            "id": "4053"
+        },
+        {
+            "code": "LPL",
+            "campus": "5",
+            "name": "Liberty Plaza",
+            "id": "3187"
+        },
+        {
+            "code": "MEB",
+            "campus": "5",
+            "name": "Medical Edu Building",
+            "id": "3184"
+        },
+        {
+            "code": "ADC",
+            "campus": "W",
+            "name": "Administrative Compl",
+            "id": "7267"
+        },
+        {
+            "code": "GFS",
+            "campus": "W",
+            "name": "George F. Smith Lib",
+            "id": "7254"
+        },
+        {
+            "code": "JCD",
+            "campus": "7",
+            "name": "John Cotton Dana Lib",
+            "id": "7219"
+        },
+        {
+            "code": "KNI",
+            "campus": "Z",
+            "name": "33 Knightsbridge Rd",
+            "id": "3912"
+        },
+        {
+            "code": "WFD",
+            "campus": "Z",
+            "name": "1 Worlds Fair Drive",
+            "id": "3191"
+        },
+        {
+            "code": "SFH",
+            "campus": "4",
+            "name": "Swine Farrowing Hse",
+            "id": "6022"
+        },
+        {
+            "code": "LTR",
+            "campus": "4",
+            "name": "Livestock Tch Rsrch",
+            "id": "6335"
+        },
+        {
+            "code": "CHF",
+            "campus": "4",
+            "name": "Cattle Handling Fac",
+            "id": "6028"
+        },
+        {
+            "code": "LB",
+            "campus": "4",
+            "name": "Livestock Barn",
+            "id": "6048"
+        },
+        {
+            "code": "LG",
+            "campus": "4",
+            "name": "Livestock Granary",
+            "id": "6012"
+        },
+        {
+            "code": "WDC",
+            "campus": "4",
+            "name": "Wood Lawn Carriage H",
+            "id": "8325"
+        },
+        {
+            "code": "CIN",
+            "campus": "5",
+            "name": "Cancer Inst of NJ",
+            "id": "3188"
+        },
+        {
+            "code": "ALX",
+            "campus": "1",
+            "name": "Alexander Library",
+            "id": "3107"
+        },
+        {
+            "code": "SPR",
+            "campus": "5",
+            "name": "1 Spring Street",
+            "id": "8823"
+        },
+        {
+            "code": "WRC",
+            "campus": "2",
+            "name": "Werblin Rec Center",
+            "id": "3881"
+        },
+        {
+            "code": "RWH",
+            "campus": "2",
+            "name": "Richard Weeks Hall",
+            "id": "3913"
+        },
+        {
+            "code": "ATS",
+            "campus": "6",
+            "name": "Artis Building",
+            "id": "7065"
+        },
+        {
+            "code": "CBM",
+            "campus": "2",
+            "name": "Biotech and Medicine",
+            "id": "3866"
+        },
+        {
+            "code": "HWD",
+            "campus": "5",
+            "name": "John Heldrich Center",
+            "id": "8853"
+        },
+        {
+            "code": "EOH",
+            "campus": "2",
+            "name": "Env Health Sci Inst",
+            "id": "3882"
+        },
+        {
+            "code": "LAF",
+            "campus": "1",
+            "name": "8 Lafayette St",
+            "id": "3161"
+        },
+        {
+            "code": "NAV",
+            "campus": "1",
+            "name": "12 Lafayette St",
+            "id": "3171"
+        },
+        {
+            "code": "RFP",
+            "campus": "W",
+            "name": "School of Public Hea",
+            "id": "8744"
+        },
+        {
+            "code": "GAI",
+            "campus": "1",
+            "name": "Global Advancement a",
+            "id": "3099"
+        },
+        {
+            "code": "GRD",
+            "campus": "1",
+            "name": "Graduate School Offi",
+            "id": "3056"
+        },
+        {
+            "code": "BEL",
+            "campus": "4",
+            "name": "Bioresource Engineer",
+            "id": "6058"
+        },
+        {
+            "code": "SWG",
+            "campus": "5",
+            "name": "School of Social Wor",
+            "id": "8862"
+        },
+        {
+            "code": "MX1",
+            "campus": "5",
+            "name": "Matrix Pl 1",
+            "id": "8825"
+        },
+        {
+            "code": "KEL",
+            "campus": "6",
+            "name": "Knight Early Academy",
+            "id": "7197"
+        },
+        {
+            "code": "REH",
+            "campus": "3",
+            "name": "Rutgers HealthSafety",
+            "id": "4115"
+        },
+        {
+            "code": "ICP",
+            "campus": "W",
+            "name": "International Center",
+            "id": "7255"
+        },
+        {
+            "code": "RQ",
+            "campus": "1",
+            "name": "31 Mine St. Raritan",
+            "id": "3131"
+        },
+        {
+            "code": "CWP",
+            "campus": "4",
+            "name": "Center Women's Progs",
+            "id": "8308"
+        },
+        {
+            "code": "MX2",
+            "campus": "5",
+            "name": "Matrix Pl 2",
+            "id": "7542"
+        },
+        {
+            "code": "HRL",
+            "campus": "4",
+            "name": "Headlee Research Lab",
+            "id": "6120"
+        },
+        {
+            "code": "LLC",
+            "campus": "4",
+            "name": "Lifelong Learning Ce",
+            "id": "7593"
+        },
+        {
+            "code": "HLY",
+            "campus": "4",
+            "name": "Holly House",
+            "id": "6102"
+        },
+        {
+            "code": "AS2",
+            "campus": "4",
+            "name": "Admin Services BldII",
+            "id": "7599"
+        },
+        {
+            "code": "RCD",
+            "campus": "1",
+            "name": "Records Hall",
+            "id": "3080"
+        },
+        {
+            "code": "EHS",
+            "campus": "3",
+            "name": "Rutgers Envir Health",
+            "id": "4116"
+        },
+        {
+            "code": "REL",
+            "campus": "1",
+            "name": "Religion",
+            "id": "3026"
+        },
+        {
+            "code": "KUP",
+            "campus": "N",
+            "name": "Kupfrian Hall",
+            "id": "9999"
+        },
+        {
+            "code": "FED",
+            "campus": "Z",
+            "name": "Federal Relations",
+            "id": "8868"
+        },
+        {
+            "code": "CHU",
+            "campus": "5",
+            "name": "123 Church Street",
+            "id": "8874"
+        },
+        {
+            "code": "PLM",
+            "campus": "5",
+            "name": "RWJMS at 10 Plum St",
+            "id": "8874"
+        },
+        {
+            "code": "DNR",
+            "campus": "1",
+            "name": "Deiner Park",
+            "id": "9813"
+        },
+        {
+            "code": "AUT",
+            "campus": "4",
+            "name": "Rutgers Adult Autism",
+            "id": "8445"
+        },
+        {
+            "code": "PSA",
+            "campus": "3",
+            "name": "Pltry Sml Animal Rch",
+            "id": "6040"
+        },
+        {
+            "code": "PRH",
+            "campus": "2",
+            "name": "S.Dewitt Proctor Hal",
+            "id": "3751"
+        },
+        {
+            "code": "48N",
+            "campus": "7",
+            "name": "Honors LLC",
+            "id": "7327"
+        },
+        {
+            "code": "WIL",
+            "campus": "4",
+            "name": "Willets Hall",
+            "id": "8394"
+        },
+        {
+            "code": "ECP",
+            "campus": "3",
+            "name": "Rutgers Eco Preserve",
+            "id": "9912"
+        },
+        {
+            "code": "WRN",
+            "campus": "7",
+            "name": "110 Warren St",
+            "id": "7230"
+        },
+        {
+            "code": "DWC",
+            "campus": "4",
+            "name": "Doug/Cook Write Ctr",
+            "id": "8301"
+        },
+        {
+            "code": "BC",
+            "campus": "1",
+            "name": "Bildner Ctr",
+            "id": "3101"
+        },
+        {
+            "code": "DSC",
+            "campus": "4",
+            "name": "Douglass Student Ctr",
+            "id": "8320"
+        },
+        {
+            "code": "RDK",
+            "campus": "2",
+            "name": "Rodkin Aca Succ Ctr",
+            "id": "3891"
+        },
+        {
+            "code": "BSC",
+            "campus": "2",
+            "name": "Busch Student Center",
+            "id": "3834"
+        },
+        {
+            "code": "CHN",
+            "campus": "7",
+            "name": "45 Bleeker St",
+            "id": "7241"
+        },
+        {
+            "code": "CSC",
+            "campus": "4",
+            "name": "Cook Student Center",
+            "id": "6290"
+        },
+        {
+            "code": "OQ",
+            "campus": "1",
+            "name": "Old Queens",
+            "id": "3000"
+        },
+        {
+            "code": "INN",
+            "campus": "4",
+            "name": "University Inn",
+            "id": "8334"
+        },
+        {
+            "code": "SHP",
+            "campus": "2",
+            "name": "School of Health Pro",
+            "id": "3693"
+        },
+        {
+            "code": "THS",
+            "campus": "1",
+            "name": "NB Theol. Sem",
+            "id": "9004"
+        },
+        {
+            "code": "GSL",
+            "campus": "1",
+            "name": "Gardner A. Sage Lib",
+            "id": "9003"
+        },
+        {
+            "code": "RUH",
+            "campus": "5",
+            "name": "RWJ Univ Hospital",
+            "id": "8703"
+        },
+        {
+            "code": "RBG",
+            "campus": "7",
+            "name": "R B Ginsberg Hall",
+            "id": "7498"
+        },
+        {
+            "code": "CPI",
+            "campus": "7",
+            "name": "Clements Price Inst",
+            "id": "7243"
+        },
+        {
+            "code": "CAD",
+            "campus": "6",
+            "name": "Camden Admin Buildg",
+            "id": "7006"
+        },
+        {
+            "code": "UCE",
+            "campus": "1",
+            "name": "Univ Ctr Pkg Deck",
+            "id": "3154"
+        }
+    ],
+    "coreCodes": [
+        {
+            "code": "AHo",
+            "campus": "NB",
+            "description": "Philosophical and Theoretical Issues",
+            "id": 16,
+            "label": "Philosophical and Theoretical Issues (AHo)"
+        },
+        {
+            "code": "AHp",
+            "campus": "NB",
+            "description": "Arts and Literatures",
+            "id": 17,
+            "label": "Arts and Literatures (AHp)"
+        },
+        {
+            "code": "AHq",
+            "campus": "NB",
+            "description": "Nature of Languages",
+            "id": 18,
+            "label": "Nature of Languages (AHq)"
+        },
+        {
+            "code": "AHr",
+            "campus": "NB",
+            "description": "Critical Creative Expression",
+            "id": 19,
+            "label": "Critical Creative Expression (AHr)"
+        },
+        {
+            "code": "CC",
+            "campus": "NB",
+            "description": "Contemporary Challeges - See CCD and CCO",
+            "id": 15,
+            "label": "Contemporary Challeges - See CCD and CCO (CC)"
+        },
+        {
+            "code": "CCD",
+            "campus": "NB",
+            "description": "Diversities and Social Inequalities",
+            "id": 78585,
+            "label": "Diversities and Social Inequalities (CCD)"
+        },
+        {
+            "code": "CCO",
+            "campus": "NB",
+            "description": "Our Common Future",
+            "id": 78586,
+            "label": "Our Common Future (CCO)"
+        },
+        {
+            "code": "ECN",
+            "campus": "NB",
+            "description": "SEBS Only: Economic Analysis",
+            "id": 81,
+            "label": "SEBS Only: Economic Analysis (ECN)"
+        },
+        {
+            "code": "GVT",
+            "campus": "NB",
+            "description": "SEBS Only: Government/Regulatory Analysis",
+            "id": 82,
+            "label": "SEBS Only: Government/Regulatory Analysis (GVT)"
+        },
+        {
+            "code": "HST",
+            "campus": "NB",
+            "description": "Historical Analysis",
+            "id": 20,
+            "label": "Historical Analysis (HST)"
+        },
+        {
+            "code": "ITR",
+            "campus": "NB",
+            "description": "Information Technology and Research",
+            "id": 21,
+            "label": "Information Technology and Research (ITR)"
+        },
+        {
+            "code": "NS",
+            "campus": "NB",
+            "description": "Natural Sciences",
+            "id": 22,
+            "label": "Natural Sciences (NS)"
+        },
+        {
+            "code": "QQ",
+            "campus": "NB",
+            "description": "Quantitative Information",
+            "id": 23,
+            "label": "Quantitative Information (QQ)"
+        },
+        {
+            "code": "QR",
+            "campus": "NB",
+            "description": "Mathematical or Formal Reasoning",
+            "id": 24,
+            "label": "Mathematical or Formal Reasoning (QR)"
+        },
+        {
+            "code": "SCL",
+            "campus": "NB",
+            "description": "Social Analysis",
+            "id": 25,
+            "label": "Social Analysis (SCL)"
+        },
+        {
+            "code": "WC",
+            "campus": "NB",
+            "description": "Writing and Communication 01:355:101",
+            "id": 26,
+            "label": "Writing and Communication 01:355:101 (WC)"
+        },
+        {
+            "code": "WCd",
+            "campus": "NB",
+            "description": "Writing and Communication in a Discipline",
+            "id": 27,
+            "label": "Writing and Communication in a Discipline (WCd)"
+        },
+        {
+            "code": "WCr",
+            "campus": "NB",
+            "description": "Writing and Communication, Revision",
+            "id": 28,
+            "label": "Writing and Communication, Revision (WCr)"
+        },
+        {
+            "code": "Art:M",
+            "campus": "NK",
+            "description": "Arts & Media",
+            "id": 29,
+            "label": "Arts & Media (Art:M)"
+        },
+        {
+            "code": "HL:Hi",
+            "campus": "NK",
+            "description": "History & Literature, History",
+            "id": 30,
+            "label": "History & Literature, History (HL:Hi)"
+        },
+        {
+            "code": "HL:Lt",
+            "campus": "NK",
+            "description": "History & Literature, Literature",
+            "id": 31,
+            "label": "History & Literature, Literature (HL:Lt)"
+        },
+        {
+            "code": "NatSc",
+            "campus": "NK",
+            "description": "Natural Sciences",
+            "id": 32,
+            "label": "Natural Sciences (NatSc)"
+        },
+        {
+            "code": "OLibA",
+            "campus": "NK",
+            "description": "Other Liberal Arts",
+            "id": 33,
+            "label": "Other Liberal Arts (OLibA)"
+        },
+        {
+            "code": "SocSc",
+            "campus": "NK",
+            "description": "Social Sciences",
+            "id": 34,
+            "label": "Social Sciences (SocSc)"
+        },
+        {
+            "code": "_NA1",
+            "campus": "CM",
+            "description": "Effective Fall 2017",
+            "id": -1,
+            "label": "---- EFFECTIVE FALL 2017 (Incoming 1st Time, 1st Year Students / Fall 2018 Transfers)"
+        },
+        {
+            "code": "AAI",
+            "campus": "CM",
+            "description": "Art, Aesthetics, and Theories of Interpretation",
+            "id": 1,
+            "label": "Art, Aesthetics, and Theories of Interpretation (AAI)"
+        },
+        {
+            "code": "DIV",
+            "campus": "CM",
+            "description": "Multicultural Diversity in the US",
+            "id": 3,
+            "label": "Multicultural Diversity in the US (DIV)"
+        },
+        {
+            "code": "EAV",
+            "campus": "CM",
+            "description": "Ethics and Values",
+            "id": 4,
+            "label": "Ethics and Values (EAV)"
+        },
+        {
+            "code": "ECL",
+            "campus": "CM",
+            "description": "Engaged Civic Learning",
+            "id": 5,
+            "label": "Engaged Civic Learning (ECL)"
+        },
+        {
+            "code": "GCM",
+            "campus": "CM",
+            "description": "Global Communities",
+            "id": 7,
+            "label": "Global Communities (GCM)"
+        },
+        {
+            "code": "HAC",
+            "campus": "CM",
+            "description": "Heritages and Civilizations",
+            "id": 8,
+            "label": "Heritages and Civilizations (HAC)"
+        },
+        {
+            "code": "LQR",
+            "campus": "CM",
+            "description": "Logical and Quantitative Reasoning",
+            "id": 9,
+            "label": "Logical and Quantitative Reasoning (LQR)"
+        },
+        {
+            "code": "PLS",
+            "campus": "CM",
+            "description": "Physical and Life Sciences",
+            "id": 11,
+            "label": "Physical and Life Sciences (PLS)"
+        },
+        {
+            "code": "USW",
+            "campus": "CM",
+            "description": "United States in the World",
+            "id": 12,
+            "label": "United States in the World (USW)"
+        },
+        {
+            "code": "WRI",
+            "campus": "CM",
+            "description": "Writing Intensive Practice",
+            "id": 13,
+            "label": "Writing Intensive Practice (WRI)"
+        },
+        {
+            "code": "XPL",
+            "campus": "CM",
+            "description": "Experiential Learning",
+            "id": 14,
+            "label": "Experiential Learning (XPL)"
+        },
+        {
+            "code": "_NA2",
+            "campus": "CM",
+            "description": "Prior to Fall 2017",
+            "id": -2,
+            "label": "---- PRIOR TO FALL 2017 (Continuing Matriculated Undergraduate Students)"
+        },
+        {
+            "code": "C",
+            "campus": "CM",
+            "description": "Civilization & Heritages",
+            "id": 41,
+            "label": "Civilization & Heritages (C)"
+        },
+        {
+            "code": "D",
+            "campus": "CM",
+            "description": "Diversity",
+            "id": 42,
+            "label": "Diversity (D)"
+        },
+        {
+            "code": "G",
+            "campus": "CM",
+            "description": "Global Studies",
+            "id": 44,
+            "label": "Global Studies (G)"
+        },
+        {
+            "code": "W",
+            "campus": "CM",
+            "description": "Writing Course",
+            "id": 45,
+            "label": "Writing Course (W)"
+        }
+    ],
+    "subjects": [
+        {
+            "description": "Academic Foundations",
+            "code": "003"
+        },
+        {
+            "description": "Academic Studies",
+            "code": "005"
+        },
+        {
+            "description": "Academic and Student Development",
+            "code": "907"
+        },
+        {
+            "description": "Accounting",
+            "code": "010"
+        },
+        {
+            "description": "Administration of Justice",
+            "code": "012"
+        },
+        {
+            "description": "Administrative Studies",
+            "code": "011"
+        },
+        {
+            "description": "Aerospace Engineering",
+            "code": "021"
+        },
+        {
+            "description": "African Studies",
+            "code": "016"
+        },
+        {
+            "description": "African, Middle Eastern, and South Asian Languages and Literatures",
+            "code": "013"
+        },
+        {
+            "description": "Africana Studies",
+            "code": "014"
+        },
+        {
+            "description": "Aging",
+            "code": "018"
+        },
+        {
+            "description": "Agricultural Economic Marketing",
+            "code": "030"
+        },
+        {
+            "description": "Agricultural Engineering",
+            "code": "040"
+        },
+        {
+            "description": "Agricultural Microbiology",
+            "code": "045"
+        },
+        {
+            "description": "Agricultural and Natural Resource Management",
+            "code": "035"
+        },
+        {
+            "description": "Agriculture and Food Systems",
+            "code": "020"
+        },
+        {
+            "description": "Alcohol Studies",
+            "code": "047"
+        },
+        {
+            "description": "American Language Studies",
+            "code": "049"
+        },
+        {
+            "description": "American Studies",
+            "code": "050"
+        },
+        {
+            "description": "Anatomy",
+            "code": "055"
+        },
+        {
+            "description": "Ancient Mediterranean Civilizations",
+            "code": "059"
+        },
+        {
+            "description": "Ancient and Medieval Civilizations",
+            "code": "060"
+        },
+        {
+            "description": "Anesthesiology",
+            "code": "064"
+        },
+        {
+            "description": "Animal Pathology",
+            "code": "065"
+        },
+        {
+            "description": "Animal Science",
+            "code": "067"
+        },
+        {
+            "description": "Anthropology",
+            "code": "070"
+        },
+        {
+            "description": "Applied Mathematics",
+            "code": "642"
+        },
+        {
+            "description": "Applied Physics",
+            "code": "755"
+        },
+        {
+            "description": "Applied Psychology",
+            "code": "076"
+        },
+        {
+            "description": "Applied Science",
+            "code": "073"
+        },
+        {
+            "description": "Arabic Languages",
+            "code": "074"
+        },
+        {
+            "description": "Archaeology",
+            "code": "075"
+        },
+        {
+            "description": "Armenian",
+            "code": "078"
+        },
+        {
+            "description": "Art",
+            "code": "080"
+        },
+        {
+            "description": "Art",
+            "code": "081"
+        },
+        {
+            "description": "Art History",
+            "code": "082"
+        },
+        {
+            "description": "Arts Management",
+            "code": "084"
+        },
+        {
+            "description": "Arts and Sciences",
+            "code": "090"
+        },
+        {
+            "description": "Arts, Culture, and Media",
+            "code": "083"
+        },
+        {
+            "description": "Asian Studies",
+            "code": "098"
+        },
+        {
+            "description": "Astronomy",
+            "code": "100"
+        },
+        {
+            "description": "Astrophysics",
+            "code": "105"
+        },
+        {
+            "description": "Atmospheric Science",
+            "code": "107"
+        },
+        {
+            "description": "Bacteriology",
+            "code": "110"
+        },
+        {
+            "description": "Behavioral and Neural Sciences",
+            "code": "112"
+        },
+        {
+            "description": "Biochemistry",
+            "code": "115"
+        },
+        {
+            "description": "Bioenvironmental Engineering",
+            "code": "116"
+        },
+        {
+            "description": "Bioenvironmental Engineering",
+            "code": "117"
+        },
+        {
+            "description": "Biological Sciences",
+            "code": "119"
+        },
+        {
+            "description": "Biology",
+            "code": "120"
+        },
+        {
+            "description": "Biology - Environmental",
+            "code": "123"
+        },
+        {
+            "description": "Biology: Computational and Integrative",
+            "code": "121"
+        },
+        {
+            "description": "Biomaps",
+            "code": "118"
+        },
+        {
+            "description": "Biomaterials and Biofabrication",
+            "code": "133"
+        },
+        {
+            "description": "Biomathematics",
+            "code": "122"
+        },
+        {
+            "description": "Biomedical Engineering",
+            "code": "125"
+        },
+        {
+            "description": "Biomedical Informatics",
+            "code": "139"
+        },
+        {
+            "description": "Biomedical Sciences",
+            "code": "132"
+        },
+        {
+            "description": "Biomedical Technology",
+            "code": "124"
+        },
+        {
+            "description": "Bioresource Engineering",
+            "code": "127"
+        },
+        {
+            "description": "Biostatistics",
+            "code": "114"
+        },
+        {
+            "description": "Biotechnology",
+            "code": "126"
+        },
+        {
+            "description": "Botany",
+            "code": "130"
+        },
+        {
+            "description": "Botany and Plant Physiology",
+            "code": "131"
+        },
+        {
+            "description": "Business Administration",
+            "code": "135"
+        },
+        {
+            "description": "Business Analytics",
+            "code": "141"
+        },
+        {
+            "description": "Business Analytics and Information Technology",
+            "code": "136"
+        },
+        {
+            "description": "Business Communication",
+            "code": "142"
+        },
+        {
+            "description": "Business Law",
+            "code": "140"
+        },
+        {
+            "description": "Business and Science",
+            "code": "137"
+        },
+        {
+            "description": "Business of Fashion",
+            "code": "134"
+        },
+        {
+            "description": "Business, International",
+            "code": "138"
+        },
+        {
+            "description": "Catalan",
+            "code": "145"
+        },
+        {
+            "description": "Cell Biology and Neuroscience",
+            "code": "146"
+        },
+        {
+            "description": "Cell and Developmental Biology",
+            "code": "148"
+        },
+        {
+            "description": "Central and East European Studies",
+            "code": "149"
+        },
+        {
+            "description": "Ceramic and Materials Engineering",
+            "code": "150"
+        },
+        {
+            "description": "Chemical Biology",
+            "code": "158"
+        },
+        {
+            "description": "Chemical and Biochemical Engineering",
+            "code": "155"
+        },
+        {
+            "description": "Chemistry",
+            "code": "160"
+        },
+        {
+            "description": "Childhood Studies",
+            "code": "163"
+        },
+        {
+            "description": "Chinese",
+            "code": "165"
+        },
+        {
+            "description": "Chinese Studies",
+            "code": "170"
+        },
+        {
+            "description": "Cinema Studies",
+            "code": "175"
+        },
+        {
+            "description": "Civic Engagement",
+            "code": "178"
+        },
+        {
+            "description": "Civil and Environmental Engineering",
+            "code": "180"
+        },
+        {
+            "description": "Classics",
+            "code": "190"
+        },
+        {
+            "description": "Clinical Laboratory Science",
+            "code": "191"
+        },
+        {
+            "description": "Clinical Psychology",
+            "code": "821"
+        },
+        {
+            "description": "Clinical and Translational Sciences",
+            "code": "183"
+        },
+        {
+            "description": "Cognitive Science",
+            "code": "185"
+        },
+        {
+            "description": "College Teaching",
+            "code": "186"
+        },
+        {
+            "description": "College and University Leadership",
+            "code": "187"
+        },
+        {
+            "description": "Communication",
+            "code": "192"
+        },
+        {
+            "description": "Communication and Information Studies",
+            "code": "194"
+        },
+        {
+            "description": "Communication and Media Studies",
+            "code": "189"
+        },
+        {
+            "description": "Community Health Outreach",
+            "code": "193"
+        },
+        {
+            "description": "Comparative Literature",
+            "code": "195"
+        },
+        {
+            "description": "Computational Biology",
+            "code": "197"
+        },
+        {
+            "description": "Computer Science",
+            "code": "198"
+        },
+        {
+            "description": "Computer and Information Sciences",
+            "code": "196"
+        },
+        {
+            "description": "Cooperative Education",
+            "code": "199"
+        },
+        {
+            "description": "Core Courses",
+            "code": "188"
+        },
+        {
+            "description": "Creative Writing",
+            "code": "200"
+        },
+        {
+            "description": "Criminal Justice",
+            "code": "202"
+        },
+        {
+            "description": "Dance",
+            "code": "206"
+        },
+        {
+            "description": "Dance",
+            "code": "203"
+        },
+        {
+            "description": "Dance Education",
+            "code": "207"
+        },
+        {
+            "description": "Data Science",
+            "code": "219"
+        },
+        {
+            "description": "Dental Public Health",
+            "code": "201"
+        },
+        {
+            "description": "Dental Science",
+            "code": "213"
+        },
+        {
+            "description": "Dermatology",
+            "code": "205"
+        },
+        {
+            "description": "Design",
+            "code": "208"
+        },
+        {
+            "description": "Digital Filmmaking",
+            "code": "211"
+        },
+        {
+            "description": "Digital Studies",
+            "code": "209"
+        },
+        {
+            "description": "Earth System Science",
+            "code": "218"
+        },
+        {
+            "description": "East Asian Languages and Area Studies",
+            "code": "214"
+        },
+        {
+            "description": "East Asian Languages and Cultures",
+            "code": "217"
+        },
+        {
+            "description": "Ecology",
+            "code": "215"
+        },
+        {
+            "description": "Ecology and Natural Resources",
+            "code": "704"
+        },
+        {
+            "description": "Ecology, Evolution and Natural Resources",
+            "code": "216"
+        },
+        {
+            "description": "Economics",
+            "code": "220"
+        },
+        {
+            "description": "Economics, Applied",
+            "code": "223"
+        },
+        {
+            "description": "Education",
+            "code": "300"
+        },
+        {
+            "description": "Education-Adult and Continuing Ed",
+            "code": "233"
+        },
+        {
+            "description": "Education-College Student Affairs",
+            "code": "245"
+        },
+        {
+            "description": "Education-Counseling Psychology",
+            "code": "297"
+        },
+        {
+            "description": "Education-Counseling Psychology and Dev",
+            "code": "298"
+        },
+        {
+            "description": "Education-Creative Arts Ed",
+            "code": "259"
+        },
+        {
+            "description": "Education-Creative Arts Ed",
+            "code": "270"
+        },
+        {
+            "description": "Education-Curriculum Instruction",
+            "code": "320"
+        },
+        {
+            "description": "Education-Design of Learning Contexts",
+            "code": "262"
+        },
+        {
+            "description": "Education-Early Child/Elementary Ed",
+            "code": "251"
+        },
+        {
+            "description": "Education-Educ Stats and Measurementnt",
+            "code": "291"
+        },
+        {
+            "description": "Education-Education Electives",
+            "code": "255"
+        },
+        {
+            "description": "Education-Education, Culture, and Society",
+            "code": "265"
+        },
+        {
+            "description": "Education-Educational Admin, Superv, and Adult Ed",
+            "code": "230"
+        },
+        {
+            "description": "Education-Educational Leadership",
+            "code": "260"
+        },
+        {
+            "description": "Education-Educational Psychology",
+            "code": "290"
+        },
+        {
+            "description": "Education-Elementary Ed",
+            "code": "240"
+        },
+        {
+            "description": "Education-English/Language Arts Ed",
+            "code": "252"
+        },
+        {
+            "description": "Education-General Elective",
+            "code": "250"
+        },
+        {
+            "description": "Education-Gifted Education",
+            "code": "294"
+        },
+        {
+            "description": "Education-Higher Education",
+            "code": "507"
+        },
+        {
+            "description": "Education-Language Ed",
+            "code": "253"
+        },
+        {
+            "description": "Education-Learning, Cognition, and Dev",
+            "code": "295"
+        },
+        {
+            "description": "Education-Literacy Education",
+            "code": "618"
+        },
+        {
+            "description": "Education-Mathematics Ed",
+            "code": "254"
+        },
+        {
+            "description": "Education-Medical and Health Professions",
+            "code": "296"
+        },
+        {
+            "description": "Education-Reading",
+            "code": "299"
+        },
+        {
+            "description": "Education-Science Ed",
+            "code": "256"
+        },
+        {
+            "description": "Education-Social Ed",
+            "code": "257"
+        },
+        {
+            "description": "Education-Social and Philosoph Found of Ed",
+            "code": "310"
+        },
+        {
+            "description": "Education-Special Education",
+            "code": "293"
+        },
+        {
+            "description": "Education-Teacher Leadership",
+            "code": "267"
+        },
+        {
+            "description": "Education-Vocational/Technical Ed",
+            "code": "288"
+        },
+        {
+            "description": "Educational Opportunity Fund",
+            "code": "364"
+        },
+        {
+            "description": "Elective Course",
+            "code": "322"
+        },
+        {
+            "description": "Electrical Engineering",
+            "code": "330"
+        },
+        {
+            "description": "Electrical and Computer Engineering",
+            "code": "332"
+        },
+        {
+            "description": "Electrical and Computer Engineering",
+            "code": "333"
+        },
+        {
+            "description": "Emergency Medicine",
+            "code": "325"
+        },
+        {
+            "description": "Endocrinology and Animal Biosciences",
+            "code": "340"
+        },
+        {
+            "description": "Energy",
+            "code": "335"
+        },
+        {
+            "description": "Energy Systems",
+            "code": "336"
+        },
+        {
+            "description": "Energy Systems",
+            "code": "346"
+        },
+        {
+            "description": "Engineering Management",
+            "code": "345"
+        },
+        {
+            "description": "English",
+            "code": "350"
+        },
+        {
+            "description": "English - American Language Studies",
+            "code": "357"
+        },
+        {
+            "description": "English - American Literature",
+            "code": "352"
+        },
+        {
+            "description": "English - Composition and Writing",
+            "code": "355"
+        },
+        {
+            "description": "English - Creative Writing",
+            "code": "351"
+        },
+        {
+            "description": "English - Film Studies",
+            "code": "354"
+        },
+        {
+            "description": "English - Literary Theory",
+            "code": "353"
+        },
+        {
+            "description": "English - Literature",
+            "code": "358"
+        },
+        {
+            "description": "English - Theories and Methods",
+            "code": "359"
+        },
+        {
+            "description": "English as a Second Language",
+            "code": "356"
+        },
+        {
+            "description": "Entomology",
+            "code": "370"
+        },
+        {
+            "description": "Entomology and Economic Zoology",
+            "code": "369"
+        },
+        {
+            "description": "Entrepreneurship",
+            "code": "382"
+        },
+        {
+            "description": "Environmental Change, Human Dimension",
+            "code": "378"
+        },
+        {
+            "description": "Environmental Geology",
+            "code": "380"
+        },
+        {
+            "description": "Environmental Planning",
+            "code": "368"
+        },
+        {
+            "description": "Environmental Planning and Design",
+            "code": "573"
+        },
+        {
+            "description": "Environmental Planning and Geomatics",
+            "code": "372"
+        },
+        {
+            "description": "Environmental Policy, Institutions and Behavior",
+            "code": "374"
+        },
+        {
+            "description": "Environmental Sciences",
+            "code": "375"
+        },
+        {
+            "description": "Environmental Studies",
+            "code": "381"
+        },
+        {
+            "description": "Environmental and Biological Sciences",
+            "code": "015"
+        },
+        {
+            "description": "Environmental and Business Economics",
+            "code": "373"
+        },
+        {
+            "description": "Environmental and Occupational Health",
+            "code": "371"
+        },
+        {
+            "description": "Environmental and Occupational Medicine",
+            "code": "379"
+        },
+        {
+            "description": "Epidemiology",
+            "code": "383"
+        },
+        {
+            "description": "Epidemiology & Quantitative",
+            "code": "384"
+        },
+        {
+            "description": "Ethics in Business Environment",
+            "code": "522"
+        },
+        {
+            "description": "European Studies",
+            "code": "360"
+        },
+        {
+            "description": "Exchange",
+            "code": "001"
+        },
+        {
+            "description": "Exchange Registration",
+            "code": "376"
+        },
+        {
+            "description": "Executive MBA Program",
+            "code": "385"
+        },
+        {
+            "description": "Exercise Science",
+            "code": "377"
+        },
+        {
+            "description": "Family Health",
+            "code": "388"
+        },
+        {
+            "description": "Family Medicine",
+            "code": "386"
+        },
+        {
+            "description": "Field Work",
+            "code": "391"
+        },
+        {
+            "description": "Film Studies",
+            "code": "387"
+        },
+        {
+            "description": "Finance",
+            "code": "390"
+        },
+        {
+            "description": "Financial Analysis",
+            "code": "430"
+        },
+        {
+            "description": "Financial Planning",
+            "code": "393"
+        },
+        {
+            "description": "Fisheries Science",
+            "code": "392"
+        },
+        {
+            "description": "Food Science",
+            "code": "400"
+        },
+        {
+            "description": "Food and Business Economics",
+            "code": "395"
+        },
+        {
+            "description": "Foreign Languages",
+            "code": "410"
+        },
+        {
+            "description": "Foreign Languages",
+            "code": "415"
+        },
+        {
+            "description": "Forensic Science",
+            "code": "412"
+        },
+        {
+            "description": "French",
+            "code": "420"
+        },
+        {
+            "description": "Gender Studies",
+            "code": "443"
+        },
+        {
+            "description": "General Education Requirements Met",
+            "code": "999"
+        },
+        {
+            "description": "General Engineering",
+            "code": "440"
+        },
+        {
+            "description": "Genetics",
+            "code": "447"
+        },
+        {
+            "description": "Genetics & Microbiology",
+            "code": "448"
+        },
+        {
+            "description": "Geo-Spatial Information Science",
+            "code": "455"
+        },
+        {
+            "description": "Geography",
+            "code": "450"
+        },
+        {
+            "description": "Geological Sciences",
+            "code": "460"
+        },
+        {
+            "description": "German",
+            "code": "470"
+        },
+        {
+            "description": "Global Affairs",
+            "code": "478"
+        },
+        {
+            "description": "Global Sport Business",
+            "code": "475"
+        },
+        {
+            "description": "Global Studies",
+            "code": "480"
+        },
+        {
+            "description": "Graduate - Newark",
+            "code": "485"
+        },
+        {
+            "description": "Graduate Student Professional Development",
+            "code": "486"
+        },
+        {
+            "description": "Graphic Design",
+            "code": "085"
+        },
+        {
+            "description": "Greek",
+            "code": "490"
+        },
+        {
+            "description": "Greek, Modern",
+            "code": "489"
+        },
+        {
+            "description": "Health Administration",
+            "code": "501"
+        },
+        {
+            "description": "Health Care Organization & Admin",
+            "code": "492"
+        },
+        {
+            "description": "Health Communication and Information",
+            "code": "503"
+        },
+        {
+            "description": "Health Education & Behavioral Sciences",
+            "code": "498"
+        },
+        {
+            "description": "Health Education and Behavioral Sciences",
+            "code": "493"
+        },
+        {
+            "description": "Health Information Management",
+            "code": "504"
+        },
+        {
+            "description": "Health Outcomes, Policy and Economics",
+            "code": "502"
+        },
+        {
+            "description": "Health Policy & Admin.",
+            "code": "491"
+        },
+        {
+            "description": "Health Sciences",
+            "code": "499"
+        },
+        {
+            "description": "Health Services Management",
+            "code": "497"
+        },
+        {
+            "description": "Health Systems and Policy",
+            "code": "494"
+        },
+        {
+            "description": "Health, Physical Ed, Sport, Rec",
+            "code": "496"
+        },
+        {
+            "description": "Health, Physical Education and Sport Studies",
+            "code": "495"
+        },
+        {
+            "description": "Hebraic Studies",
+            "code": "500"
+        },
+        {
+            "description": "Hindi",
+            "code": "505"
+        },
+        {
+            "description": "Historical Methods and Skills",
+            "code": "509"
+        },
+        {
+            "description": "History",
+            "code": "510"
+        },
+        {
+            "description": "History - Africa, Asia, Latin America",
+            "code": "508"
+        },
+        {
+            "description": "History - American",
+            "code": "512"
+        },
+        {
+            "description": "History - French",
+            "code": "513"
+        },
+        {
+            "description": "History - General/Comparative",
+            "code": "506"
+        },
+        {
+            "description": "History - World: African, Asian, Latin American",
+            "code": "516"
+        },
+        {
+            "description": "Home Economics",
+            "code": "520"
+        },
+        {
+            "description": "Honors Living-Learning Community",
+            "code": "526"
+        },
+        {
+            "description": "Honors Program",
+            "code": "525"
+        },
+        {
+            "description": "Horticulture",
+            "code": "530"
+        },
+        {
+            "description": "Hospitality Management",
+            "code": "537"
+        },
+        {
+            "description": "Human Ecology",
+            "code": "532"
+        },
+        {
+            "description": "Human Resource Management",
+            "code": "533"
+        },
+        {
+            "description": "Human-Computer Interaction",
+            "code": "531"
+        },
+        {
+            "description": "Humanities",
+            "code": "534"
+        },
+        {
+            "description": "Hungarian",
+            "code": "535"
+        },
+        {
+            "description": "Industrial Relations and Human Resources",
+            "code": "545"
+        },
+        {
+            "description": "Industrial and Systems Engineering",
+            "code": "540"
+        },
+        {
+            "description": "Informatics",
+            "code": "543"
+        },
+        {
+            "description": "Information Systems",
+            "code": "548"
+        },
+        {
+            "description": "Information Technology",
+            "code": "544"
+        },
+        {
+            "description": "Information Technology and Informatics",
+            "code": "547"
+        },
+        {
+            "description": "Instruction and Research Development",
+            "code": "908"
+        },
+        {
+            "description": "Integrative Neuroscience",
+            "code": "546"
+        },
+        {
+            "description": "Interdisciplinary - Mason Gross",
+            "code": "557"
+        },
+        {
+            "description": "Interdisciplinary Studies",
+            "code": "555"
+        },
+        {
+            "description": "Interdisciplinary Studies",
+            "code": "554"
+        },
+        {
+            "description": "Interdisciplinary Studies - Arts and Sciences",
+            "code": "556"
+        },
+        {
+            "description": "Interfunctional",
+            "code": "621"
+        },
+        {
+            "description": "International Business",
+            "code": "553"
+        },
+        {
+            "description": "International Business and Business Environment",
+            "code": "552"
+        },
+        {
+            "description": "International Environmental Studies",
+            "code": "559"
+        },
+        {
+            "description": "International Studies",
+            "code": "558"
+        },
+        {
+            "description": "International Studies",
+            "code": "549"
+        },
+        {
+            "description": "Italian",
+            "code": "560"
+        },
+        {
+            "description": "Japanese",
+            "code": "565"
+        },
+        {
+            "description": "Jazz History and Research",
+            "code": "561"
+        },
+        {
+            "description": "Jewish Studies",
+            "code": "563"
+        },
+        {
+            "description": "Journalism",
+            "code": "570"
+        },
+        {
+            "description": "Journalism - Newark",
+            "code": "086"
+        },
+        {
+            "description": "Journalism and Mass Media",
+            "code": "571"
+        },
+        {
+            "description": "Journalism and Media Studies",
+            "code": "567"
+        },
+        {
+            "description": "Justice Studies",
+            "code": "564"
+        },
+        {
+            "description": "Justice Studies",
+            "code": "204"
+        },
+        {
+            "description": "Kinesiology and Applied Physiology",
+            "code": "572"
+        },
+        {
+            "description": "Korean",
+            "code": "574"
+        },
+        {
+            "description": "Labor Studies",
+            "code": "575"
+        },
+        {
+            "description": "Labor Studies and Employment Relations",
+            "code": "578"
+        },
+        {
+            "description": "Labor and Employment Relations",
+            "code": "579"
+        },
+        {
+            "description": "Landscape Architecture",
+            "code": "550"
+        },
+        {
+            "description": "Languages and Cultures",
+            "code": "617"
+        },
+        {
+            "description": "Latin",
+            "code": "580"
+        },
+        {
+            "description": "Latin American Studies",
+            "code": "590"
+        },
+        {
+            "description": "Latino and Hispanic Caribbean Studies",
+            "code": "595"
+        },
+        {
+            "description": "Law",
+            "code": "600"
+        },
+        {
+            "description": "Law",
+            "code": "601"
+        },
+        {
+            "description": "Law, Professional Skills",
+            "code": "602"
+        },
+        {
+            "description": "Leadership",
+            "code": "609"
+        },
+        {
+            "description": "Leadership Skills",
+            "code": "607"
+        },
+        {
+            "description": "Leadership and Management",
+            "code": "605"
+        },
+        {
+            "description": "Liberal Studies",
+            "code": "606"
+        },
+        {
+            "description": "Library Service, Professional Improvement",
+            "code": "611"
+        },
+        {
+            "description": "Library and Information Science",
+            "code": "610"
+        },
+        {
+            "description": "Linguistics",
+            "code": "615"
+        },
+        {
+            "description": "Literatures in English",
+            "code": "616"
+        },
+        {
+            "description": "Management",
+            "code": "620"
+        },
+        {
+            "description": "Management Information Systems",
+            "code": "625"
+        },
+        {
+            "description": "Management Science and Information Systems",
+            "code": "623"
+        },
+        {
+            "description": "Management and Work",
+            "code": "624"
+        },
+        {
+            "description": "Managerial Economics",
+            "code": "626"
+        },
+        {
+            "description": "Marine Sciences",
+            "code": "628"
+        },
+        {
+            "description": "Marine and Coastal Sciences",
+            "code": "629"
+        },
+        {
+            "description": "Marketing",
+            "code": "630"
+        },
+        {
+            "description": "Mason Gross - Arts Online",
+            "code": "631"
+        },
+        {
+            "description": "Mason Gross - Digital Filmmaking",
+            "code": "632"
+        },
+        {
+            "description": "Materials Science and Engineering",
+            "code": "635"
+        },
+        {
+            "description": "Materials Science and Engineering",
+            "code": "636"
+        },
+        {
+            "description": "Mathematical Science",
+            "code": "645"
+        },
+        {
+            "description": "Mathematics",
+            "code": "643"
+        },
+        {
+            "description": "Mathematics",
+            "code": "640"
+        },
+        {
+            "description": "Mathematics for Teachers",
+            "code": "644"
+        },
+        {
+            "description": "Mechanical and Aerospace Engineering",
+            "code": "650"
+        },
+        {
+            "description": "Mechanics",
+            "code": "654"
+        },
+        {
+            "description": "Mechanics and Materials Science",
+            "code": "655"
+        },
+        {
+            "description": "Media Studies",
+            "code": "657"
+        },
+        {
+            "description": "Medical Ethics and Policy",
+            "code": "652"
+        },
+        {
+            "description": "Medical Imaging",
+            "code": "658"
+        },
+        {
+            "description": "Medical Technology",
+            "code": "660"
+        },
+        {
+            "description": "Medicinal Chemistry",
+            "code": "663"
+        },
+        {
+            "description": "Medicine",
+            "code": "665"
+        },
+        {
+            "description": "Medieval Studies",
+            "code": "667"
+        },
+        {
+            "description": "Meteorology",
+            "code": "670"
+        },
+        {
+            "description": "Microbial Biology",
+            "code": "682"
+        },
+        {
+            "description": "Microbiology",
+            "code": "680"
+        },
+        {
+            "description": "Microbiology and Molecular Genetics",
+            "code": "681"
+        },
+        {
+            "description": "Middle Eastern Language and Area Studies",
+            "code": "683"
+        },
+        {
+            "description": "Middle Eastern and Islamic Studies",
+            "code": "685"
+        },
+        {
+            "description": "Migration Studies: Policy, Health and Governance",
+            "code": "687"
+        },
+        {
+            "description": "Military Education, Air Force",
+            "code": "690"
+        },
+        {
+            "description": "Military Education, Army",
+            "code": "691"
+        },
+        {
+            "description": "Military Education, Navy",
+            "code": "692"
+        },
+        {
+            "description": "Molecular Biology",
+            "code": "693"
+        },
+        {
+            "description": "Molecular Biology and Biochemistry",
+            "code": "694"
+        },
+        {
+            "description": "Molecular Biophysics",
+            "code": "696"
+        },
+        {
+            "description": "Molecular Biosciences",
+            "code": "695"
+        },
+        {
+            "description": "Molecular and Cell Biology",
+            "code": "697"
+        },
+        {
+            "description": "Multidiscipline",
+            "code": "689"
+        },
+        {
+            "description": "Museum Studies",
+            "code": "698"
+        },
+        {
+            "description": "Music",
+            "code": "702"
+        },
+        {
+            "description": "Music",
+            "code": "700"
+        },
+        {
+            "description": "Music - Newark",
+            "code": "087"
+        },
+        {
+            "description": "Music Technology",
+            "code": "679"
+        },
+        {
+            "description": "Music, Applied",
+            "code": "703"
+        },
+        {
+            "description": "Music, Applied",
+            "code": "701"
+        },
+        {
+            "description": "Natural Resource Management",
+            "code": "414"
+        },
+        {
+            "description": "Neuroscience",
+            "code": "710"
+        },
+        {
+            "description": "Nonprofit Leadership",
+            "code": "699"
+        },
+        {
+            "description": "North American Indian Studies",
+            "code": "706"
+        },
+        {
+            "description": "Nursing",
+            "code": "705"
+        },
+        {
+            "description": "Nursing - RN",
+            "code": "708"
+        },
+        {
+            "description": "Nutrition",
+            "code": "707"
+        },
+        {
+            "description": "Nutritional Sciences",
+            "code": "709"
+        },
+        {
+            "description": "OB/Gyn",
+            "code": "719"
+        },
+        {
+            "description": "Oceanography",
+            "code": "712"
+        },
+        {
+            "description": "Operations Management",
+            "code": "716"
+        },
+        {
+            "description": "Operations Research",
+            "code": "711"
+        },
+        {
+            "description": "Ophthalmology",
+            "code": "722"
+        },
+        {
+            "description": "Organizational Behavior",
+            "code": "829"
+        },
+        {
+            "description": "Organizational Leadership",
+            "code": "713"
+        },
+        {
+            "description": "Orthopedic Surgery",
+            "code": "726"
+        },
+        {
+            "description": "Packaging Engineering",
+            "code": "731"
+        },
+        {
+            "description": "Pathology",
+            "code": "727"
+        },
+        {
+            "description": "Peace Corps Masters International",
+            "code": "736"
+        },
+        {
+            "description": "Peace and Conflict Studies",
+            "code": "735"
+        },
+        {
+            "description": "Pediatrics",
+            "code": "724"
+        },
+        {
+            "description": "Perceptual Science",
+            "code": "714"
+        },
+        {
+            "description": "Persian",
+            "code": "723"
+        },
+        {
+            "description": "Pharmaceutical Chemistry",
+            "code": "715"
+        },
+        {
+            "description": "Pharmaceutics",
+            "code": "721"
+        },
+        {
+            "description": "Pharmacognosy",
+            "code": "717"
+        },
+        {
+            "description": "Pharmacology",
+            "code": "728"
+        },
+        {
+            "description": "Pharmacology, Cellular and Molecular",
+            "code": "718"
+        },
+        {
+            "description": "Pharmacy",
+            "code": "720"
+        },
+        {
+            "description": "Pharmacy Practice and Administration",
+            "code": "725"
+        },
+        {
+            "description": "Pharmacy and Toxicology",
+            "code": "732"
+        },
+        {
+            "description": "Philosophy",
+            "code": "730"
+        },
+        {
+            "description": "Physical Education",
+            "code": "740"
+        },
+        {
+            "description": "Physical Medicine and Rehab",
+            "code": "759"
+        },
+        {
+            "description": "Physical Therapy",
+            "code": "742"
+        },
+        {
+            "description": "Physician Assistant",
+            "code": "745"
+        },
+        {
+            "description": "Physics",
+            "code": "750"
+        },
+        {
+            "description": "Physiology",
+            "code": "760"
+        },
+        {
+            "description": "Physiology and Integrative Biology",
+            "code": "761"
+        },
+        {
+            "description": "Physiology and Neurobiology",
+            "code": "763"
+        },
+        {
+            "description": "Planning and Public Policy",
+            "code": "762"
+        },
+        {
+            "description": "Plant Biology",
+            "code": "765"
+        },
+        {
+            "description": "Plant Pathology",
+            "code": "770"
+        },
+        {
+            "description": "Plant Physiology",
+            "code": "780"
+        },
+        {
+            "description": "Plant Science",
+            "code": "776"
+        },
+        {
+            "description": "Plant Science and Technology",
+            "code": "778"
+        },
+        {
+            "description": "Police Science",
+            "code": "785"
+        },
+        {
+            "description": "Policy, Health, and Administration",
+            "code": "775"
+        },
+        {
+            "description": "Polish",
+            "code": "787"
+        },
+        {
+            "description": "Political Science",
+            "code": "790"
+        },
+        {
+            "description": "Pomology",
+            "code": "800"
+        },
+        {
+            "description": "Portuguese",
+            "code": "810"
+        },
+        {
+            "description": "Portuguese and Lusophone World Studies",
+            "code": "812"
+        },
+        {
+            "description": "Pre-Pharmacy",
+            "code": "002"
+        },
+        {
+            "description": "Prevention Science",
+            "code": "792"
+        },
+        {
+            "description": "Professional Accounting",
+            "code": "835"
+        },
+        {
+            "description": "Professional Development",
+            "code": "813"
+        },
+        {
+            "description": "Professional Occupational Education",
+            "code": "815"
+        },
+        {
+            "description": "Professional Psychology",
+            "code": "820"
+        },
+        {
+            "description": "Professional Studies",
+            "code": "817"
+        },
+        {
+            "description": "Psychiatric Rehabilitation and Psychology",
+            "code": "819"
+        },
+        {
+            "description": "Psychiatry",
+            "code": "825"
+        },
+        {
+            "description": "Psychiatry",
+            "code": "828"
+        },
+        {
+            "description": "Psychology",
+            "code": "830"
+        },
+        {
+            "description": "Psychology, Applied",
+            "code": "844"
+        },
+        {
+            "description": "Public Administration",
+            "code": "834"
+        },
+        {
+            "description": "Public Administration and Management",
+            "code": "843"
+        },
+        {
+            "description": "Public Administration, Executive",
+            "code": "831"
+        },
+        {
+            "description": "Public Affairs",
+            "code": "824"
+        },
+        {
+            "description": "Public Health",
+            "code": "832"
+        },
+        {
+            "description": "Public Health Core",
+            "code": "822"
+        },
+        {
+            "description": "Public Health Elective",
+            "code": "823"
+        },
+        {
+            "description": "Public Informatics",
+            "code": "816"
+        },
+        {
+            "description": "Public Policy",
+            "code": "833"
+        },
+        {
+            "description": "Public Service",
+            "code": "827"
+        },
+        {
+            "description": "Puerto Rican Studies",
+            "code": "836"
+        },
+        {
+            "description": "Quantitative Biomedicine",
+            "code": "848"
+        },
+        {
+            "description": "Quantitative Finance",
+            "code": "839"
+        },
+        {
+            "description": "Quantitative Methods",
+            "code": "837"
+        },
+        {
+            "description": "Quantitative Methods",
+            "code": "845"
+        },
+        {
+            "description": "Quaternary Studies",
+            "code": "855"
+        },
+        {
+            "description": "Radiation Science",
+            "code": "838"
+        },
+        {
+            "description": "Real Estate",
+            "code": "851"
+        },
+        {
+            "description": "Recreation and Leisure Services",
+            "code": "846"
+        },
+        {
+            "description": "Religion",
+            "code": "840"
+        },
+        {
+            "description": "Religious Studies",
+            "code": "841"
+        },
+        {
+            "description": "Research - Public Health",
+            "code": "847"
+        },
+        {
+            "description": "Rhetoric",
+            "code": "842"
+        },
+        {
+            "description": "Rural Sociology",
+            "code": "850"
+        },
+        {
+            "description": "Russian",
+            "code": "860"
+        },
+        {
+            "description": "Russian Central and European Studies",
+            "code": "859"
+        },
+        {
+            "description": "SEBS Internship",
+            "code": "902"
+        },
+        {
+            "description": "Sanitary Engineering",
+            "code": "870"
+        },
+        {
+            "description": "Scheduling",
+            "code": "868"
+        },
+        {
+            "description": "School Psychology",
+            "code": "826"
+        },
+        {
+            "description": "Science",
+            "code": "890"
+        },
+        {
+            "description": "Science and Technology Management",
+            "code": "885"
+        },
+        {
+            "description": "Science, Technology and Society",
+            "code": "880"
+        },
+        {
+            "description": "Secretarial Studies",
+            "code": "900"
+        },
+        {
+            "description": "Sexualities Studies",
+            "code": "888"
+        },
+        {
+            "description": "Slavic and East European Studies",
+            "code": "861"
+        },
+        {
+            "description": "Social Justice",
+            "code": "904"
+        },
+        {
+            "description": "Social Sciences",
+            "code": "905"
+        },
+        {
+            "description": "Social Work",
+            "code": "910"
+        },
+        {
+            "description": "Sociology",
+            "code": "920"
+        },
+        {
+            "description": "Soils and Crops",
+            "code": "930"
+        },
+        {
+            "description": "South Asian Studies",
+            "code": "925"
+        },
+        {
+            "description": "Spanish",
+            "code": "940"
+        },
+        {
+            "description": "Speech",
+            "code": "950"
+        },
+        {
+            "description": "Speech, Language and Hearing Sciences",
+            "code": "953"
+        },
+        {
+            "description": "Sport Management",
+            "code": "955"
+        },
+        {
+            "description": "Statistics",
+            "code": "960"
+        },
+        {
+            "description": "Statistics - Data Science",
+            "code": "954"
+        },
+        {
+            "description": "Statistics, Financial and Risk Managemen",
+            "code": "958"
+        },
+        {
+            "description": "Study Abroad",
+            "code": "959"
+        },
+        {
+            "description": "Supply Chain Analytics",
+            "code": "794"
+        },
+        {
+            "description": "Supply Chain Management",
+            "code": "795"
+        },
+        {
+            "description": "Supply Chain and Marketing Science",
+            "code": "799"
+        },
+        {
+            "description": "Surgery",
+            "code": "945"
+        },
+        {
+            "description": "Swahili",
+            "code": "956"
+        },
+        {
+            "description": "Taxation",
+            "code": "962"
+        },
+        {
+            "description": "Teacher Preparation",
+            "code": "964"
+        },
+        {
+            "description": "Teaching Assistant",
+            "code": "957"
+        },
+        {
+            "description": "Theater",
+            "code": "965"
+        },
+        {
+            "description": "Theater - Newark",
+            "code": "088"
+        },
+        {
+            "description": "Theater Arts",
+            "code": "966"
+        },
+        {
+            "description": "Thesis",
+            "code": "961"
+        },
+        {
+            "description": "Toxicology",
+            "code": "963"
+        },
+        {
+            "description": "Turkish",
+            "code": "973"
+        },
+        {
+            "description": "Twi",
+            "code": "974"
+        },
+        {
+            "description": "Ukranian",
+            "code": "967"
+        },
+        {
+            "description": "Urban & Environmental Health",
+            "code": "968"
+        },
+        {
+            "description": "Urban Health Administration",
+            "code": "969"
+        },
+        {
+            "description": "Urban Planning and Design",
+            "code": "971"
+        },
+        {
+            "description": "Urban Planning and Policy Development",
+            "code": "970"
+        },
+        {
+            "description": "Urban Secondary Education",
+            "code": "978"
+        },
+        {
+            "description": "Urban Studies and Community Development",
+            "code": "975"
+        },
+        {
+            "description": "Urban Systems",
+            "code": "977"
+        },
+        {
+            "description": "Vegetable Crops",
+            "code": "980"
+        },
+        {
+            "description": "Video Production - Newark",
+            "code": "089"
+        },
+        {
+            "description": "Walt Whitman Studies",
+            "code": "982"
+        },
+        {
+            "description": "Wildlife Conservation",
+            "code": "985"
+        },
+        {
+            "description": "Women's, Gender, and Sexuality Studies",
+            "code": "988"
+        },
+        {
+            "description": "World Languages",
+            "code": "991"
+        },
+        {
+            "description": "Writing",
+            "code": "989"
+        },
+        {
+            "description": "Zoology",
+            "code": "990"
+        }
+    ]
+}

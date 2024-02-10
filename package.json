@@ -1,0 +1,20 @@
+{
+  "name": "rutgers-soc-schedule-builder",
+  "version": "1.0.0",
+  "description": "A simple schedule builder that accesses the Rutgers SOC API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rutgers",
+    "soc"
+  ],
+  "author": "Ayush Mishra",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "mongodb": "^6.3.0"
+  }
+}

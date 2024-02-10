@@ -1,0 +1,6026 @@
+[
+  {
+    "description": "Exchange",
+    "code": "001",
+    "course_897": {
+      "subjectNotes": null,
+      "subject": "001",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "FT STUDY ON CAMPUS",
+      "preReqNotes": null,
+      "sections": [
+        "18968",
+        "18971",
+        "18972"
+      ],
+      "supplementCode": "  ",
+      "credits": 0,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "FULL-TIME STUDY ON CAMPUS                                                       "
+    },
+    "course_898": {
+      "subjectNotes": null,
+      "subject": "001",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "FULL-TIME STUDY",
+      "preReqNotes": null,
+      "sections": [
+        "18969",
+        "18973",
+        "18975"
+      ],
+      "supplementCode": "  ",
+      "credits": 0,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "FULL-TIME STUDY                                                                 "
+    },
+    "course_899": {
+      "subjectNotes": null,
+      "subject": "001",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "FT STUDY MATRIC CONT",
+      "preReqNotes": null,
+      "sections": [
+        "18970",
+        "18976",
+        "18977"
+      ],
+      "supplementCode": "  ",
+      "credits": 0,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "FULL-TIME STUDY MATRICULATION           CONTINUED                               "
+    }
+  },
+  {
+    "description": "Accounting",
+    "code": "010",
+    "course_503": {
+      "subjectNotes": null,
+      "subject": "010",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "ACCTG FOR MGRL DEC",
+      "preReqNotes": null,
+      "sections": [
+        "04528",
+        "04529",
+        "04530"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "ACCOUNTING FOR MANAGERIAL DECISIONS                                             "
+    },
+    "course_521": {
+      "subjectNotes": null,
+      "subject": "010",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "DIRECTED STUDY ACCTG",
+      "preReqNotes": null,
+      "sections": [
+        "04531"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_532": {
+      "subjectNotes": null,
+      "subject": "010",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "ACCT INFO SYSTEMS",
+      "preReqNotes": "(53:010:505 )",
+      "sections": [
+        "04532"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "ACCOUNTING FOR INFORMATION SYSTEMS AND INTERNAL CONTROL                         "
+    },
+    "course_565": {
+      "subjectNotes": null,
+      "subject": "010",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "FIN REP AND ANALYSIS",
+      "preReqNotes": null,
+      "sections": [
+        "04533",
+        "04534",
+        "04535"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "FINANCIAL REPORTING AND ANALYSIS                                                "
+    },
+    "course_597": {
+      "subjectNotes": null,
+      "subject": "010",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "INTERNSHIP - ACCTG",
+      "preReqNotes": null,
+      "sections": [
+        "04537"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "INTERNSHIP IN ACCOUNTING                                                        "
+    },
+    "course_660": {
+      "subjectNotes": null,
+      "subject": "010",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "ACCOUNTING ANALYTICS",
+      "preReqNotes": "(53:010:505 )",
+      "sections": [
+        "04538",
+        "05189"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "ACCOUNTING ANALYTICS                                                            "
+    }
+  },
+  {
+    "description": "Biochemistry",
+    "code": "115",
+    "course_512": {
+      "subjectNotes": null,
+      "subject": "115",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "BIOCHEMISTRY II",
+      "preReqNotes": "(56:115:511 )<em> OR </em>(50:115:403 )",
+      "sections": [
+        "03456"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_522": {
+      "subjectNotes": null,
+      "subject": "115",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "PROTEIN STRUC & FUNC",
+      "preReqNotes": null,
+      "sections": [
+        "03460"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "PROTEIN STRUCTURE AND FUNCTION                                                  "
+    },
+    "course_531": {
+      "subjectNotes": null,
+      "subject": "115",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "FORENSIC DNA LAB",
+      "preReqNotes": null,
+      "sections": [
+        "03462"
+      ],
+      "supplementCode": "  ",
+      "credits": 1,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "FORENSIC DNA ANALYSIS LAB                                                       "
+    },
+    "course_620": {
+      "subjectNotes": null,
+      "subject": "115",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "IND STUDY BIOCHEM",
+      "preReqNotes": null,
+      "sections": [
+        "04594",
+        "04595",
+        "04596",
+        "04597",
+        "04598"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_702": {
+      "subjectNotes": null,
+      "subject": "115",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "RESEARCH IN BIOCHEM",
+      "preReqNotes": null,
+      "sections": [
+        "04599",
+        "04600",
+        "04601",
+        "04602",
+        "04603"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    }
+  },
+  {
+    "description": "Biology",
+    "code": "120",
+    "course_517": {
+      "subjectNotes": null,
+      "subject": "120",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "EVOLUTION",
+      "preReqNotes": null,
+      "sections": [
+        "04604"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "EVOLUTION                                                                       "
+    },
+    "course_530": {
+      "subjectNotes": null,
+      "subject": "120",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "MOLEC CARCINOGENESIS",
+      "preReqNotes": null,
+      "sections": [
+        "04605"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MOLECULAR CARCINOGENESIS                                                        "
+    },
+    "course_556": {
+      "subjectNotes": null,
+      "subject": "120",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "NEUROBIOLOGY II",
+      "preReqNotes": "(56:120:555 )",
+      "sections": [
+        "04606"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_597": {
+      "subjectNotes": null,
+      "subject": "120",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "SPEC'L TOP BIOLOGY",
+      "preReqNotes": null,
+      "sections": [
+        "03526"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SPECIAL TOPICS IN BIOLOGY                                                       "
+    },
+    "course_599": {
+      "subjectNotes": null,
+      "subject": "120",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "SPEC'L TOP BIOLOGY",
+      "preReqNotes": null,
+      "sections": [
+        "04607"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SPECIAL TOPICS IN BIOLOGY                                                       "
+    },
+    "course_602": {
+      "subjectNotes": null,
+      "subject": "120",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "SEMINAR IN BIOLOGY",
+      "preReqNotes": null,
+      "sections": [
+        "04608"
+      ],
+      "supplementCode": "  ",
+      "credits": 1,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_620": {
+      "subjectNotes": null,
+      "subject": "120",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "IND STUDY BIOLOGY",
+      "preReqNotes": null,
+      "sections": [
+        "04609",
+        "04610",
+        "04611",
+        "04612",
+        "04613",
+        "04614",
+        "04615",
+        "04616",
+        "04617",
+        "04618",
+        "04619",
+        "04620",
+        "04621",
+        "04622"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_702": {
+      "subjectNotes": null,
+      "subject": "120",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "RESEARCH IN BIOLOGY",
+      "preReqNotes": null,
+      "sections": [
+        "04623",
+        "04624",
+        "04625",
+        "04626",
+        "04627",
+        "04628",
+        "04629",
+        "04630",
+        "04631",
+        "04632",
+        "18893"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_800": {
+      "subjectNotes": null,
+      "subject": "120",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "MATRICULATION CONTD",
+      "preReqNotes": null,
+      "sections": [
+        "04633"
+      ],
+      "supplementCode": "  ",
+      "credits": 0,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MATRICULATION CONTINUATION                                                      "
+    },
+    "course_866": {
+      "subjectNotes": null,
+      "subject": "120",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "GRAD ASSISTANTSHIP",
+      "preReqNotes": null,
+      "sections": [
+        "04634"
+      ],
+      "supplementCode": "  ",
+      "credits": 6,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "GRADUATE ASSISTANTSHIP-BIOLOGY                                                  "
+    },
+    "course_877": {
+      "subjectNotes": null,
+      "subject": "120",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "TCHNG ASSISTANTSHIP",
+      "preReqNotes": null,
+      "sections": [
+        "04635"
+      ],
+      "supplementCode": "  ",
+      "credits": 6,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    }
+  },
+  {
+    "description": "Biology: Computational and Integrative",
+    "code": "121",
+    "course_502": {
+      "subjectNotes": null,
+      "subject": "121",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "FUND EM WAVES & OPT",
+      "preReqNotes": null,
+      "sections": [
+        "18285"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "FUNDAMENTALS OF ELECTROMAGNETIC WAVES AND OPTICS                                "
+    },
+    "course_505": {
+      "subjectNotes": null,
+      "subject": "121",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "MAT CHARACTERIZATION",
+      "preReqNotes": null,
+      "sections": [
+        "18286"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MATERIALS CHARACTERIZATION                                                      "
+    },
+    "course_531": {
+      "subjectNotes": null,
+      "subject": "121",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "ALGORITHMS IN PYTHON",
+      "preReqNotes": null,
+      "sections": [
+        "04636"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "ALGORITHMS IN PYTHON                                                            "
+    },
+    "course_552": {
+      "subjectNotes": null,
+      "subject": "121",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "GENOME INFORMATICS I",
+      "preReqNotes": null,
+      "sections": [
+        "18404"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "GENOME INFORMATICS I                                                            "
+    },
+    "course_553": {
+      "subjectNotes": null,
+      "subject": "121",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "GENOME INFORMAT LAB",
+      "preReqNotes": null,
+      "sections": [
+        "18406"
+      ],
+      "supplementCode": "  ",
+      "credits": 1,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "GENOME INFORMATICS LAB                                                          "
+    },
+    "course_562": {
+      "subjectNotes": null,
+      "subject": "121",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "CELL MEMBRANES",
+      "preReqNotes": null,
+      "sections": [
+        "04638"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "CELL MEMBRANES                                                                  "
+    },
+    "course_566": {
+      "subjectNotes": null,
+      "subject": "121",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "OPTICAL MICROSCOPY",
+      "preReqNotes": null,
+      "sections": [
+        "04134"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "OPTICAL MICROSCOPY                                                              "
+    },
+    "course_585": {
+      "subjectNotes": null,
+      "subject": "121",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "INDPT STDY COMPU BIO",
+      "preReqNotes": null,
+      "sections": [
+        "04639"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "INDEPENDENT STUDY IN COMPUTATIONAL      BIOLOGY                                 "
+    },
+    "course_602": {
+      "subjectNotes": null,
+      "subject": "121",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "SEMINAR",
+      "preReqNotes": null,
+      "sections": [
+        "04640"
+      ],
+      "supplementCode": "  ",
+      "credits": 1,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_605": {
+      "subjectNotes": null,
+      "subject": "121",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "CODES FOR LIFE SEM",
+      "preReqNotes": null,
+      "sections": [
+        "19344"
+      ],
+      "supplementCode": "  ",
+      "credits": 1,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "CODES FOR LIFE SEMINAR                                                          "
+    },
+    "course_621": {
+      "subjectNotes": null,
+      "subject": "121",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "LAB ROTATION PRACT",
+      "preReqNotes": null,
+      "sections": [
+        "04641"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "LABORATORY ROTATION PRACTICUM                                                   "
+    },
+    "course_701": {
+      "subjectNotes": null,
+      "subject": "121",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "MASTERS PROJECT",
+      "preReqNotes": null,
+      "sections": [
+        "04642"
+      ],
+      "supplementCode": "  ",
+      "credits": 6,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MASTERS PROJECT                                                                 "
+    },
+    "course_710": {
+      "subjectNotes": null,
+      "subject": "121",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "DISSERTATION RES",
+      "preReqNotes": null,
+      "sections": [
+        "04643",
+        "04644",
+        "04645",
+        "04646",
+        "04647",
+        "04648",
+        "04649",
+        "04650",
+        "04651",
+        "04652",
+        "04653",
+        "04654",
+        "04655",
+        "04656",
+        "04657",
+        "04658",
+        "04659",
+        "04660",
+        "04661",
+        "04662",
+        "04663"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "DISSERTATION RESEARCH                                                           "
+    },
+    "course_800": {
+      "subjectNotes": null,
+      "subject": "121",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "MATRICULATION CONTD",
+      "preReqNotes": null,
+      "sections": [
+        "04664"
+      ],
+      "supplementCode": "  ",
+      "credits": 0,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MATRICULATION CONTINUATION                                                      "
+    }
+  },
+  {
+    "description": "Chemistry",
+    "code": "160",
+    "course_532": {
+      "subjectNotes": null,
+      "subject": "160",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "ORGANOMETALLIC CHEM",
+      "preReqNotes": null,
+      "sections": [
+        "04665"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "ORGANOMETALLIC CHEMISTRY                                                        "
+    },
+    "course_601": {
+      "subjectNotes": null,
+      "subject": "160",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "SEMINAR IN CHEMISTRY",
+      "preReqNotes": null,
+      "sections": [
+        "04666"
+      ],
+      "supplementCode": "  ",
+      "credits": 1,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_602": {
+      "subjectNotes": null,
+      "subject": "160",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "SEMINAR IN CHEMISTRY",
+      "preReqNotes": null,
+      "sections": [
+        "04667"
+      ],
+      "supplementCode": "  ",
+      "credits": 1,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_611": {
+      "subjectNotes": null,
+      "subject": "160",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "PHARMACOLOGY/KINETX",
+      "preReqNotes": null,
+      "sections": [
+        "03585"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "FUNDAMENTALS OF PHARMACOLOGY AND        PHARMACOKINETICS                        "
+    },
+    "course_620": {
+      "subjectNotes": null,
+      "subject": "160",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "IND STUDY CHEMISTRY",
+      "preReqNotes": null,
+      "sections": [
+        "04668",
+        "04669",
+        "04670",
+        "04671",
+        "04672",
+        "04673",
+        "04674",
+        "04675"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_702": {
+      "subjectNotes": null,
+      "subject": "160",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "RESEARCH IN CHEM",
+      "preReqNotes": null,
+      "sections": [
+        "04676",
+        "04677",
+        "04678",
+        "04679",
+        "04680",
+        "04681",
+        "04682",
+        "04683"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_800": {
+      "subjectNotes": null,
+      "subject": "160",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "MATRICULATION CONTD",
+      "preReqNotes": null,
+      "sections": [
+        "04684"
+      ],
+      "supplementCode": "  ",
+      "credits": 0,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MATRICULATION CONTINUATION                                                      "
+    }
+  },
+  {
+    "description": "Childhood Studies",
+    "code": "163",
+    "course_501": {
+      "subjectNotes": null,
+      "subject": "163",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "PROSEMINAR:CHILD ST1",
+      "preReqNotes": null,
+      "sections": [
+        "04685"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "PROFESSIONAL SEMINAR IN CHILDHOOD STUDIES I                                     "
+    },
+    "course_526": {
+      "subjectNotes": null,
+      "subject": "163",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "HIST RESEARCH METH",
+      "preReqNotes": null,
+      "sections": [
+        "04686"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_600": {
+      "subjectNotes": null,
+      "subject": "163",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "CHILDHOOD & VIOLENCE",
+      "preReqNotes": null,
+      "sections": [
+        "04687"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "CHILDHOOD AND VIOLENCE                                                          "
+    },
+    "course_699": {
+      "subjectNotes": null,
+      "subject": "163",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "DIR READ CHILD STUDY",
+      "preReqNotes": null,
+      "sections": [
+        "04688",
+        "04689",
+        "04690",
+        "04691",
+        "04692",
+        "04693",
+        "04694",
+        "04695",
+        "04696",
+        "04697"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "DIRECTED READING IN CHILDHOOD STUDIES                                           "
+    },
+    "course_700": {
+      "subjectNotes": null,
+      "subject": "163",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "DOCTORAL DISSERTAT",
+      "preReqNotes": null,
+      "sections": [
+        "04698",
+        "04699",
+        "04700",
+        "04701",
+        "04702",
+        "04703",
+        "04704",
+        "04705",
+        "04706",
+        "04707",
+        "04708"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "DOCTORAL DISSERTATION                                                           "
+    },
+    "course_800": {
+      "subjectNotes": null,
+      "subject": "163",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "MATRICULATION CONTIN",
+      "preReqNotes": null,
+      "sections": [
+        "04709"
+      ],
+      "supplementCode": "  ",
+      "credits": 0,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MATRICULATION CONTINUATION                                                      "
+    }
+  },
+  {
+    "description": "Computer Science",
+    "code": "198",
+    "course_501": {
+      "subjectNotes": null,
+      "subject": "198",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "ALGORITHMS IN PYTHON",
+      "preReqNotes": "(56:198:500 )",
+      "sections": [
+        "04637"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "DATA STRUCTURES AND ALGORITHMIC PROBLEM SOLVING IN PYTHON                       "
+    },
+    "course_514": {
+      "subjectNotes": null,
+      "subject": "198",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "ARTIFICIAL INTELL",
+      "preReqNotes": null,
+      "sections": [
+        "03626"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "ARTIFICIAL INTELLIGENCE                                                         "
+    },
+    "course_541": {
+      "subjectNotes": null,
+      "subject": "198",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "PARAL & DIST COMPUTI",
+      "preReqNotes": null,
+      "sections": [
+        "03628"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_547": {
+      "subjectNotes": null,
+      "subject": "198",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "NETWORK SECURITY",
+      "preReqNotes": null,
+      "sections": [
+        "03630"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "NETWORK SECURITY                                                                "
+    },
+    "course_561": {
+      "subjectNotes": null,
+      "subject": "198",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "OPTIMIZATION METHODS",
+      "preReqNotes": null,
+      "sections": [
+        "03632"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_693": {
+      "subjectNotes": null,
+      "subject": "198",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "MASTERS PROJECT",
+      "preReqNotes": null,
+      "sections": [
+        "04710"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MASTERS PROJECT                                                                 "
+    },
+    "course_694": {
+      "subjectNotes": null,
+      "subject": "198",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "IND STUDY COM SCI",
+      "preReqNotes": null,
+      "sections": [
+        "04711",
+        "04712",
+        "04713",
+        "04714",
+        "04715",
+        "04716"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "INDEPENDENT STUDY IN COMPUTER SCIENCE                                           "
+    },
+    "course_697": {
+      "subjectNotes": null,
+      "subject": "198",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "COMP SCI INTERNSHIP",
+      "preReqNotes": null,
+      "sections": [
+        "04717"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "COMPUTER SCIENCE INTERNSHIP                                                     "
+    },
+    "course_701": {
+      "subjectNotes": null,
+      "subject": "198",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "RESEARCH IN COM SCI",
+      "preReqNotes": null,
+      "sections": [
+        "04718",
+        "04719",
+        "04720",
+        "04721",
+        "19178"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "RESEARCH IN COMPUTER SCIENCE                                                    "
+    },
+    "course_702": {
+      "subjectNotes": null,
+      "subject": "198",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "RESEARCH IN COM SCI",
+      "preReqNotes": null,
+      "sections": [
+        "04722",
+        "04723",
+        "04724",
+        "04725",
+        "19477"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "RESEARCH IN COMPUTER SCIENCE                                                    "
+    },
+    "course_800": {
+      "subjectNotes": null,
+      "subject": "198",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "MATRICULATION CONTD",
+      "preReqNotes": null,
+      "sections": [
+        "04726"
+      ],
+      "supplementCode": "  ",
+      "credits": 0,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MATRICULATION CONTINUATION                                                      "
+    }
+  },
+  {
+    "description": "Creative Writing",
+    "code": "200",
+    "course_513": {
+      "subjectNotes": null,
+      "subject": "200",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "SPEC TOPICS:  POETRY",
+      "preReqNotes": null,
+      "sections": [
+        "05282"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SPECIAL TOPICS IN POETRY                                                        "
+    },
+    "course_518": {
+      "subjectNotes": null,
+      "subject": "200",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "FICTION",
+      "preReqNotes": null,
+      "sections": [
+        "18861"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "FICTION                                                                         "
+    },
+    "course_528": {
+      "subjectNotes": null,
+      "subject": "200",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "CREAT NON-FIC WKSP",
+      "preReqNotes": null,
+      "sections": [
+        "05284"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "CREATIVE NON-FICTION WORKSHOP                                                   "
+    },
+    "course_570": {
+      "subjectNotes": null,
+      "subject": "200",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "CRAFT:SCREENWRITING",
+      "preReqNotes": null,
+      "sections": [
+        "05286"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "CRAFT:  SCREENWRITING                                                           "
+    },
+    "course_651": {
+      "subjectNotes": null,
+      "subject": "200",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "FINAL CRTIVE THESIS",
+      "preReqNotes": null,
+      "sections": [
+        "18314",
+        "18805",
+        "18984",
+        "19048"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "FINAL CREATIVE THESIS                                                           "
+    }
+  },
+  {
+    "description": "Criminal Justice",
+    "code": "202",
+    "course_516": {
+      "subjectNotes": null,
+      "subject": "202",
+      "synopsisUrl": "https://sociology.camden.rutgers.edu/courses/course-guide/",
+      "offeringUnitCode": "56",
+      "title": "CRMNL INVEST PRACT I",
+      "preReqNotes": null,
+      "sections": [
+        "03674"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "CRIMINAL INVESTIGATION PRACTICUM I                                              "
+    },
+    "course_601": {
+      "subjectNotes": null,
+      "subject": "202",
+      "synopsisUrl": "https://sociology.camden.rutgers.edu/courses/course-guide/",
+      "offeringUnitCode": "56",
+      "title": "DATA ANALYSIS - CJ",
+      "preReqNotes": null,
+      "sections": [
+        "04727"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_670": {
+      "subjectNotes": null,
+      "subject": "202",
+      "synopsisUrl": "https://sociology.camden.rutgers.edu/courses/course-guide/",
+      "offeringUnitCode": "56",
+      "title": "IND STUDY CRIM JUST",
+      "preReqNotes": null,
+      "sections": [
+        "04728",
+        "04729",
+        "04730",
+        "04731",
+        "04732"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_673": {
+      "subjectNotes": null,
+      "subject": "202",
+      "synopsisUrl": "https://sociology.camden.rutgers.edu/courses/course-guide/",
+      "offeringUnitCode": "56",
+      "title": "SPEC'L TOP CRMN JUST",
+      "preReqNotes": null,
+      "sections": [
+        "03654"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SPECIAL TOPICS IN CRIMINAL JUSTICE                                              "
+    },
+    "course_674": {
+      "subjectNotes": null,
+      "subject": "202",
+      "synopsisUrl": "https://sociology.camden.rutgers.edu/courses/course-guide/",
+      "offeringUnitCode": "56",
+      "title": "SPEC'L TOPICS CJ",
+      "preReqNotes": null,
+      "sections": [
+        "03662"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SPECIAL TOPICS IN CRIMINAL JUSTICE                                              "
+    },
+    "course_675": {
+      "subjectNotes": null,
+      "subject": "202",
+      "synopsisUrl": "https://sociology.camden.rutgers.edu/courses/course-guide/",
+      "offeringUnitCode": "56",
+      "title": "SPEC'L TOP CRMN JUST",
+      "preReqNotes": null,
+      "sections": [
+        "03669"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SPECIAL TOPIC IN CRIMINAL JUSTICE                                               "
+    },
+    "course_676": {
+      "subjectNotes": null,
+      "subject": "202",
+      "synopsisUrl": "https://sociology.camden.rutgers.edu/courses/course-guide/",
+      "offeringUnitCode": "56",
+      "title": "SPEC'L TOP CRIM JUST",
+      "preReqNotes": null,
+      "sections": [
+        "04733"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SPECIAL TOPICS IN CRIMINAL JUSTICE                                              "
+    },
+    "course_800": {
+      "subjectNotes": null,
+      "subject": "202",
+      "synopsisUrl": "https://sociology.camden.rutgers.edu/courses/course-guide/",
+      "offeringUnitCode": "56",
+      "title": "MATRICULATION CONTD",
+      "preReqNotes": null,
+      "sections": [
+        "04734"
+      ],
+      "supplementCode": "  ",
+      "credits": 0,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MATRICULATION CONTINUATION                                                      "
+    }
+  },
+  {
+    "description": "Data Science",
+    "code": "219",
+    "course_501": {
+      "subjectNotes": null,
+      "subject": "219",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "ALGORITHMS DATA SCI",
+      "preReqNotes": null,
+      "sections": [
+        "18590"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "ALGORITHMIC PROBLEM SOLVING IN DATA SCIENCE                                     "
+    },
+    "course_512": {
+      "subjectNotes": null,
+      "subject": "219",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "PROB STOCH DS",
+      "preReqNotes": null,
+      "sections": [
+        "04735"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "PROBABILITY AND STOCHASTIC PROCESSES FORDATA SCIENCE                            "
+    },
+    "course_513": {
+      "subjectNotes": null,
+      "subject": "219",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "REG & FORECAST",
+      "preReqNotes": null,
+      "sections": [
+        "04341"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "REGRESSION AND TIME SERIES FORECAST                                             "
+    },
+    "course_521": {
+      "subjectNotes": null,
+      "subject": "219",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "DATA MGMT VISUAL",
+      "preReqNotes": null,
+      "sections": [
+        "04737"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "DATA MANAGEMENT AND VISUALIZATION                                               "
+    },
+    "course_531": {
+      "subjectNotes": null,
+      "subject": "219",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "APP DATA MINING & ML",
+      "preReqNotes": null,
+      "sections": [
+        "03721"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "APPLIED DATA MINING AND MACHINE LEARNING                                        "
+    }
+  },
+  {
+    "description": "Education",
+    "code": "300",
+    "course_500": {
+      "subjectNotes": null,
+      "subject": "300",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "PSYCH FNDTS LEARNING",
+      "preReqNotes": null,
+      "sections": [
+        "04738"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "PSYCHOLOGICAL FOUNDATIONS OF LEARNING                                           "
+    },
+    "course_501": {
+      "subjectNotes": null,
+      "subject": "300",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "EXCEPTIONALITIES",
+      "preReqNotes": null,
+      "sections": [
+        "04739"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "EXCEPTIONALITIES                                                                "
+    },
+    "course_510": {
+      "subjectNotes": null,
+      "subject": "300",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "FUNDAMENTALS OF EDUC",
+      "preReqNotes": null,
+      "sections": [
+        "05318"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "FUNDAMENTALS OF EDUCATION                                                       "
+    },
+    "course_521": {
+      "subjectNotes": null,
+      "subject": "300",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "CLINICAL PRACTICE II",
+      "preReqNotes": null,
+      "sections": [
+        "04740",
+        "04741",
+        "04742",
+        "04743",
+        "04744",
+        "04745",
+        "04746",
+        "04747",
+        "04748"
+      ],
+      "supplementCode": "  ",
+      "credits": 6,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "CLINICAL PRACTICE II                                                            "
+    },
+    "course_522": {
+      "subjectNotes": null,
+      "subject": "300",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "PROFESSIONAL RESPONS",
+      "preReqNotes": null,
+      "sections": [
+        "04749",
+        "04750"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "PROFESSIONAL RESPONSIBILITY                                                     "
+    },
+    "course_531": {
+      "subjectNotes": null,
+      "subject": "300",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "STRATEGIES SPEC'L ED",
+      "preReqNotes": null,
+      "sections": [
+        "04751"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "INSTRUCTIONAL STRATGIES FOR SPECIAL     EDUCATION                               "
+    },
+    "course_532": {
+      "subjectNotes": null,
+      "subject": "300",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "SPECIAL EDU PROCESS",
+      "preReqNotes": null,
+      "sections": [
+        "04752"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "THE SPECIAL EDUCATION PROCESS                                                   "
+    },
+    "course_800": {
+      "subjectNotes": null,
+      "subject": "300",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "MATRICULATION CONTD",
+      "preReqNotes": null,
+      "sections": [
+        "04753"
+      ],
+      "supplementCode": "  ",
+      "credits": 0,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MATRICULATION CONTINUED                                                         "
+    }
+  },
+  {
+    "description": "English",
+    "code": "350",
+    "course_501": {
+      "subjectNotes": null,
+      "subject": "350",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "INDEPENDENT STUDY",
+      "preReqNotes": null,
+      "sections": [
+        "18471",
+        "18810"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "INDEPENDENT STUDY                                                               "
+    },
+    "course_502": {
+      "subjectNotes": null,
+      "subject": "350",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "INDEPENDENT STUDY",
+      "preReqNotes": null,
+      "sections": [
+        "18919",
+        "19509"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "INDEPENDENT STUDY                                                               "
+    },
+    "course_514": {
+      "subjectNotes": null,
+      "subject": "350",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "INTRO THEORY & CRIT",
+      "preReqNotes": null,
+      "sections": [
+        "05287"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "INTRODUCTION TO THEORY AND CRITICISM                                            "
+    },
+    "course_531": {
+      "subjectNotes": null,
+      "subject": "350",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "ST: WORLD LITERATURE",
+      "preReqNotes": null,
+      "sections": [
+        "17819"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SPECIAL TOPICS IN WORLD LITERATURE                                              "
+    },
+    "course_591": {
+      "subjectNotes": null,
+      "subject": "350",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "CAPSTONE PROJECT MA",
+      "preReqNotes": null,
+      "sections": [
+        "05288",
+        "19001",
+        "19403"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "CAPSTONE PROJECT                                                                "
+    },
+    "course_593": {
+      "subjectNotes": null,
+      "subject": "350",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "ST IN ENGLISH",
+      "preReqNotes": null,
+      "sections": [
+        "05294"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SPECIAL TOPICS IN ENGLISH                                                       "
+    },
+    "course_594": {
+      "subjectNotes": null,
+      "subject": "350",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "SPECIAL TOPICS",
+      "preReqNotes": null,
+      "sections": [
+        "17837"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SPECIAL TOPICS                                                                  "
+    }
+  },
+  {
+    "description": "Finance",
+    "code": "390",
+    "course_506": {
+      "subjectNotes": null,
+      "subject": "390",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "FINANCIAL MGMT",
+      "preReqNotes": null,
+      "sections": [
+        "04539",
+        "04540"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "FINANCIAL MANAGEMENT                                                            "
+    },
+    "course_521": {
+      "subjectNotes": null,
+      "subject": "390",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "DIRECTED STUDY FIN",
+      "preReqNotes": "(53:390:506 )",
+      "sections": [
+        "04541"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_535": {
+      "subjectNotes": null,
+      "subject": "390",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "BEHAVIORAL FINANCE",
+      "preReqNotes": null,
+      "sections": [
+        "04542"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "BEHAVIORAL FINANCE                                                              "
+    },
+    "course_545": {
+      "subjectNotes": null,
+      "subject": "390",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "PRIVATE WEALTH MGMT",
+      "preReqNotes": "(53:390:506 )",
+      "sections": [
+        "04543"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "PRIVATE WEALTH MANAGEMENT                                                       "
+    },
+    "course_582": {
+      "subjectNotes": null,
+      "subject": "390",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "INV MGMT&MACHINE LRN",
+      "preReqNotes": "(53:390:505 )<em> OR </em>(53:390:506 )",
+      "sections": [
+        "04544"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "INVESTMENT MANAGEMENT AND MACHINE LEARNING                                      "
+    },
+    "course_597": {
+      "subjectNotes": null,
+      "subject": "390",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "INTERNSHIP - FINANCE",
+      "preReqNotes": null,
+      "sections": [
+        "04545"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "INTERNSHIP IN FINANCE                                                           "
+    }
+  },
+  {
+    "description": "Forensic Science",
+    "code": "412",
+    "course_527": {
+      "subjectNotes": null,
+      "subject": "412",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "FORENSIC PATTRN EVID",
+      "preReqNotes": null,
+      "sections": [
+        "03732"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "FORENSIC PATTERN EVIDENCE                                                       "
+    },
+    "course_700": {
+      "subjectNotes": null,
+      "subject": "412",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "RESEARCH FORENS SCI",
+      "preReqNotes": null,
+      "sections": [
+        "04754",
+        "04755",
+        "04756",
+        "04757",
+        "04758",
+        "04759",
+        "19492"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "RESEARCH IN FORENSIC SCIENCE                                                    "
+    },
+    "course_701": {
+      "subjectNotes": null,
+      "subject": "412",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "RESEARCH FORENS SCI",
+      "preReqNotes": null,
+      "sections": [
+        "04760",
+        "04761",
+        "04762",
+        "04763",
+        "04764",
+        "04765",
+        "19493"
+      ],
+      "supplementCode": "  ",
+      "credits": 2,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "RESEARCH IN FORENSIC SCIENCE                                                    "
+    },
+    "course_702": {
+      "subjectNotes": null,
+      "subject": "412",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "RESEARCH IN FOR SCI",
+      "preReqNotes": null,
+      "sections": [
+        "19055",
+        "19056",
+        "19057",
+        "19058",
+        "19059",
+        "19060",
+        "19494"
+      ],
+      "supplementCode": "  ",
+      "credits": 4,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "RESEARCH IN FORENSIC SCIENCE                                                    "
+    },
+    "course_800": {
+      "subjectNotes": null,
+      "subject": "412",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "MATRIC CONTINUED",
+      "preReqNotes": null,
+      "sections": [
+        "04766"
+      ],
+      "supplementCode": "  ",
+      "credits": 0,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MATRICULATION CONTINUED                                                         "
+    }
+  },
+  {
+    "description": "History - American",
+    "code": "512",
+    "course_506": {
+      "subjectNotes": null,
+      "subject": "512",
+      "synopsisUrl": "http://history.camden.rutgers.edu/graduate-program/courses-schedules/",
+      "offeringUnitCode": "56",
+      "title": "READINGS 1820TO1898",
+      "preReqNotes": null,
+      "sections": [
+        "04767"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "COLLOQUIUM IN U.S., 1820 TO 1898                                                "
+    },
+    "course_511": {
+      "subjectNotes": null,
+      "subject": "512",
+      "synopsisUrl": "http://history.camden.rutgers.edu/graduate-program/courses-schedules/",
+      "offeringUnitCode": "56",
+      "title": "RESEARCH AMER-1945",
+      "preReqNotes": null,
+      "sections": [
+        "04768"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "RESEARCH COLLOQUIUM IN U.S., 1898 TO    1945                                    "
+    },
+    "course_515": {
+      "subjectNotes": null,
+      "subject": "512",
+      "synopsisUrl": "http://history.camden.rutgers.edu/graduate-program/courses-schedules/",
+      "offeringUnitCode": "56",
+      "title": "TOPICS HISTORIC PRES",
+      "preReqNotes": null,
+      "sections": [
+        "04769"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "TOPICS IN HISTORIC PRESERVATION                                                 "
+    },
+    "course_538": {
+      "subjectNotes": null,
+      "subject": "512",
+      "synopsisUrl": "http://history.camden.rutgers.edu/graduate-program/courses-schedules/",
+      "offeringUnitCode": "56",
+      "title": "EMP.& DECOLONIZATION",
+      "preReqNotes": null,
+      "sections": [
+        "04770"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "READINGS IN COLONIALISM AND IMPERIALISM                                         "
+    },
+    "course_542": {
+      "subjectNotes": null,
+      "subject": "512",
+      "synopsisUrl": "http://history.camden.rutgers.edu/graduate-program/courses-schedules/",
+      "offeringUnitCode": "56",
+      "title": "READ AF AM FROM 1877",
+      "preReqNotes": null,
+      "sections": [
+        "04771"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "READINGS IN AFRICAN AMERICAN HISTORY 1877 TO THE PRESENT                        "
+    },
+    "course_650": {
+      "subjectNotes": null,
+      "subject": "512",
+      "synopsisUrl": "http://history.camden.rutgers.edu/graduate-program/courses-schedules/",
+      "offeringUnitCode": "56",
+      "title": "WRITING SEMINAR",
+      "preReqNotes": null,
+      "sections": [
+        "05319"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_698": {
+      "subjectNotes": null,
+      "subject": "512",
+      "synopsisUrl": "http://history.camden.rutgers.edu/graduate-program/courses-schedules/",
+      "offeringUnitCode": "56",
+      "title": "IND STUDY HISTORY",
+      "preReqNotes": null,
+      "sections": [
+        "04773",
+        "04774",
+        "04775"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_800": {
+      "subjectNotes": null,
+      "subject": "512",
+      "synopsisUrl": "http://history.camden.rutgers.edu/graduate-program/courses-schedules/",
+      "offeringUnitCode": "56",
+      "title": "MATRICULATION CONTD",
+      "preReqNotes": null,
+      "sections": [
+        "04776"
+      ],
+      "supplementCode": "  ",
+      "credits": 0,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MATRICULATION CONTINUATION                                                      "
+    }
+  },
+  {
+    "description": "Human Resource Management",
+    "code": "533",
+    "course_521": {
+      "subjectNotes": null,
+      "subject": "533",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "DIRECTED STU IN MGMT",
+      "preReqNotes": null,
+      "sections": [
+        "04547"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "DIRECTED STUDY IN HRM                                                           "
+    },
+    "course_527": {
+      "subjectNotes": null,
+      "subject": "533",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "LDNG INNOVATN&CREATV",
+      "preReqNotes": "(53:620:505 )",
+      "sections": [
+        "04548",
+        "04549"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "LEADING INNOVATION AND CREATIVITY                                               "
+    },
+    "course_557": {
+      "subjectNotes": null,
+      "subject": "533",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "FUND OF TALENT MGMT",
+      "preReqNotes": "(53:620:505 )",
+      "sections": [
+        "04550",
+        "18952"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "FUNDAMENTALS OF TALENT MANAGEMENT                                               "
+    },
+    "course_597": {
+      "subjectNotes": null,
+      "subject": "533",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "INTERNSHIP-HRM",
+      "preReqNotes": null,
+      "sections": [
+        "04551"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "INTERNSHIP IN HUMAN RESOURCE MANAGEMENT                                         "
+    }
+  },
+  {
+    "description": "Law",
+    "code": "601",
+    "course_505": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "FOOD AND DRUG LAW",
+      "preReqNotes": null,
+      "sections": [
+        "18097"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_506": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "CONSTITUTIONAL LAW",
+      "preReqNotes": null,
+      "sections": [
+        "18098",
+        "18493",
+        "18494"
+      ],
+      "supplementCode": "  ",
+      "credits": 4,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_509": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "CRITICAL LEGAL ANALY",
+      "preReqNotes": null,
+      "sections": [
+        "18217"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "CRITICAL LEGAL ANALYSIS                                                         "
+    },
+    "course_513": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "PERSUA IN LEGALWRITG",
+      "preReqNotes": null,
+      "sections": [
+        "18101"
+      ],
+      "supplementCode": "  ",
+      "credits": 2,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "PERSUASION IN LEGAL WRITING                                                     "
+    },
+    "course_516": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "CRIMINAL LAW",
+      "preReqNotes": null,
+      "sections": [
+        "18103",
+        "18495",
+        "18496"
+      ],
+      "supplementCode": "  ",
+      "credits": 4,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_522": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "ADV LEGAL RESEARCH",
+      "preReqNotes": null,
+      "sections": [
+        "19197"
+      ],
+      "supplementCode": "  ",
+      "credits": 2,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "ADVANCED LEGAL RESEARCH                                                         "
+    },
+    "course_526": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "CIV RIG LIT -CUR ISS",
+      "preReqNotes": null,
+      "sections": [
+        "18104"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "CIVIL RIGHTS LITIGATION - CURRENT ISSUES                                        "
+    },
+    "course_532": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "ADVANCED CLINIC 3",
+      "preReqNotes": null,
+      "sections": [
+        "18105"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "ADVANCED CLINIC 3                                                               "
+    },
+    "course_534": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "LAW JUSTICE & SOCIET",
+      "preReqNotes": null,
+      "sections": [
+        "18106"
+      ],
+      "supplementCode": "  ",
+      "credits": 2,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "LAW JUSTICE AND SOCIETY                                                         "
+    },
+    "course_535": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "FIRST AMENDMENT",
+      "preReqNotes": null,
+      "sections": [
+        "18107"
+      ],
+      "supplementCode": "  ",
+      "credits": 2,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_536": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "PROPERTY",
+      "preReqNotes": null,
+      "sections": [
+        "18108",
+        "18508",
+        "18509"
+      ],
+      "supplementCode": "  ",
+      "credits": 4,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_538": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "MERGERS&ACQUISITIONS",
+      "preReqNotes": null,
+      "sections": [
+        "18734"
+      ],
+      "supplementCode": "DU",
+      "credits": 2,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MERGERS AND ACQUISITIONS                                                        "
+    },
+    "course_540": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "CONTEMPORARY JURISPR",
+      "preReqNotes": null,
+      "sections": [
+        "19199"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "CONTEMPORARY JURISPRUDENCE                                                      "
+    },
+    "course_544": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "NEGOTIATION",
+      "preReqNotes": null,
+      "sections": [
+        "18110",
+        "18223"
+      ],
+      "supplementCode": "  ",
+      "credits": 2,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_550": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "LAWR II",
+      "preReqNotes": null,
+      "sections": [
+        "18497",
+        "18498",
+        "18499",
+        "18500",
+        "18501",
+        "18502",
+        "18503",
+        "18504",
+        "18505",
+        "18506",
+        "18507"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_557": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "ESTATE PLANNING",
+      "preReqNotes": null,
+      "sections": [
+        "18112"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_561": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "REMEDIES",
+      "preReqNotes": null,
+      "sections": [
+        "18113"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_567": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "ROMAN LAW",
+      "preReqNotes": null,
+      "sections": [
+        "18115"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_568": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "LAW & INEQUALITY",
+      "preReqNotes": null,
+      "sections": [
+        "18116",
+        "18510"
+      ],
+      "supplementCode": "  ",
+      "credits": 1,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "LAW AND INEQUALITY                                                              "
+    },
+    "course_578": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "HEALTHCAREFRAUD&ABUS",
+      "preReqNotes": null,
+      "sections": [
+        "19222"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "HEALTHCARE FRAUD & ABUSE                                                        "
+    },
+    "course_580": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "PATENT LITIGATION&EN",
+      "preReqNotes": null,
+      "sections": [
+        "18119"
+      ],
+      "supplementCode": "  ",
+      "credits": 2,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "PATENT LITIGATION                                                               "
+    },
+    "course_582": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "PROF RESPONSIBILITY",
+      "preReqNotes": null,
+      "sections": [
+        "19166",
+        "19184"
+      ],
+      "supplementCode": "DU",
+      "credits": 2,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "PROFESSIONAL RESPONSIBILITY                                                     "
+    },
+    "course_584": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "CMPLX CVL LITIGATN",
+      "preReqNotes": null,
+      "sections": [
+        "18120"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "COMPLEX CIVIL LITIGATION                                                        "
+    },
+    "course_586": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "SEXUAL GEND ID & LAW",
+      "preReqNotes": null,
+      "sections": [
+        "18121"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SEXUALITY, GENDER IDENTITY, AND THE LAW                                         "
+    },
+    "course_589": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "AMERICAN INDIAN LAW",
+      "preReqNotes": null,
+      "sections": [
+        "18923"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_591": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "ALT DISPTE RESOLUTN",
+      "preReqNotes": null,
+      "sections": [
+        "18122"
+      ],
+      "supplementCode": "  ",
+      "credits": 2,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "ALTERNATE DISPUTE RESOLUTION                                                    "
+    },
+    "course_592": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "PUBLIC HEALTH LAW",
+      "preReqNotes": null,
+      "sections": [
+        "19167"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "                                                                                "
+    },
+    "course_597": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "PRETRIAL ADVOCACY",
+      "preReqNotes": null,
+      "sections": [
+        "18123"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_599": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "ADV HOUS ADVO CLINIC",
+      "preReqNotes": null,
+      "sections": [
+        "18124"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "ADVANCED HOUSING ADVOCACY CLINIC                                                "
+    },
+    "course_603": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "FAMILYLAWMOTIONPRACT",
+      "preReqNotes": null,
+      "sections": [
+        "18125"
+      ],
+      "supplementCode": "  ",
+      "credits": 2,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "FAMILY LAW MOTION PRACTICE                                                      "
+    },
+    "course_605": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "EMPLOYMNT DISCRIM",
+      "preReqNotes": null,
+      "sections": [
+        "18126",
+        "19203"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "EMPLOYMENT DISCRIMINATION                                                       "
+    },
+    "course_607": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "PRODUCTS LIABILITY",
+      "preReqNotes": null,
+      "sections": [
+        "18127"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_611": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "IMMIGR JUSTICE CLINI",
+      "preReqNotes": null,
+      "sections": [
+        "18128"
+      ],
+      "supplementCode": "  ",
+      "credits": 6,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "IMMIGRANT JUSTICE CLINIC                                                        "
+    },
+    "course_612": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "INTERNET LAW",
+      "preReqNotes": null,
+      "sections": [
+        "19169"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_621": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "INTERNATIONAL LAW",
+      "preReqNotes": null,
+      "sections": [
+        "18129"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "INTRODUCTION TO INTERNATIONAL LAW                                               "
+    },
+    "course_628": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "CLIMATE CHANGE",
+      "preReqNotes": null,
+      "sections": [
+        "18924"
+      ],
+      "supplementCode": "  ",
+      "credits": 2,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_632": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "CNTMP ISS/SPORTS LAW",
+      "preReqNotes": null,
+      "sections": [
+        "19168"
+      ],
+      "supplementCode": "  ",
+      "credits": 2,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "CONTEMPORARY ISSUES IN SPORTS LAW                                               "
+    },
+    "course_634": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "WHISTLE BLOWERS& FCA",
+      "preReqNotes": null,
+      "sections": [
+        "19185"
+      ],
+      "supplementCode": "  ",
+      "credits": 2,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "WHISTLE BLOWERS AND FALSE CLAIM ACTS                                            "
+    },
+    "course_640": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "SALES",
+      "preReqNotes": null,
+      "sections": [
+        "18132"
+      ],
+      "supplementCode": "  ",
+      "credits": 4,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_642": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "POVERTY LAW",
+      "preReqNotes": null,
+      "sections": [
+        "18133"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_645": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "WELLNESS FOR LAWYERS",
+      "preReqNotes": null,
+      "sections": [
+        "18212"
+      ],
+      "supplementCode": "  ",
+      "credits": 2,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "WELLNESS FOR LAWYERS                                                            "
+    },
+    "course_646": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "SEX CRIMES",
+      "preReqNotes": null,
+      "sections": [
+        "18135"
+      ],
+      "supplementCode": "  ",
+      "credits": 2,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_651": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "TRIAL ADVOCACY",
+      "preReqNotes": "(24:601:556 )<em> OR </em>(24:601:691 )<em> OR </em>(23:600:705 )",
+      "sections": [
+        "18224"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_655": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "CRIM PRO-INVST PROCS",
+      "preReqNotes": null,
+      "sections": [
+        "18216"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "CRIMINAL PROCEDURE:  INVESTIGATIONS                                             "
+    },
+    "course_658": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "FAMILY LAW",
+      "preReqNotes": null,
+      "sections": [
+        "18139"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_672": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "BUSI. ORGANIZATIONS",
+      "preReqNotes": null,
+      "sections": [
+        "18142"
+      ],
+      "supplementCode": "  ",
+      "credits": 4,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "BUSINESS ORGANIZATIONS                                                          "
+    },
+    "course_674": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "DEPOSITION ADVOCACY",
+      "preReqNotes": null,
+      "sections": [
+        "19220"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "DEPOSITION ADVOCACY                                                             "
+    },
+    "course_675": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "TRADEMARK LAW",
+      "preReqNotes": null,
+      "sections": [
+        "18143"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_676": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "SEX DISCRIMINATION",
+      "preReqNotes": null,
+      "sections": [
+        "18144"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_677": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "MARITIME LAW",
+      "preReqNotes": null,
+      "sections": [
+        "18184"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_679": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "PLEA BARGAINING",
+      "preReqNotes": null,
+      "sections": [
+        "18145"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_681": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "CORPORATE FINANCE",
+      "preReqNotes": null,
+      "sections": [
+        "19198"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_682": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "CRIMINAL PRACTICE",
+      "preReqNotes": "(24:601:516 )<em> OR </em>(23:600:506 )",
+      "sections": [
+        "19221"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_686": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "CONFLICT OF LAWS",
+      "preReqNotes": null,
+      "sections": [
+        "18146"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_689": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "BANKRUPTCY",
+      "preReqNotes": null,
+      "sections": [
+        "18213"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_690": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "SECURED TRANSACTIONS",
+      "preReqNotes": null,
+      "sections": [
+        "18209"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_693": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "EXPUNGEMENT LAW PROJ",
+      "preReqNotes": null,
+      "sections": [
+        "18149"
+      ],
+      "supplementCode": "  ",
+      "credits": 4,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "EXPUNGEMENT LAW PROJECT                                                         "
+    },
+    "course_694": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "ADMINISTRATIVE LAW",
+      "preReqNotes": null,
+      "sections": [
+        "18150"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "ADMINISTRATIVE LAW                                                              "
+    },
+    "course_700": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "COMMON LAW CAPSTONE",
+      "preReqNotes": null,
+      "sections": [
+        "18673"
+      ],
+      "supplementCode": "  ",
+      "credits": 4,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "COMMON LAW CAPSTONE                                                             "
+    },
+    "course_703": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "HUNTER MOOT COURT II",
+      "preReqNotes": null,
+      "sections": [
+        "18151",
+        "19225"
+      ],
+      "supplementCode": "  ",
+      "credits": 2,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_707": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "DIRECTED RESEARCH",
+      "preReqNotes": null,
+      "sections": [
+        "18152"
+      ],
+      "supplementCode": "  ",
+      "credits": 1,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_708": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "DIRECTED RESEARCH",
+      "preReqNotes": null,
+      "sections": [
+        "18153"
+      ],
+      "supplementCode": "  ",
+      "credits": 2,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_710": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "DIRECTED PRACTICUM",
+      "preReqNotes": null,
+      "sections": [
+        "18154"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "DIRECTED PRACTICUM                                                              "
+    },
+    "course_720": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "DEALS",
+      "preReqNotes": null,
+      "sections": [
+        "18156"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_731": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "EAGLETON FELLOWSHIP",
+      "preReqNotes": null,
+      "sections": [
+        "18157"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_737": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "ADV DOM VIOL CLIN",
+      "preReqNotes": null,
+      "sections": [
+        "19404"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "ADVANCED DOMESTIC VIOLENCE CLINIC                                               "
+    },
+    "course_741": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "HUNTER MOOT COURT FL",
+      "preReqNotes": null,
+      "sections": [
+        "19224"
+      ],
+      "supplementCode": "  ",
+      "credits": 1.5,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "APP. ADV. - HUNTER MOOT COURT FELLOWS                                           "
+    },
+    "course_750": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "ADV CHILD&FAM ADV CL",
+      "preReqNotes": null,
+      "sections": [
+        "18159"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "ADVANCED CHILD AND FAMILY ADVOCACY CLINIC                                       "
+    },
+    "course_751": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "LAWR TEACHING FELLOW",
+      "preReqNotes": null,
+      "sections": [
+        "19226"
+      ],
+      "supplementCode": "  ",
+      "credits": 1.5,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "LAWR TEACHING FELLOWS                                                           "
+    },
+    "course_754": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "RETHINKING CRIM LAW",
+      "preReqNotes": null,
+      "sections": [
+        "18160"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "RETHINKING CRIMINAL LAW: NON-PUNITIVE APPROACHES TO ACCOUNTABILITY AND REPAIR   "
+    },
+    "course_757": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "MUNICPL CRT&DUI PRAC",
+      "preReqNotes": null,
+      "sections": [
+        "19170"
+      ],
+      "supplementCode": "  ",
+      "credits": 2,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MUNICIPAL COURT AND DUI PRACTICE                                                "
+    },
+    "course_759": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "PRAC EXTERN II",
+      "preReqNotes": null,
+      "sections": [
+        "18161"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "PRACTICE EXTERNSHIP II                                                          "
+    },
+    "course_764": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "ADV TRIAL ADVOC COMP",
+      "preReqNotes": null,
+      "sections": [
+        "19223"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "ADVANCED TRIAL ADVOCACY COMPETITION TEAM                                        "
+    },
+    "course_779": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "ADV APP RES & WRI FE",
+      "preReqNotes": null,
+      "sections": [
+        "18165"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "ADVANCED APPELLATE RESEARCH AND WRITING FELLOWS                                 "
+    },
+    "course_781": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "ADV. IMMIG JUST CLIN",
+      "preReqNotes": null,
+      "sections": [
+        "18166"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "ADVANCED IMMIGRANT JUSTICE CLINIC                                               "
+    },
+    "course_783": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "REAL EST LAW PRACTCM",
+      "preReqNotes": null,
+      "sections": [
+        "19183"
+      ],
+      "supplementCode": "  ",
+      "credits": 2,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "REAL ESTATE LAW PRACTICUM                                                       "
+    },
+    "course_784": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "MARSHALL BRENNAN FEL",
+      "preReqNotes": null,
+      "sections": [
+        "19227"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MARSHALL BRENNAN FELLOWS                                                        "
+    },
+    "course_785": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "HIGHER ED & THE LAW",
+      "preReqNotes": null,
+      "sections": [
+        "18203"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "HIGHER EDUCATION AND THE LAW                                                    "
+    },
+    "course_790": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "JUDICIAL EXTERNSHIP",
+      "preReqNotes": null,
+      "sections": [
+        "18169"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_791": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "ADVANCED CLINIC 2",
+      "preReqNotes": null,
+      "sections": [
+        "18170"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_792": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "HOUSING ADVOC CLINIC",
+      "preReqNotes": null,
+      "sections": [
+        "18171"
+      ],
+      "supplementCode": "  ",
+      "credits": 6,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "HOUSING ADVOCACY CLINIC                                                         "
+    },
+    "course_795": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "PRACTICE EXTERNSHIP",
+      "preReqNotes": null,
+      "sections": [
+        "18172"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_797": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "JUDICIAL EXTERNSHIP2",
+      "preReqNotes": null,
+      "sections": [
+        "18173"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "JUDICIAL EXTERNSHIP 2                                                           "
+    },
+    "course_800": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "JRNL LAW& PUB POLICY",
+      "preReqNotes": null,
+      "sections": [
+        "05308"
+      ],
+      "supplementCode": "DU",
+      "credits": 1,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "JOURNAL OF LAW AND PUBLIC POLICY                                                "
+    },
+    "course_801": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "JRNL LAW & RELIGION",
+      "preReqNotes": null,
+      "sections": [
+        "05309"
+      ],
+      "supplementCode": "  ",
+      "credits": 0.5,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "JOURNAL OF LAW AND RELIGION                                                     "
+    },
+    "course_802": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "RUTGERS LAW REVIEW",
+      "preReqNotes": null,
+      "sections": [
+        "05311"
+      ],
+      "supplementCode": "  ",
+      "credits": 0.5,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "RUTGERS LAW REVIEW                                                              "
+    },
+    "course_899": {
+      "subjectNotes": null,
+      "subject": "601",
+      "synopsisUrl": null,
+      "offeringUnitCode": "24",
+      "title": "ACADEMIC SUCCESS PRG",
+      "preReqNotes": null,
+      "sections": [
+        "18642",
+        "18726"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "ACADEMIC SUCCESS PROGRAM                                                        "
+    }
+  },
+  {
+    "description": "Liberal Studies",
+    "code": "606",
+    "course_500": {
+      "subjectNotes": null,
+      "subject": "606",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "INTRO GRAD LIB STUDY",
+      "preReqNotes": null,
+      "sections": [
+        "04777"
+      ],
+      "supplementCode": "  ",
+      "credits": 1,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "INTRODUCTION TO GRADUATE LIBERAL STUDIES                                        "
+    },
+    "course_613": {
+      "subjectNotes": null,
+      "subject": "606",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "ARTS & LITERATURE",
+      "preReqNotes": null,
+      "sections": [
+        "04778"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "STUDIES IN ARTS AND LITERATURE                                                  "
+    },
+    "course_626": {
+      "subjectNotes": null,
+      "subject": "606",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "POLITICS & SOCIETY",
+      "preReqNotes": null,
+      "sections": [
+        "04779"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "STUDIES OF POLITICS AND SOCIETY                                                 "
+    },
+    "course_631": {
+      "subjectNotes": null,
+      "subject": "606",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "CULTURE & CRITICISM",
+      "preReqNotes": null,
+      "sections": [
+        "04780"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "STUDIES OF CULTURE AND CRITICISM                                                "
+    },
+    "course_643": {
+      "subjectNotes": null,
+      "subject": "606",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "PHILOS AND RELIGION",
+      "preReqNotes": null,
+      "sections": [
+        "04781"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "STUDIES OF PHILOSOPHY AND RELIGION                                              "
+    },
+    "course_671": {
+      "subjectNotes": null,
+      "subject": "606",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "HISTORICAL ANALYSIS",
+      "preReqNotes": null,
+      "sections": [
+        "04782"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "STUDIES IN HISTORICAL ANALYSIS                                                  "
+    },
+    "course_689": {
+      "subjectNotes": null,
+      "subject": "606",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "CAPSTONE RESEARCH",
+      "preReqNotes": null,
+      "sections": [
+        "04783",
+        "04784",
+        "04785",
+        "18479",
+        "18911",
+        "18916",
+        "18917"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "CAPSTONE RESEARCH                                                               "
+    },
+    "course_690": {
+      "subjectNotes": null,
+      "subject": "606",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "RESEARCH LIB STUDIES",
+      "preReqNotes": null,
+      "sections": [
+        "04786",
+        "04787"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_800": {
+      "subjectNotes": null,
+      "subject": "606",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "MATRICULATION CONTD",
+      "preReqNotes": null,
+      "sections": [
+        "04788",
+        "18014"
+      ],
+      "supplementCode": "  ",
+      "credits": 0,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MATRICULATION CONTINUATION                                                      "
+    }
+  },
+  {
+    "description": "Management",
+    "code": "620",
+    "course_505": {
+      "subjectNotes": null,
+      "subject": "620",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "FNDN LDRSHP & TEAMWK",
+      "preReqNotes": null,
+      "sections": [
+        "04554"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "FOUNDATIONS OF LEADERSHIP AND TEAMWORK                                          "
+    },
+    "course_506": {
+      "subjectNotes": null,
+      "subject": "620",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "MNGNG GLOBAL ECONOMY",
+      "preReqNotes": null,
+      "sections": [
+        "04557",
+        "04558"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MANAGING IN THE GLOBAL ECONOMY                                                  "
+    },
+    "course_540": {
+      "subjectNotes": null,
+      "subject": "620",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "INT STY MGMT SAFRICA",
+      "preReqNotes": null,
+      "sections": [
+        "04486",
+        "04560"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_551": {
+      "subjectNotes": null,
+      "subject": "620",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "INFO & CYBERSECURITY",
+      "preReqNotes": null,
+      "sections": [
+        "05320"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "INFORMATION AND CYBER SECURITY                                                  "
+    },
+    "course_555": {
+      "subjectNotes": null,
+      "subject": "620",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "DATA VISUAL-TABLEAU",
+      "preReqNotes": null,
+      "sections": [
+        "05321"
+      ],
+      "supplementCode": "  ",
+      "credits": 1,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "DATA VISUALIZATION WITH TABLEAU                                                 "
+    },
+    "course_557": {
+      "subjectNotes": null,
+      "subject": "620",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "LN SIX SIGMA/GREEN-1",
+      "preReqNotes": null,
+      "sections": [
+        "05323"
+      ],
+      "supplementCode": "  ",
+      "credits": 1,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "LEAN SIX SIGMA GREEN BELT P1                                                    "
+    },
+    "course_558": {
+      "subjectNotes": null,
+      "subject": "620",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "LN SIX SIGMA GREEN-2",
+      "preReqNotes": null,
+      "sections": [
+        "05324"
+      ],
+      "supplementCode": "  ",
+      "credits": 1,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "LEAN SIX SIGMA GREEN BELT P2                                                    "
+    },
+    "course_672": {
+      "subjectNotes": null,
+      "subject": "620",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "STRATEGIC MANAGEMENT",
+      "preReqNotes": null,
+      "sections": [
+        "04563"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "STRATEGIC MANAGEMENT                                                            "
+    },
+    "course_677": {
+      "subjectNotes": null,
+      "subject": "620",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "SPEC TOP MANAGEMENT",
+      "preReqNotes": null,
+      "sections": [
+        "19443"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_800": {
+      "subjectNotes": null,
+      "subject": "620",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "MATRICULATION CONTD",
+      "preReqNotes": null,
+      "sections": [
+        "04566",
+        "04567",
+        "04568"
+      ],
+      "supplementCode": "  ",
+      "credits": 0,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MATRICULATION CONTINUATION                                                      "
+    }
+  },
+  {
+    "description": "Management Science and Information Systems",
+    "code": "623",
+    "course_510": {
+      "subjectNotes": null,
+      "subject": "623",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "IT STRATGY & PRJ MGT",
+      "preReqNotes": null,
+      "sections": [
+        "04569"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "IT STRATEGY AND PROJECT MANAGEMENT                                              "
+    },
+    "course_517": {
+      "subjectNotes": null,
+      "subject": "623",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "DATA MGMT & BUS INTL",
+      "preReqNotes": "(53:716:502 )",
+      "sections": [
+        "04572"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "DATA MANAGEMENT AND BUSINESS            INTELLIGENCE                            "
+    },
+    "course_521": {
+      "subjectNotes": null,
+      "subject": "623",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "DIRECTED STUDY MIS",
+      "preReqNotes": "(53:623:510 )",
+      "sections": [
+        "04573"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_598": {
+      "subjectNotes": null,
+      "subject": "623",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "INTERN BUSI ANALYTIC",
+      "preReqNotes": null,
+      "sections": [
+        "18722"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "INTERNSHIP IN BUSINESS ANALYTICS                                                "
+    }
+  },
+  {
+    "description": "Marketing",
+    "code": "630",
+    "course_508": {
+      "subjectNotes": null,
+      "subject": "630",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "MARKETING MANAGEMENT",
+      "preReqNotes": null,
+      "sections": [
+        "04576"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MARKETING MANAGEMENT                                                            "
+    },
+    "course_509": {
+      "subjectNotes": null,
+      "subject": "630",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "CUSTOMER ANALYTICS",
+      "preReqNotes": null,
+      "sections": [
+        "04578",
+        "05203",
+        "18233"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_521": {
+      "subjectNotes": null,
+      "subject": "630",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "DIRECTED STUDY MRKT",
+      "preReqNotes": "(53:630:508 )",
+      "sections": [
+        "04579"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "DIRECTED STUDY MARKETING                                                        "
+    },
+    "course_535": {
+      "subjectNotes": null,
+      "subject": "630",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "SOCIAL MEDIA STRAT",
+      "preReqNotes": null,
+      "sections": [
+        "04580",
+        "04581"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SOCIAL MEDIA STRATEGY                                                           "
+    },
+    "course_540": {
+      "subjectNotes": null,
+      "subject": "630",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "INT STY MRKT SAFRICA",
+      "preReqNotes": null,
+      "sections": [
+        "04487",
+        "04582"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_597": {
+      "subjectNotes": null,
+      "subject": "630",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "INTERNSHIP - MKTG",
+      "preReqNotes": null,
+      "sections": [
+        "04583"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "INTERNSHIP IN MARKETING                                                         "
+    }
+  },
+  {
+    "description": "Mathematical Science",
+    "code": "645",
+    "course_503": {
+      "subjectNotes": null,
+      "subject": "645",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "COMPLEX VARIABLES",
+      "preReqNotes": null,
+      "sections": [
+        "04789"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_511": {
+      "subjectNotes": null,
+      "subject": "645",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "SCI COMP WITH C++",
+      "preReqNotes": null,
+      "sections": [
+        "03850"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SCIENTIFIC COMPUTING WITH C++                                                   "
+    },
+    "course_527": {
+      "subjectNotes": null,
+      "subject": "645",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "METHODS APPLIED MATH",
+      "preReqNotes": null,
+      "sections": [
+        "03848"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_532": {
+      "subjectNotes": null,
+      "subject": "645",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "DIFFERENTL GEOMETRY",
+      "preReqNotes": null,
+      "sections": [
+        "03846"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_556": {
+      "subjectNotes": null,
+      "subject": "645",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "DATA VISUALIZATION",
+      "preReqNotes": null,
+      "sections": [
+        "18815"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_557": {
+      "subjectNotes": null,
+      "subject": "645",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "REGRESSION&TIMESERI",
+      "preReqNotes": null,
+      "sections": [
+        "04342"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "REGRESSION AND TIME SERIES                                                      "
+    },
+    "course_558": {
+      "subjectNotes": null,
+      "subject": "645",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "PROB & STOCH PROC",
+      "preReqNotes": null,
+      "sections": [
+        "04736"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "PROBABILITY AND STOCHASTIC PROCESSES                                            "
+    },
+    "course_570": {
+      "subjectNotes": null,
+      "subject": "645",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "SPECIAL TOPICS MATH",
+      "preReqNotes": null,
+      "sections": [
+        "19122"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": " SPECIAL TOPICS IN PURE MATHEMATHICS                                            "
+    },
+    "course_572": {
+      "subjectNotes": null,
+      "subject": "645",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "COMPUTATIONL MATH II",
+      "preReqNotes": null,
+      "sections": [
+        "03854"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_580": {
+      "subjectNotes": null,
+      "subject": "645",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "SPEC TOPIC:APPL MATH",
+      "preReqNotes": null,
+      "sections": [
+        "03856"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SPECIAL TOPICS IN APPLIED MATH                                                  "
+    },
+    "course_698": {
+      "subjectNotes": null,
+      "subject": "645",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "IND STUDY PURE MATH",
+      "preReqNotes": null,
+      "sections": [
+        "04790"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "INDIVIDUAL STUDY PURE MATH                                                      "
+    },
+    "course_699": {
+      "subjectNotes": null,
+      "subject": "645",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "IND STUDY APPL MATH",
+      "preReqNotes": null,
+      "sections": [
+        "04791"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "INDIVIDUAL STUDY APPLIED MATH                                                   "
+    },
+    "course_700": {
+      "subjectNotes": null,
+      "subject": "645",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "THESIS PURE MATH",
+      "preReqNotes": null,
+      "sections": [
+        "19483"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_701": {
+      "subjectNotes": null,
+      "subject": "645",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "THESIS APPLIED MATH",
+      "preReqNotes": null,
+      "sections": [
+        "19484"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_800": {
+      "subjectNotes": null,
+      "subject": "645",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "MATRICULATION CONTD",
+      "preReqNotes": null,
+      "sections": [
+        "00586"
+      ],
+      "supplementCode": "  ",
+      "credits": 0,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MATRICULATION CONTINUATION                                                      "
+    }
+  },
+  {
+    "description": "Nursing",
+    "code": "705",
+    "course_517": {
+      "subjectNotes": null,
+      "subject": "705",
+      "synopsisUrl": "http://sis.rutgers.edu/soc/",
+      "offeringUnitCode": "58",
+      "title": "EVIDENCE PROMO&PRACT",
+      "preReqNotes": null,
+      "sections": [
+        "05056"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "EVIDENCE BASED PREVENTION, PROMOTION    AND PRACTICE                            "
+    },
+    "course_521": {
+      "subjectNotes": null,
+      "subject": "705",
+      "synopsisUrl": "http://sis.rutgers.edu/soc/",
+      "offeringUnitCode": "58",
+      "title": "ADV HLTH/PHYS ASSESS",
+      "preReqNotes": null,
+      "sections": [
+        "05057",
+        "19218"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "ADVANCED HEALTH/PHYSICAL ASSESSMENT                                             "
+    },
+    "course_523": {
+      "subjectNotes": null,
+      "subject": "705",
+      "synopsisUrl": "http://sis.rutgers.edu/soc/",
+      "offeringUnitCode": "58",
+      "title": "ADV PATHOPHSIOLOGY",
+      "preReqNotes": null,
+      "sections": [
+        "05058"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "ADVANCED PATHOPHYSIOLOGY                                                        "
+    },
+    "course_525": {
+      "subjectNotes": null,
+      "subject": "705",
+      "synopsisUrl": "http://sis.rutgers.edu/soc/",
+      "offeringUnitCode": "58",
+      "title": "ADV PHARMACOLOGY",
+      "preReqNotes": null,
+      "sections": [
+        "05059"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "ADVANCED PHARMACOLOGY                                                           "
+    },
+    "course_526": {
+      "subjectNotes": null,
+      "subject": "705",
+      "synopsisUrl": "http://sis.rutgers.edu/soc/",
+      "offeringUnitCode": "58",
+      "title": "APN ROLE TRANSITION",
+      "preReqNotes": null,
+      "sections": [
+        "05060"
+      ],
+      "supplementCode": "  ",
+      "credits": 2,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "APN ROLE TRANSITION                                                             "
+    },
+    "course_540": {
+      "subjectNotes": null,
+      "subject": "705",
+      "synopsisUrl": "http://sis.rutgers.edu/soc/",
+      "offeringUnitCode": "58",
+      "title": "CURRICULUM DEV NURSE",
+      "preReqNotes": null,
+      "sections": [
+        "18484"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "CURRICULUM DEVELOPMENT IN NURSING EDUCATION                                     "
+    },
+    "course_552": {
+      "subjectNotes": null,
+      "subject": "705",
+      "synopsisUrl": "http://sis.rutgers.edu/soc/",
+      "offeringUnitCode": "58",
+      "title": "WOC NURSING II",
+      "preReqNotes": null,
+      "sections": [
+        "05061",
+        "05062"
+      ],
+      "supplementCode": "  ",
+      "credits": 5,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "WOUND OSTOMY CONTINENCE NURSING II                                              "
+    },
+    "course_561": {
+      "subjectNotes": null,
+      "subject": "705",
+      "synopsisUrl": "http://sis.rutgers.edu/soc/",
+      "offeringUnitCode": "58",
+      "title": "IMPR POPULATION HLTH",
+      "preReqNotes": null,
+      "sections": [
+        "18240"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "IMPROVING POPULATION HEALTH                                                     "
+    },
+    "course_589": {
+      "subjectNotes": null,
+      "subject": "705",
+      "synopsisUrl": "http://sis.rutgers.edu/soc/",
+      "offeringUnitCode": "58",
+      "title": "SPEC'L TOP ADV NURSG",
+      "preReqNotes": null,
+      "sections": [
+        "19471"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SPECIAL TOPICS IN ADVANCED NURSING                                              "
+    },
+    "course_607": {
+      "subjectNotes": null,
+      "subject": "705",
+      "synopsisUrl": "http://sis.rutgers.edu/soc/",
+      "offeringUnitCode": "58",
+      "title": "HEALTH INFO SYSTEMS",
+      "preReqNotes": null,
+      "sections": [
+        "05063"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "HEALTH INFORMATION SYSTEMS AND          TECHNOLOGY                              "
+    },
+    "course_661": {
+      "subjectNotes": null,
+      "subject": "705",
+      "synopsisUrl": "http://sis.rutgers.edu/soc/",
+      "offeringUnitCode": "58",
+      "title": "ADLT/GER COMP THEORY",
+      "preReqNotes": null,
+      "sections": [
+        "05064"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "ADULT GERONTOLOGICAL COMPLEX CARE       THEORY                                  "
+    },
+    "course_663": {
+      "subjectNotes": null,
+      "subject": "705",
+      "synopsisUrl": "http://sis.rutgers.edu/soc/",
+      "offeringUnitCode": "58",
+      "title": "AD/GERO COMPLEX RESD",
+      "preReqNotes": null,
+      "sections": [
+        "05065"
+      ],
+      "supplementCode": "  ",
+      "credits": 4,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "ADULT GERONTOLOGICAL COMPLEX CARE       RESIDENCY                               "
+    },
+    "course_668": {
+      "subjectNotes": null,
+      "subject": "705",
+      "synopsisUrl": "http://sis.rutgers.edu/soc/",
+      "offeringUnitCode": "58",
+      "title": "FNP: COMPLEX CARE",
+      "preReqNotes": null,
+      "sections": [
+        "05066",
+        "05067"
+      ],
+      "supplementCode": "  ",
+      "credits": 5,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "FAMILY HEALTH THEORY AND RESIDENCY:     COMPLEX CARE                            "
+    },
+    "course_669": {
+      "subjectNotes": null,
+      "subject": "705",
+      "synopsisUrl": "http://sis.rutgers.edu/soc/",
+      "offeringUnitCode": "58",
+      "title": "FNP:WOMEN &PERINATAL",
+      "preReqNotes": null,
+      "sections": [
+        "05068"
+      ],
+      "supplementCode": "  ",
+      "credits": 5,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "FAMILY HEALTH THEORY AND RESIDENCY:     WOMEN'S AND PERINATAL                   "
+    },
+    "course_671": {
+      "subjectNotes": null,
+      "subject": "705",
+      "synopsisUrl": "http://sis.rutgers.edu/soc/",
+      "offeringUnitCode": "58",
+      "title": "SCHOLARLY SEMINAR I",
+      "preReqNotes": null,
+      "sections": [
+        "05070",
+        "05069",
+        "18359"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SCHOLARLY SEMINAR I                                                             "
+    },
+    "course_673": {
+      "subjectNotes": null,
+      "subject": "705",
+      "synopsisUrl": "http://sis.rutgers.edu/soc/",
+      "offeringUnitCode": "58",
+      "title": "SCHOLARLY SEMINAR 3",
+      "preReqNotes": null,
+      "sections": [
+        "05071",
+        "05072"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SCHOLARLY SEMINAR III                                                           "
+    },
+    "course_676": {
+      "subjectNotes": null,
+      "subject": "705",
+      "synopsisUrl": "http://sis.rutgers.edu/soc/",
+      "offeringUnitCode": "58",
+      "title": "SPEC'L RESIDENCY IV",
+      "preReqNotes": null,
+      "sections": [
+        "05073"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SPECIALTY RESIDENCY IV                                                          "
+    },
+    "course_679": {
+      "subjectNotes": null,
+      "subject": "705",
+      "synopsisUrl": "http://sis.rutgers.edu/soc/",
+      "offeringUnitCode": "58",
+      "title": "FNP: PRACTICUM",
+      "preReqNotes": null,
+      "sections": [
+        "05074",
+        "05076"
+      ],
+      "supplementCode": "  ",
+      "credits": 4,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "FAMILY HEALTH PRACTICUM                                                         "
+    },
+    "course_691": {
+      "subjectNotes": null,
+      "subject": "705",
+      "synopsisUrl": "http://sis.rutgers.edu/soc/",
+      "offeringUnitCode": "58",
+      "title": "LEAD INTER COL TEAMS",
+      "preReqNotes": null,
+      "sections": [
+        "05077"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "LEADING INTERPROFESSIONAL COLLABORATIVE TEAMS IN HEALTHCARE ORGANIZATIONS       "
+    },
+    "course_695": {
+      "subjectNotes": null,
+      "subject": "705",
+      "synopsisUrl": "http://sis.rutgers.edu/soc/",
+      "offeringUnitCode": "58",
+      "title": "NAT&GLOBAL HLTH POLI",
+      "preReqNotes": null,
+      "sections": [
+        "05078"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "NATIONAL AND GLOBAL HEALTH POLICIES                                             "
+    },
+    "course_800": {
+      "subjectNotes": null,
+      "subject": "705",
+      "synopsisUrl": "http://sis.rutgers.edu/soc/",
+      "offeringUnitCode": "58",
+      "title": "MATRICULATION CONTD",
+      "preReqNotes": null,
+      "sections": [
+        "17761"
+      ],
+      "supplementCode": "  ",
+      "credits": 0,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MATRICULATION CONTINUATION                                                      "
+    }
+  },
+  {
+    "description": "Operations Management",
+    "code": "716",
+    "course_502": {
+      "subjectNotes": null,
+      "subject": "716",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "BUSINESS ANALYTICS",
+      "preReqNotes": null,
+      "sections": [
+        "04585",
+        "04586",
+        "04587"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "BUSINESS ANALYTICS                                                              "
+    },
+    "course_513": {
+      "subjectNotes": null,
+      "subject": "716",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "OPT&SUPPLY CHAIN MGT",
+      "preReqNotes": null,
+      "sections": [
+        "04588",
+        "04589"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "OPERATIONS AND SUPPLY CHAIN MANAGEMENT                                          "
+    },
+    "course_521": {
+      "subjectNotes": null,
+      "subject": "716",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "DIRECT STY OPTS MGMT",
+      "preReqNotes": "(56:716:513 )",
+      "sections": [
+        "04590"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "DIRECTED STUDY IN OPERATIONS            MANAGEMENT                              "
+    },
+    "course_535": {
+      "subjectNotes": null,
+      "subject": "716",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "BIG DATA ANALYTICS",
+      "preReqNotes": "(53:716:502 )",
+      "sections": [
+        "18605",
+        "18606"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "BIG DATA ANALYTICS                                                              "
+    },
+    "course_545": {
+      "subjectNotes": null,
+      "subject": "716",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "MACHINE LRNG APPLIC",
+      "preReqNotes": "(53:716:502 )",
+      "sections": [
+        "04591"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MACHINE LEARNING APPLICATIONS IN BUSINESS                                       "
+    },
+    "course_550": {
+      "subjectNotes": null,
+      "subject": "716",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "SUPPLYCHAIN ANALYTIC",
+      "preReqNotes": "(53:716:502 )",
+      "sections": [
+        "04592"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SUPPLY CHAIN ANALYTICS                                                          "
+    },
+    "course_597": {
+      "subjectNotes": null,
+      "subject": "716",
+      "synopsisUrl": null,
+      "offeringUnitCode": "53",
+      "title": "INTRN OPERATION MGMT",
+      "preReqNotes": null,
+      "sections": [
+        "04593"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "INTERNSHIP IN OPERATIONS MANAGEMENT                                             "
+    }
+  },
+  {
+    "description": "Prevention Science",
+    "code": "792",
+    "course_503": {
+      "subjectNotes": null,
+      "subject": "792",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "CRNT TPC PREVENT SCI",
+      "preReqNotes": null,
+      "sections": [
+        "04792"
+      ],
+      "supplementCode": "  ",
+      "credits": 1,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "CURRENT TOPICS IN PREVENTION SCIENCE                                            "
+    },
+    "course_504": {
+      "subjectNotes": null,
+      "subject": "792",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "SOC DTRMNT OF HEALTH",
+      "preReqNotes": null,
+      "sections": [
+        "04793"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SOCIAL DETERMINANTS OF HEALTH                                                   "
+    },
+    "course_602": {
+      "subjectNotes": null,
+      "subject": "792",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "DESIGN CAUSAL ANALYS",
+      "preReqNotes": null,
+      "sections": [
+        "04794"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "DESIGN FOR CAUSAL ANALYSIS                                                      "
+    },
+    "course_605": {
+      "subjectNotes": null,
+      "subject": "792",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "SEM ACTION RESEARCH",
+      "preReqNotes": null,
+      "sections": [
+        "18017"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SEMINAR IN ACTION RESEARCH                                                      "
+    },
+    "course_702": {
+      "subjectNotes": null,
+      "subject": "792",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "APP RES PREV SCIENCE",
+      "preReqNotes": "(56:792:501 )<em> AND </em>(56:830:580 )<em> AND </em>(56:792:502 )",
+      "sections": [
+        "18018"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "APPLIED RESEARCH IN PREVENTION SCIENCE                                          "
+    }
+  },
+  {
+    "description": "Professional Psychology",
+    "code": "820",
+    "course_521": {
+      "subjectNotes": null,
+      "subject": "820",
+      "synopsisUrl": "http://gsappweb.rutgers.edu/programs/courses/coursesoffered.php#18:820/coursesoffered.php",
+      "offeringUnitCode": "18",
+      "title": "ETHICS BEHAV ANALYS",
+      "preReqNotes": "(18:820:512 )<em> AND </em>(18:820:513 )",
+      "sections": [
+        "19316"
+      ],
+      "supplementCode": "CM",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "ETHICS FOR BEHAVIOR ANALYSIS                                                    "
+    }
+  },
+  {
+    "description": "Public Affairs",
+    "code": "824",
+    "course_701": {
+      "subjectNotes": null,
+      "subject": "824",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "THEORY COMM DEV",
+      "preReqNotes": null,
+      "sections": [
+        "04795"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "THEORY OF COMMUNITY DEVELOPMENT                                                 "
+    },
+    "course_709": {
+      "subjectNotes": null,
+      "subject": "824",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "QUANTITATIVE METH II",
+      "preReqNotes": "(56:824:702 )",
+      "sections": [
+        "18808"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "QUANTITATIVE METHODS II                                                         "
+    },
+    "course_710": {
+      "subjectNotes": null,
+      "subject": "824",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "PLAN MRKTS COMM DEVL",
+      "preReqNotes": null,
+      "sections": [
+        "04797"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "BUSINESS SEMINAR PLANNING MARKETS AND   COMMUNITY DEVELOPMENT                   "
+    },
+    "course_712": {
+      "subjectNotes": null,
+      "subject": "824",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "SPECIAL PROBLEMS PHD",
+      "preReqNotes": null,
+      "sections": [
+        "04799",
+        "04801",
+        "04802",
+        "04804"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_713": {
+      "subjectNotes": null,
+      "subject": "824",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "RESEARCH DESIGN",
+      "preReqNotes": "(56:824:702 )<em> AND </em>(56:824:703 )<em> AND </em>(56:824:709 )",
+      "sections": [
+        "04806"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "RESEARCH DESIGN                                                                 "
+    },
+    "course_719": {
+      "subjectNotes": null,
+      "subject": "824",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "DIRECTED STUDY",
+      "preReqNotes": null,
+      "sections": [
+        "04807",
+        "04808",
+        "04809",
+        "04810",
+        "04811",
+        "04812",
+        "04813",
+        "04814",
+        "04815",
+        "04816"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "DIRECTED STUDY                                                                  "
+    },
+    "course_724": {
+      "subjectNotes": null,
+      "subject": "824",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "LABOR MGMT RELATIONS",
+      "preReqNotes": null,
+      "sections": [
+        "04817"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "LABOR MANAGEMENT RELATIONS IN THE       PRIVATE AND PUBLIC SECTORS              "
+    },
+    "course_790": {
+      "subjectNotes": null,
+      "subject": "824",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "DOCT DISSERTATION",
+      "preReqNotes": null,
+      "sections": [
+        "04819",
+        "04820",
+        "04821",
+        "04822",
+        "04823",
+        "04824",
+        "04825",
+        "04826",
+        "04827"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "DOCTORAL DISSERTATION                                                           "
+    },
+    "course_800": {
+      "subjectNotes": null,
+      "subject": "824",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "MATRICULATION CONTD",
+      "preReqNotes": null,
+      "sections": [
+        "04828"
+      ],
+      "supplementCode": "  ",
+      "credits": 0,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MATRICULATION CONTINUATION                                                      "
+    },
+    "course_866": {
+      "subjectNotes": null,
+      "subject": "824",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "GRADUATE ASSISTANT",
+      "preReqNotes": null,
+      "sections": [
+        "04829"
+      ],
+      "supplementCode": "  ",
+      "credits": 0,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "GRADUATE ASSISTANTSHIP-PUBLIC AFFAIRS                                           "
+    }
+  },
+  {
+    "description": "Psychology",
+    "code": "830",
+    "course_590": {
+      "subjectNotes": null,
+      "subject": "830",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "INDEP STDY-THES PROP",
+      "preReqNotes": null,
+      "sections": [
+        "17808"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "INDEPENDENT STUDY:  THESIS PROPOSAL                                             "
+    },
+    "course_640": {
+      "subjectNotes": null,
+      "subject": "830",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "GRAD ABNORMAL PSYC",
+      "preReqNotes": null,
+      "sections": [
+        "04830"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "GRADUATE ABNORMAL PSYCHOLOGY                                                    "
+    },
+    "course_674": {
+      "subjectNotes": null,
+      "subject": "830",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "ST IN PSYCHOLOGY",
+      "preReqNotes": null,
+      "sections": [
+        "04831"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SPECIAL TOPICS IN PSYCHOLOGY                                                    "
+    },
+    "course_690": {
+      "subjectNotes": null,
+      "subject": "830",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "INDEP STDY-THES.RESE",
+      "preReqNotes": null,
+      "sections": [
+        "17809"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "INDEPENDENT STUDY:  THESIS RESEARCH                                             "
+    },
+    "course_701": {
+      "subjectNotes": null,
+      "subject": "830",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "RESEARCH IN PSYCH",
+      "preReqNotes": null,
+      "sections": [
+        "18295"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": " RESEARCH IN PSYCHOLOGY                                                         "
+    },
+    "course_703": {
+      "subjectNotes": null,
+      "subject": "830",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "READINGS IN PSYCH",
+      "preReqNotes": null,
+      "sections": [
+        "04832"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "READINGS IN PSYCHOLOGY                                                          "
+    },
+    "course_800": {
+      "subjectNotes": null,
+      "subject": "830",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "MATRICULATION CONTD",
+      "preReqNotes": null,
+      "sections": [
+        "17810"
+      ],
+      "supplementCode": "  ",
+      "credits": 0,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MATRICULATION CONTINUATION                                                      "
+    }
+  },
+  {
+    "description": "Public Administration, Executive",
+    "code": "831",
+    "course_800": {
+      "subjectNotes": null,
+      "subject": "831",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "MATRICULATION CONT",
+      "preReqNotes": null,
+      "sections": [
+        "04837"
+      ],
+      "supplementCode": "  ",
+      "credits": 0,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MATRICULATION CONTINUED                                                         "
+    }
+  },
+  {
+    "description": "Public Administration",
+    "code": "834",
+    "course_501": {
+      "subjectNotes": null,
+      "subject": "834",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "FDTNS POLICY ANALYS",
+      "preReqNotes": null,
+      "sections": [
+        "04838"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_515": {
+      "subjectNotes": null,
+      "subject": "834",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "INTRO PUB BUDGET/FIN",
+      "preReqNotes": null,
+      "sections": [
+        "04839"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_521": {
+      "subjectNotes": null,
+      "subject": "834",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "DIRECTED STUDY",
+      "preReqNotes": null,
+      "sections": [
+        "04840",
+        "04841",
+        "04842",
+        "04843",
+        "04844",
+        "04845",
+        "04846",
+        "04847",
+        "04848",
+        "04849"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_530": {
+      "subjectNotes": null,
+      "subject": "834",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "DES MNG NONPRFT ORGS",
+      "preReqNotes": null,
+      "sections": [
+        "04800"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "DESIGNING, LEADING, AND MANAGING PRODUCTIVE NONPROFIT ORGANIZATIONS             "
+    },
+    "course_531": {
+      "subjectNotes": null,
+      "subject": "834",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "PUBLIC ADMIN GERMANY",
+      "preReqNotes": null,
+      "sections": [
+        "04374"
+      ],
+      "supplementCode": "  ",
+      "credits": null,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "PUBLIC ADMINISTRATION IN GERMANY-       LEARNING ABROAD                         "
+    },
+    "course_532": {
+      "subjectNotes": null,
+      "subject": "834",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "COMMUNITY DEV GLOBAL",
+      "preReqNotes": null,
+      "sections": [
+        "04803"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SUSTAINABLE COMMUNITY DEVELOPMENT AND GLOBALIZATION                             "
+    },
+    "course_536": {
+      "subjectNotes": null,
+      "subject": "834",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "PUBLIC MNGT INFO SYS",
+      "preReqNotes": null,
+      "sections": [
+        "04850"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "PUBLIC MANAGEMENT INFORMATION SYSTEMS                                           "
+    },
+    "course_557": {
+      "subjectNotes": null,
+      "subject": "834",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "HUMAN RESOURCES MGMT",
+      "preReqNotes": null,
+      "sections": [
+        "04851"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_570": {
+      "subjectNotes": null,
+      "subject": "834",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "LABOR/MANAGEMENT REL",
+      "preReqNotes": null,
+      "sections": [
+        "04818"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "LABOR MANAGEMENT RELATIONS IN THE       PRIVATE AND PUBLIC SECTORS              "
+    },
+    "course_603": {
+      "subjectNotes": null,
+      "subject": "834",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "HIST & PRCTCE OF CD",
+      "preReqNotes": null,
+      "sections": [
+        "04796"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "HISTORY AND PRACTICE OF COMMUNITY DEVELOPMENT                                   "
+    },
+    "course_607": {
+      "subjectNotes": null,
+      "subject": "834",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "PLAN MRKTS&COM DEVLP",
+      "preReqNotes": null,
+      "sections": [
+        "04798"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "PLANNING MARKETS AND COMMUNITY DEVELOPMENT                                      "
+    },
+    "course_650": {
+      "subjectNotes": null,
+      "subject": "834",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "SP PROBS PUB POL/ADM",
+      "preReqNotes": null,
+      "sections": [
+        "04805"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SPECIAL PROBLEMS IN PUBLIC POLICY AND   ADMINISTRATION                          "
+    },
+    "course_675": {
+      "subjectNotes": null,
+      "subject": "834",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "RESEARCH WORKSHOP",
+      "preReqNotes": "(56:834:501 )<em> AND </em>(56:834:503 )<em> AND </em>(56:834:515 )<em> AND </em>(56:834:525 )<em> AND </em>(56:834:535 )<em> AND </em>(56:834:536 )",
+      "sections": [
+        "04852"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "RESEARCH WORKSHOP                                                               "
+    },
+    "course_800": {
+      "subjectNotes": null,
+      "subject": "834",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "MATRICULATION CONTD",
+      "preReqNotes": null,
+      "sections": [
+        "04853"
+      ],
+      "supplementCode": "  ",
+      "credits": 0,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MATRICULATION CONTINUATION                                                      "
+    }
+  },
+  {
+    "description": "Social Work",
+    "code": "910",
+    "course_504": {
+      "subjectNotes": null,
+      "subject": "910",
+      "synopsisUrl": "https://socialwork.rutgers.edu/academics/master-social-work-msw/msw-syllabi",
+      "offeringUnitCode": "19",
+      "title": "SOC WELF POL & SER I",
+      "preReqNotes": null,
+      "sections": [
+        "03375"
+      ],
+      "supplementCode": "CM",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SOCIAL WELFARE POLICY AND SERVICES I                                            "
+    },
+    "course_505": {
+      "subjectNotes": null,
+      "subject": "910",
+      "synopsisUrl": "https://socialwork.rutgers.edu/academics/master-social-work-msw/msw-syllabi",
+      "offeringUnitCode": "19",
+      "title": "METH SOCWK RESRCH",
+      "preReqNotes": null,
+      "sections": [
+        "03376"
+      ],
+      "supplementCode": "CM",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "METHODS OF SOCIAL WORK RESEARCH                                                 "
+    },
+    "course_507": {
+      "subjectNotes": null,
+      "subject": "910",
+      "synopsisUrl": "https://socialwork.rutgers.edu/academics/master-social-work-msw/msw-syllabi",
+      "offeringUnitCode": "19",
+      "title": "CLIN ASSESS&DIGNOSIS",
+      "preReqNotes": null,
+      "sections": [
+        "03377"
+      ],
+      "supplementCode": "CM",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "CLINICAL ASSESSMENT AND DIAGNOSIS                                               "
+    },
+    "course_509": {
+      "subjectNotes": null,
+      "subject": "910",
+      "synopsisUrl": "https://socialwork.rutgers.edu/academics/master-social-work-msw/msw-syllabi",
+      "offeringUnitCode": "19",
+      "title": "FIELD PRACTICUM II",
+      "preReqNotes": "(19:910:508 )",
+      "sections": [
+        "03378"
+      ],
+      "supplementCode": "CM",
+      "credits": 2,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_512": {
+      "subjectNotes": null,
+      "subject": "910",
+      "synopsisUrl": "https://socialwork.rutgers.edu/academics/master-social-work-msw/msw-syllabi",
+      "offeringUnitCode": "19",
+      "title": "CLINICAL SW II",
+      "preReqNotes": "(19:910:511 )",
+      "sections": [
+        "03379",
+        "03380"
+      ],
+      "supplementCode": "CM",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_520": {
+      "subjectNotes": null,
+      "subject": "910",
+      "synopsisUrl": "https://socialwork.rutgers.edu/academics/master-social-work-msw/msw-syllabi",
+      "offeringUnitCode": "19",
+      "title": "CLINICAL SW:SCHOOL",
+      "preReqNotes": "(19:910:898 )<em> OR </em>(19:910:899 )",
+      "sections": [
+        "03381"
+      ],
+      "supplementCode": "CM",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "CLINICAL SOCIAL WORK: SCHOOL                                                    "
+    },
+    "course_530": {
+      "subjectNotes": null,
+      "subject": "910",
+      "synopsisUrl": "https://socialwork.rutgers.edu/academics/master-social-work-msw/msw-syllabi",
+      "offeringUnitCode": "19",
+      "title": "SOL FOC THERAPY",
+      "preReqNotes": "(19:910:511 )",
+      "sections": [
+        "03382"
+      ],
+      "supplementCode": "CM",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_536": {
+      "subjectNotes": null,
+      "subject": "910",
+      "synopsisUrl": "https://socialwork.rutgers.edu/academics/master-social-work-msw/msw-syllabi",
+      "offeringUnitCode": "19",
+      "title": "PROG STRAT & PLN",
+      "preReqNotes": "(19:910:535 )",
+      "sections": [
+        "18371"
+      ],
+      "supplementCode": "CM",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": null
+    },
+    "course_539": {
+      "subjectNotes": null,
+      "subject": "910",
+      "synopsisUrl": "https://socialwork.rutgers.edu/academics/master-social-work-msw/msw-syllabi",
+      "offeringUnitCode": "19",
+      "title": "COMMUNITY ORGANIZATN",
+      "preReqNotes": null,
+      "sections": [
+        "18600"
+      ],
+      "supplementCode": "CM",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "COMMUNITY ORGANIZATIONS                                                         "
+    },
+    "course_547": {
+      "subjectNotes": null,
+      "subject": "910",
+      "synopsisUrl": "https://socialwork.rutgers.edu/academics/master-social-work-msw/msw-syllabi",
+      "offeringUnitCode": "19",
+      "title": "SW W/ LOSS/ LIFESPAN",
+      "preReqNotes": "(19:910:502 )<em> OR </em>(19:910:898 )<em> OR </em>(19:910:899 )",
+      "sections": [
+        "03383"
+      ],
+      "supplementCode": "CM",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SW WITH LOSS ACROSS THE LIFESPAN                                                "
+    },
+    "course_557": {
+      "subjectNotes": null,
+      "subject": "910",
+      "synopsisUrl": "https://socialwork.rutgers.edu/academics/master-social-work-msw/msw-syllabi",
+      "offeringUnitCode": "19",
+      "title": "REFLECTIVE PRACT SEM",
+      "preReqNotes": null,
+      "sections": [
+        "17880",
+        "17881"
+      ],
+      "supplementCode": "CM",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "REFLECTIVE PRACTICUM SEMINAR                                                    "
+    },
+    "course_601": {
+      "subjectNotes": null,
+      "subject": "910",
+      "synopsisUrl": "https://socialwork.rutgers.edu/academics/master-social-work-msw/msw-syllabi",
+      "offeringUnitCode": "19",
+      "title": "FIELDPRACTICUMIV-CSW",
+      "preReqNotes": "(19:910:898 )<em> AND </em>(19:910:600 )",
+      "sections": [
+        "00557"
+      ],
+      "supplementCode": "CM",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "FIELD PRACTICUM IV-CSW                                                          "
+    }
+  },
+  {
+    "description": "Spanish",
+    "code": "940",
+    "course_515": {
+      "subjectNotes": null,
+      "subject": "940",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "ACQTION OF SPAN LANG",
+      "preReqNotes": null,
+      "sections": [
+        "04327"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "ACQUISITION OF SPANISH AS A SECOND      LANGUAGE                                "
+    },
+    "course_542": {
+      "subjectNotes": null,
+      "subject": "940",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "SPANISH LIT SURVEY",
+      "preReqNotes": null,
+      "sections": [
+        "04329"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SPANISH LITERATURE SURVEY                                                       "
+    },
+    "course_591": {
+      "subjectNotes": null,
+      "subject": "940",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "INDEPENDENT STUDY",
+      "preReqNotes": null,
+      "sections": [
+        "04854"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "INDEPENDENT STUDY IN SPANISH                                                    "
+    },
+    "course_592": {
+      "subjectNotes": null,
+      "subject": "940",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "SPEC'L TOP SPANISH",
+      "preReqNotes": null,
+      "sections": [
+        "04321"
+      ],
+      "supplementCode": "  ",
+      "credits": 3,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "SPECIAL TOPICS IN SPANISH                                                       "
+    },
+    "course_800": {
+      "subjectNotes": null,
+      "subject": "940",
+      "synopsisUrl": null,
+      "offeringUnitCode": "56",
+      "title": "MATRICULATION CONTD",
+      "preReqNotes": null,
+      "sections": [
+        "04855"
+      ],
+      "supplementCode": "  ",
+      "credits": 0,
+      "unitNotes": null,
+      "coreCodes": [],
+      "courseNotes": null,
+      "expandedTitle": "MATRICULATION CONTINUATION                                                      "
+    }
+  }
+]

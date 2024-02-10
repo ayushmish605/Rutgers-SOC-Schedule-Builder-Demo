@@ -1,0 +1,593 @@
+[
+    {
+        "sectionEligibility": null,
+        "sessionDatePrintIndicator": "N",
+        "examCode": "A",
+        "specialPermissionAddCode": null,
+        "crossListedSections": [],
+        "sectionNotes": "THIS COURSE IS FOR EOF STUDENTSONLY.",
+        "specialPermissionDropCode": "3",
+        "instructors": [
+            {
+                "name": "GARCIA, JOSE"
+            },
+            {
+                "name": "GUHL-MILLER"
+            }
+        ],
+        "number": "01",
+        "majors": [],
+        "specialPermissionDropCodeDescription": "3",
+        "comments": [
+            {
+                "code": "05",
+                "description": "Go to http://canvas.rutgers.edu"
+            }
+        ],
+        "minors": [],
+        "campusCode": "NK",
+        "index": "00682",
+        "unitMajors": [],
+        "printed": "Y",
+        "specialPermissionAddCodeDescription": null,
+        "subtitle": null,
+        "meetingTimes": [
+            {
+                "baClassHours": null,
+                "roomNumber": "106",
+                "pmCode": "P",
+                "campusName": "NEWARK",
+                "meetingDay": "TH",
+                "buildingCode": "HIL",
+                "startTime": "0400",
+                "endTime": "0520",
+                "meetingModeDesc": "LEC"
+            },
+            {
+                "baClassHours": "B",
+                "roomNumber": null,
+                "pmCode": null,
+                "campusName": "NEWARK",
+                "meetingDay": null,
+                "buildingCode": null,
+                "startTime": null,
+                "endTime": null,
+                "meetingModeDesc": "RECIT"
+            }
+        ],
+        "honorPrograms": []
+    },
+    {
+        "sectionEligibility": null,
+        "sessionDatePrintIndicator": "N",
+        "examCode": "A",
+        "specialPermissionAddCode": null,
+        "crossListedSections": [],
+        "sectionNotes": "THIS COURSE IS FOR EOF STUDENTSONLY.",
+        "specialPermissionDropCode": "3",
+        "instructors": [
+            {
+                "name": "GUHL-MILLER"
+            }
+        ],
+        "number": "02",
+        "majors": [],
+        "specialPermissionDropCodeDescription": "3",
+        "comments": [
+            {
+                "code": "05",
+                "description": "Go to http://canvas.rutgers.edu"
+            }
+        ],
+        "minors": [],
+        "campusCode": "NK",
+        "index": "00683",
+        "unitMajors": [],
+        "printed": "Y",
+        "specialPermissionAddCodeDescription": null,
+        "subtitle": null,
+        "meetingTimes": [
+            {
+                "baClassHours": null,
+                "roomNumber": "115",
+                "pmCode": "P",
+                "campusName": "NEWARK",
+                "meetingDay": "TH",
+                "buildingCode": "HIL",
+                "startTime": "0400",
+                "endTime": "0520",
+                "meetingModeDesc": "LEC"
+            },
+            {
+                "baClassHours": "B",
+                "roomNumber": null,
+                "pmCode": null,
+                "campusName": "NEWARK",
+                "meetingDay": null,
+                "buildingCode": null,
+                "startTime": null,
+                "endTime": null,
+                "meetingModeDesc": "RECIT"
+            }
+        ],
+        "honorPrograms": []
+    },
+    {
+        "sectionEligibility": null,
+        "sessionDatePrintIndicator": "N",
+        "examCode": "A",
+        "specialPermissionAddCode": null,
+        "crossListedSections": [],
+        "sectionNotes": "THIS COURSE IS FOR EOF STUDENTSONLY.",
+        "specialPermissionDropCode": "3",
+        "instructors": [],
+        "number": "01",
+        "majors": [],
+        "specialPermissionDropCodeDescription": "3",
+        "comments": [],
+        "minors": [],
+        "campusCode": "NK",
+        "index": "00684",
+        "unitMajors": [],
+        "printed": "Y",
+        "specialPermissionAddCodeDescription": null,
+        "subtitle": null,
+        "meetingTimes": [
+            {
+                "baClassHours": "B",
+                "roomNumber": null,
+                "pmCode": null,
+                "campusName": "NEWARK",
+                "meetingDay": null,
+                "buildingCode": null,
+                "startTime": null,
+                "endTime": null,
+                "meetingModeDesc": "NONINSTR"
+            }
+        ],
+        "honorPrograms": []
+    },
+    {
+        "sectionEligibility": null,
+        "sessionDatePrintIndicator": "N",
+        "examCode": "A",
+        "specialPermissionAddCode": null,
+        "crossListedSections": [],
+        "sectionNotes": "THIS COURSE IS FOR EOF STUDENTSONLY.",
+        "specialPermissionDropCode": "3",
+        "instructors": [],
+        "number": "01",
+        "majors": [],
+        "specialPermissionDropCodeDescription": "3",
+        "comments": [],
+        "minors": [],
+        "campusCode": "NK",
+        "index": "00685",
+        "unitMajors": [],
+        "printed": "Y",
+        "specialPermissionAddCodeDescription": null,
+        "subtitle": null,
+        "meetingTimes": [
+            {
+                "baClassHours": "B",
+                "roomNumber": null,
+                "pmCode": null,
+                "campusName": "NEWARK",
+                "meetingDay": null,
+                "buildingCode": null,
+                "startTime": null,
+                "endTime": null,
+                "meetingModeDesc": "NONINSTR"
+            }
+        ],
+        "honorPrograms": []
+    },
+    {
+        "sectionEligibility": null,
+        "sessionDatePrintIndicator": "N",
+        "examCode": "A",
+        "specialPermissionAddCode": null,
+        "crossListedSections": [],
+        "sectionNotes": "THIS COURSE IS FOR EOF STUDENTSONLY.",
+        "specialPermissionDropCode": "3",
+        "instructors": [
+            {
+                "name": "WILLIAMS, T"
+            }
+        ],
+        "number": "01",
+        "majors": [],
+        "specialPermissionDropCodeDescription": "3",
+        "comments": [],
+        "minors": [],
+        "campusCode": "NK",
+        "index": "00686",
+        "unitMajors": [],
+        "printed": "Y",
+        "specialPermissionAddCodeDescription": null,
+        "subtitle": null,
+        "meetingTimes": [
+            {
+                "baClassHours": null,
+                "roomNumber": "204",
+                "pmCode": "P",
+                "campusName": "NEWARK",
+                "meetingDay": "T",
+                "buildingCode": "HIL",
+                "startTime": "0100",
+                "endTime": "0220",
+                "meetingModeDesc": "LEC"
+            }
+        ],
+        "honorPrograms": []
+    },
+    {
+        "sectionEligibility": null,
+        "sessionDatePrintIndicator": "N",
+        "examCode": "A",
+        "specialPermissionAddCode": null,
+        "crossListedSections": [],
+        "sectionNotes": "THIS COURSE IS FOR EOF STUDENTSONLY.",
+        "specialPermissionDropCode": "3",
+        "instructors": [
+            {
+                "name": "MURPHY, VICTOR"
+            }
+        ],
+        "number": "02",
+        "majors": [],
+        "specialPermissionDropCodeDescription": "3",
+        "comments": [],
+        "minors": [],
+        "campusCode": "NK",
+        "index": "00687",
+        "unitMajors": [],
+        "printed": "Y",
+        "specialPermissionAddCodeDescription": null,
+        "subtitle": null,
+        "meetingTimes": [
+            {
+                "baClassHours": null,
+                "roomNumber": "210",
+                "pmCode": "P",
+                "campusName": "NEWARK",
+                "meetingDay": "T",
+                "buildingCode": "HIL",
+                "startTime": "0100",
+                "endTime": "0220",
+                "meetingModeDesc": "LEC"
+            }
+        ],
+        "honorPrograms": []
+    },
+    {
+        "sectionEligibility": null,
+        "sessionDatePrintIndicator": "N",
+        "examCode": "A",
+        "specialPermissionAddCode": null,
+        "crossListedSections": [],
+        "sectionNotes": "THIS COURSE IS FOR EOF STUDENTSONLY.",
+        "specialPermissionDropCode": "3",
+        "instructors": [
+            {
+                "name": "BROWN, D"
+            }
+        ],
+        "number": "03",
+        "majors": [],
+        "specialPermissionDropCodeDescription": "3",
+        "comments": [],
+        "minors": [],
+        "campusCode": "NK",
+        "index": "00688",
+        "unitMajors": [],
+        "printed": "Y",
+        "specialPermissionAddCodeDescription": null,
+        "subtitle": null,
+        "meetingTimes": [
+            {
+                "baClassHours": null,
+                "roomNumber": "210",
+                "pmCode": "P",
+                "campusName": "NEWARK",
+                "meetingDay": "W",
+                "buildingCode": "HIL",
+                "startTime": "0100",
+                "endTime": "0220",
+                "meetingModeDesc": "LEC"
+            }
+        ],
+        "honorPrograms": []
+    },
+    {
+        "sectionEligibility": null,
+        "sessionDatePrintIndicator": "N",
+        "examCode": "A",
+        "specialPermissionAddCode": null,
+        "crossListedSections": [],
+        "sectionNotes": "THIS COURSE IS FOR EOF STUDENTSONLY.",
+        "specialPermissionDropCode": "3",
+        "instructors": [
+            {
+                "name": "WHITE, JAQUIL"
+            }
+        ],
+        "number": "04",
+        "majors": [],
+        "specialPermissionDropCodeDescription": "3",
+        "comments": [],
+        "minors": [],
+        "campusCode": "NK",
+        "index": "00689",
+        "unitMajors": [],
+        "printed": "Y",
+        "specialPermissionAddCodeDescription": null,
+        "subtitle": null,
+        "meetingTimes": [
+            {
+                "baClassHours": null,
+                "roomNumber": "204",
+                "pmCode": "P",
+                "campusName": "NEWARK",
+                "meetingDay": "W",
+                "buildingCode": "HIL",
+                "startTime": "0100",
+                "endTime": "0220",
+                "meetingModeDesc": "LEC"
+            }
+        ],
+        "honorPrograms": []
+    },
+    {
+        "sectionEligibility": null,
+        "sessionDatePrintIndicator": "N",
+        "examCode": "C",
+        "specialPermissionAddCode": null,
+        "crossListedSections": [],
+        "sectionNotes": null,
+        "specialPermissionDropCode": null,
+        "instructors": [
+            {
+                "name": "CHAN, JOSEPH"
+            }
+        ],
+        "number": "01",
+        "majors": [
+            {
+                "code": "21",
+                "isUnitCode": true,
+                "isMajorCode": false
+            },
+            {
+                "code": "29",
+                "isUnitCode": true,
+                "isMajorCode": false
+            },
+            {
+                "code": "40",
+                "isUnitCode": true,
+                "isMajorCode": false
+            },
+            {
+                "code": "47",
+                "isUnitCode": true,
+                "isMajorCode": false
+            },
+            {
+                "code": "62",
+                "isUnitCode": true,
+                "isMajorCode": false
+            },
+            {
+                "code": "006",
+                "isUnitCode": false,
+                "isMajorCode": true
+            },
+            {
+                "code": "625",
+                "isUnitCode": false,
+                "isMajorCode": true
+            }
+        ],
+        "specialPermissionDropCodeDescription": null,
+        "comments": [],
+        "minors": [],
+        "campusCode": "NK",
+        "index": "02940",
+        "unitMajors": [],
+        "printed": "Y",
+        "specialPermissionAddCodeDescription": null,
+        "subtitle": null,
+        "meetingTimes": [
+            {
+                "baClassHours": null,
+                "roomNumber": "118",
+                "pmCode": "P",
+                "campusName": "NEWARK",
+                "meetingDay": "F",
+                "buildingCode": "1WP",
+                "startTime": "0230",
+                "endTime": "0520",
+                "meetingModeDesc": "LEC"
+            }
+        ],
+        "honorPrograms": []
+    },
+    {
+        "sectionEligibility": null,
+        "sessionDatePrintIndicator": "N",
+        "examCode": "C",
+        "specialPermissionAddCode": null,
+        "crossListedSections": [],
+        "sectionNotes": null,
+        "specialPermissionDropCode": null,
+        "instructors": [
+            {
+                "name": "BEDARD, GREGORY"
+            }
+        ],
+        "number": "02",
+        "majors": [
+            {
+                "code": "21",
+                "isUnitCode": true,
+                "isMajorCode": false
+            },
+            {
+                "code": "29",
+                "isUnitCode": true,
+                "isMajorCode": false
+            },
+            {
+                "code": "40",
+                "isUnitCode": true,
+                "isMajorCode": false
+            },
+            {
+                "code": "625",
+                "isUnitCode": false,
+                "isMajorCode": true
+            },
+            {
+                "code": "47",
+                "isUnitCode": true,
+                "isMajorCode": false
+            },
+            {
+                "code": "62",
+                "isUnitCode": true,
+                "isMajorCode": false
+            },
+            {
+                "code": "006",
+                "isUnitCode": false,
+                "isMajorCode": true
+            }
+        ],
+        "specialPermissionDropCodeDescription": null,
+        "comments": [
+            {
+                "code": "05",
+                "description": "Go to http://canvas.rutgers.edu"
+            }
+        ],
+        "minors": [],
+        "campusCode": "NK",
+        "index": "02941",
+        "unitMajors": [],
+        "printed": "Y",
+        "specialPermissionAddCodeDescription": null,
+        "subtitle": null,
+        "meetingTimes": [
+            {
+                "baClassHours": null,
+                "roomNumber": "118",
+                "pmCode": "A",
+                "campusName": "NEWARK",
+                "meetingDay": "TH",
+                "buildingCode": "1WP",
+                "startTime": "1000",
+                "endTime": "1120",
+                "meetingModeDesc": "LEC"
+            },
+            {
+                "baClassHours": null,
+                "roomNumber": "118",
+                "pmCode": "A",
+                "campusName": "NEWARK",
+                "meetingDay": "T",
+                "buildingCode": "1WP",
+                "startTime": "1000",
+                "endTime": "1120",
+                "meetingModeDesc": "LEC"
+            }
+        ],
+        "honorPrograms": []
+    },
+    {
+        "sectionEligibility": null,
+        "sessionDatePrintIndicator": "N",
+        "examCode": "C",
+        "specialPermissionAddCode": null,
+        "crossListedSections": [],
+        "sectionNotes": null,
+        "specialPermissionDropCode": null,
+        "instructors": [
+            {
+                "name": "STUBBS, C"
+            }
+        ],
+        "number": "03",
+        "majors": [
+            {
+                "code": "21",
+                "isUnitCode": true,
+                "isMajorCode": false
+            },
+            {
+                "code": "29",
+                "isUnitCode": true,
+                "isMajorCode": false
+            },
+            {
+                "code": "40",
+                "isUnitCode": true,
+                "isMajorCode": false
+            },
+            {
+                "code": "47",
+                "isUnitCode": true,
+                "isMajorCode": false
+            },
+            {
+                "code": "62",
+                "isUnitCode": true,
+                "isMajorCode": false
+            },
+            {
+                "code": "006",
+                "isUnitCode": false,
+                "isMajorCode": true
+            },
+            {
+                "code": "625",
+                "isUnitCode": false,
+                "isMajorCode": true
+            }
+        ],
+        "specialPermissionDropCodeDescription": null,
+        "comments": [],
+        "minors": [],
+        "campusCode": "NK",
+        "index": "02942",
+        "unitMajors": [],
+        "printed": "Y",
+        "specialPermissionAddCodeDescription": null,
+        "subtitle": null,
+        "meetingTimes": [
+            {
+                "baClassHours": null,
+                "roomNumber": "118",
+                "pmCode": "A",
+                "campusName": "NEWARK",
+                "meetingDay": "T",
+                "buildingCode": "1WP",
+                "startTime": "1130",
+                "endTime": "1250",
+                "meetingModeDesc": "LEC"
+            },
+            {
+                "baClassHours": null,
+                "roomNumber": "118",
+                "pmCode": "A",
+                "campusName": "NEWARK",
+                "meetingDay": "TH",
+                "buildingCode": "1WP",
+                "startTime": "1130",
+                "endTime": "1250",
+                "meetingModeDesc": "LEC"
+            }
+        ],
+        "honorPrograms": []
+    }
+]

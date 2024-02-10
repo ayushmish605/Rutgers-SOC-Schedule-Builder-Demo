@@ -1,0 +1,651 @@
+[
+  {
+    "list": [
+      "section: 01:640:252:03,    index: 08368    -->    MON, 10:20 AM to 11:40 AM    THU, 10:20 AM to 11:40 AM",
+      "section: 01:640:477:02,    index: 08424    -->    MON,  0:10 PM to  1:30 PM    THU,  0:10 PM to  1:30 PM",
+      "section: 01:198:211:10,    index: 18715    -->    MON,  7:30 PM to  8:50 PM    TUE,  2:15 PM to  3:10 PM    WED,  7:30 PM to  8:50 PM",
+      "section: 01:090:103:HH,    index: 05738    -->    TUE,  7:30 PM to  8:50 PM",
+      "section: 01:090:125:HI,    index: 05766    -->    WED,  0:10 PM to  1:30 PM    THU,  7:30 PM to  8:50 PM    FRI,  2:00 PM to  3:20 PM"
+    ],
+    "points": 0.5619961240310076,
+    "percentRequirementsMet": 1,
+    "requirementsMet": {
+      "01:640:252": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:640:477": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:198:211": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:103": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:125": {
+        "printed": "Y",
+        "openStatus": true
+      }
+    }
+  },
+  {
+    "list": [
+      "section: 01:640:252:03,    index: 08368    -->    MON, 10:20 AM to 11:40 AM    THU, 10:20 AM to 11:40 AM",
+      "section: 01:640:477:02,    index: 08424    -->    MON,  0:10 PM to  1:30 PM    THU,  0:10 PM to  1:30 PM",
+      "section: 01:198:211:10,    index: 18715    -->    MON,  7:30 PM to  8:50 PM    TUE,  2:15 PM to  3:10 PM    WED,  7:30 PM to  8:50 PM",
+      "section: 01:090:103:HJ,    index: 05740    -->    TUE,  7:30 PM to  8:50 PM",
+      "section: 01:090:125:HI,    index: 05766    -->    WED,  0:10 PM to  1:30 PM    THU,  7:30 PM to  8:50 PM    FRI,  2:00 PM to  3:20 PM"
+    ],
+    "points": 0.5619961240310076,
+    "percentRequirementsMet": 1,
+    "requirementsMet": {
+      "01:640:252": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:640:477": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:198:211": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:103": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:125": {
+        "printed": "Y",
+        "openStatus": true
+      }
+    }
+  },
+  {
+    "list": [
+      "section: 01:640:252:03,    index: 08368    -->    MON, 10:20 AM to 11:40 AM    THU, 10:20 AM to 11:40 AM",
+      "section: 01:640:477:02,    index: 08424    -->    MON,  0:10 PM to  1:30 PM    THU,  0:10 PM to  1:30 PM",
+      "section: 01:198:211:10,    index: 18715    -->    MON,  7:30 PM to  8:50 PM    TUE,  2:15 PM to  3:10 PM    WED,  7:30 PM to  8:50 PM",
+      "section: 01:090:125:HI,    index: 05766    -->    WED,  0:10 PM to  1:30 PM    THU,  7:30 PM to  8:50 PM    FRI,  2:00 PM to  3:20 PM",
+      "section: 01:090:103:HP,    index: 05746    -->    THU,  9:20 PM to 10:40 PM"
+    ],
+    "points": 0.5619961240310076,
+    "percentRequirementsMet": 1,
+    "requirementsMet": {
+      "01:640:252": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:640:477": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:198:211": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:125": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:103": {
+        "printed": "Y",
+        "openStatus": true
+      }
+    }
+  },
+  {
+    "list": [
+      "section: 01:640:252:03,    index: 08368    -->    MON, 10:20 AM to 11:40 AM    THU, 10:20 AM to 11:40 AM",
+      "section: 01:640:477:02,    index: 08424    -->    MON,  0:10 PM to  1:30 PM    THU,  0:10 PM to  1:30 PM",
+      "section: 01:198:211:13,    index: 18718    -->    MON,  7:30 PM to  8:50 PM    TUE,  0:25 PM to  1:20 PM    WED,  7:30 PM to  8:50 PM",
+      "section: 01:090:103:HH,    index: 05738    -->    TUE,  7:30 PM to  8:50 PM",
+      "section: 01:090:125:HI,    index: 05766    -->    WED,  0:10 PM to  1:30 PM    THU,  7:30 PM to  8:50 PM    FRI,  2:00 PM to  3:20 PM"
+    ],
+    "points": 0.5619961240310076,
+    "percentRequirementsMet": 1,
+    "requirementsMet": {
+      "01:640:252": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:640:477": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:198:211": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:103": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:125": {
+        "printed": "Y",
+        "openStatus": true
+      }
+    }
+  },
+  {
+    "list": [
+      "section: 01:640:252:03,    index: 08368    -->    MON, 10:20 AM to 11:40 AM    THU, 10:20 AM to 11:40 AM",
+      "section: 01:640:477:02,    index: 08424    -->    MON,  0:10 PM to  1:30 PM    THU,  0:10 PM to  1:30 PM",
+      "section: 01:198:211:13,    index: 18718    -->    MON,  7:30 PM to  8:50 PM    TUE,  0:25 PM to  1:20 PM    WED,  7:30 PM to  8:50 PM",
+      "section: 01:090:103:HJ,    index: 05740    -->    TUE,  7:30 PM to  8:50 PM",
+      "section: 01:090:125:HI,    index: 05766    -->    WED,  0:10 PM to  1:30 PM    THU,  7:30 PM to  8:50 PM    FRI,  2:00 PM to  3:20 PM"
+    ],
+    "points": 0.5619961240310076,
+    "percentRequirementsMet": 1,
+    "requirementsMet": {
+      "01:640:252": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:640:477": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:198:211": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:103": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:125": {
+        "printed": "Y",
+        "openStatus": true
+      }
+    }
+  },
+  {
+    "list": [
+      "section: 01:640:252:03,    index: 08368    -->    MON, 10:20 AM to 11:40 AM    THU, 10:20 AM to 11:40 AM",
+      "section: 01:640:477:02,    index: 08424    -->    MON,  0:10 PM to  1:30 PM    THU,  0:10 PM to  1:30 PM",
+      "section: 01:198:211:13,    index: 18718    -->    MON,  7:30 PM to  8:50 PM    TUE,  0:25 PM to  1:20 PM    WED,  7:30 PM to  8:50 PM",
+      "section: 01:090:125:HI,    index: 05766    -->    WED,  0:10 PM to  1:30 PM    THU,  7:30 PM to  8:50 PM    FRI,  2:00 PM to  3:20 PM",
+      "section: 01:090:103:HP,    index: 05746    -->    THU,  9:20 PM to 10:40 PM"
+    ],
+    "points": 0.5619961240310076,
+    "percentRequirementsMet": 1,
+    "requirementsMet": {
+      "01:640:252": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:640:477": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:198:211": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:125": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:103": {
+        "printed": "Y",
+        "openStatus": true
+      }
+    }
+  },
+  {
+    "list": [
+      "section: 01:640:252:03,    index: 08368    -->    MON, 10:20 AM to 11:40 AM    THU, 10:20 AM to 11:40 AM",
+      "section: 01:640:477:02,    index: 08424    -->    MON,  0:10 PM to  1:30 PM    THU,  0:10 PM to  1:30 PM",
+      "section: 01:198:211:11,    index: 18716    -->    MON,  7:30 PM to  8:50 PM    TUE,  4:05 PM to  5:00 PM    WED,  7:30 PM to  8:50 PM",
+      "section: 01:090:103:HH,    index: 05738    -->    TUE,  7:30 PM to  8:50 PM",
+      "section: 01:090:125:HI,    index: 05766    -->    WED,  0:10 PM to  1:30 PM    THU,  7:30 PM to  8:50 PM    FRI,  2:00 PM to  3:20 PM"
+    ],
+    "points": 0.5126937984496124,
+    "percentRequirementsMet": 1,
+    "requirementsMet": {
+      "01:640:252": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:640:477": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:198:211": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:103": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:125": {
+        "printed": "Y",
+        "openStatus": true
+      }
+    }
+  },
+  {
+    "list": [
+      "section: 01:640:252:03,    index: 08368    -->    MON, 10:20 AM to 11:40 AM    THU, 10:20 AM to 11:40 AM",
+      "section: 01:640:477:02,    index: 08424    -->    MON,  0:10 PM to  1:30 PM    THU,  0:10 PM to  1:30 PM",
+      "section: 01:198:211:11,    index: 18716    -->    MON,  7:30 PM to  8:50 PM    TUE,  4:05 PM to  5:00 PM    WED,  7:30 PM to  8:50 PM",
+      "section: 01:090:103:HJ,    index: 05740    -->    TUE,  7:30 PM to  8:50 PM",
+      "section: 01:090:125:HI,    index: 05766    -->    WED,  0:10 PM to  1:30 PM    THU,  7:30 PM to  8:50 PM    FRI,  2:00 PM to  3:20 PM"
+    ],
+    "points": 0.5126937984496124,
+    "percentRequirementsMet": 1,
+    "requirementsMet": {
+      "01:640:252": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:640:477": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:198:211": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:103": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:125": {
+        "printed": "Y",
+        "openStatus": true
+      }
+    }
+  },
+  {
+    "list": [
+      "section: 01:640:252:03,    index: 08368    -->    MON, 10:20 AM to 11:40 AM    THU, 10:20 AM to 11:40 AM",
+      "section: 01:640:477:02,    index: 08424    -->    MON,  0:10 PM to  1:30 PM    THU,  0:10 PM to  1:30 PM",
+      "section: 01:198:211:11,    index: 18716    -->    MON,  7:30 PM to  8:50 PM    TUE,  4:05 PM to  5:00 PM    WED,  7:30 PM to  8:50 PM",
+      "section: 01:090:125:HI,    index: 05766    -->    WED,  0:10 PM to  1:30 PM    THU,  7:30 PM to  8:50 PM    FRI,  2:00 PM to  3:20 PM",
+      "section: 01:090:103:HP,    index: 05746    -->    THU,  9:20 PM to 10:40 PM"
+    ],
+    "points": 0.5126937984496124,
+    "percentRequirementsMet": 1,
+    "requirementsMet": {
+      "01:640:252": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:640:477": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:198:211": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:125": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:103": {
+        "printed": "Y",
+        "openStatus": true
+      }
+    }
+  },
+  {
+    "list": [
+      "section: 01:640:252:03,    index: 08368    -->    MON, 10:20 AM to 11:40 AM    THU, 10:20 AM to 11:40 AM",
+      "section: 01:640:477:02,    index: 08424    -->    MON,  0:10 PM to  1:30 PM    THU,  0:10 PM to  1:30 PM",
+      "section: 01:198:211:10,    index: 18715    -->    MON,  7:30 PM to  8:50 PM    TUE,  2:15 PM to  3:10 PM    WED,  7:30 PM to  8:50 PM",
+      "section: 01:090:103:HD,    index: 05734    -->    TUE, 10:20 AM to 11:40 AM",
+      "section: 01:090:125:HI,    index: 05766    -->    WED,  0:10 PM to  1:30 PM    THU,  7:30 PM to  8:50 PM    FRI,  2:00 PM to  3:20 PM"
+    ],
+    "points": 0.7394961240310077,
+    "percentRequirementsMet": 0.9,
+    "requirementsMet": {
+      "01:640:252": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:640:477": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:198:211": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:103": {
+        "printed": "Y"
+      },
+      "01:090:125": {
+        "printed": "Y",
+        "openStatus": true
+      }
+    }
+  },
+  {
+    "list": [
+      "section: 01:640:252:03,    index: 08368    -->    MON, 10:20 AM to 11:40 AM    THU, 10:20 AM to 11:40 AM",
+      "section: 01:640:477:02,    index: 08424    -->    MON,  0:10 PM to  1:30 PM    THU,  0:10 PM to  1:30 PM",
+      "section: 01:198:211:13,    index: 18718    -->    MON,  7:30 PM to  8:50 PM    TUE,  0:25 PM to  1:20 PM    WED,  7:30 PM to  8:50 PM",
+      "section: 01:090:103:HD,    index: 05734    -->    TUE, 10:20 AM to 11:40 AM",
+      "section: 01:090:125:HI,    index: 05766    -->    WED,  0:10 PM to  1:30 PM    THU,  7:30 PM to  8:50 PM    FRI,  2:00 PM to  3:20 PM"
+    ],
+    "points": 0.7394961240310077,
+    "percentRequirementsMet": 0.9,
+    "requirementsMet": {
+      "01:640:252": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:640:477": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:198:211": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:103": {
+        "printed": "Y"
+      },
+      "01:090:125": {
+        "printed": "Y",
+        "openStatus": true
+      }
+    }
+  },
+  {
+    "list": [
+      "section: 01:640:252:03,    index: 08368    -->    MON, 10:20 AM to 11:40 AM    THU, 10:20 AM to 11:40 AM",
+      "section: 01:640:477:02,    index: 08424    -->    MON,  0:10 PM to  1:30 PM    THU,  0:10 PM to  1:30 PM",
+      "section: 01:198:211:11,    index: 18716    -->    MON,  7:30 PM to  8:50 PM    TUE,  4:05 PM to  5:00 PM    WED,  7:30 PM to  8:50 PM",
+      "section: 01:090:103:HD,    index: 05734    -->    TUE, 10:20 AM to 11:40 AM",
+      "section: 01:090:125:HI,    index: 05766    -->    WED,  0:10 PM to  1:30 PM    THU,  7:30 PM to  8:50 PM    FRI,  2:00 PM to  3:20 PM"
+    ],
+    "points": 0.6901937984496123,
+    "percentRequirementsMet": 0.9,
+    "requirementsMet": {
+      "01:640:252": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:640:477": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:198:211": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:103": {
+        "printed": "Y"
+      },
+      "01:090:125": {
+        "printed": "Y",
+        "openStatus": true
+      }
+    }
+  },
+  {
+    "list": [
+      "section: 01:640:252:03,    index: 08368    -->    MON, 10:20 AM to 11:40 AM    THU, 10:20 AM to 11:40 AM",
+      "section: 01:640:477:02,    index: 08424    -->    MON,  0:10 PM to  1:30 PM    THU,  0:10 PM to  1:30 PM",
+      "section: 01:198:211:10,    index: 18715    -->    MON,  7:30 PM to  8:50 PM    TUE,  2:15 PM to  3:10 PM    WED,  7:30 PM to  8:50 PM",
+      "section: 01:090:103:HF,    index: 05736    -->    TUE,  5:40 PM to  7:00 PM",
+      "section: 01:090:125:HI,    index: 05766    -->    WED,  0:10 PM to  1:30 PM    THU,  7:30 PM to  8:50 PM    FRI,  2:00 PM to  3:20 PM"
+    ],
+    "points": 0.5619961240310076,
+    "percentRequirementsMet": 0.9,
+    "requirementsMet": {
+      "01:640:252": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:640:477": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:198:211": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:103": {
+        "printed": "Y"
+      },
+      "01:090:125": {
+        "printed": "Y",
+        "openStatus": true
+      }
+    }
+  },
+  {
+    "list": [
+      "section: 01:640:252:03,    index: 08368    -->    MON, 10:20 AM to 11:40 AM    THU, 10:20 AM to 11:40 AM",
+      "section: 01:640:477:02,    index: 08424    -->    MON,  0:10 PM to  1:30 PM    THU,  0:10 PM to  1:30 PM",
+      "section: 01:198:211:10,    index: 18715    -->    MON,  7:30 PM to  8:50 PM    TUE,  2:15 PM to  3:10 PM    WED,  7:30 PM to  8:50 PM",
+      "section: 01:090:103:HG,    index: 05737    -->    TUE,  5:40 PM to  7:00 PM",
+      "section: 01:090:125:HI,    index: 05766    -->    WED,  0:10 PM to  1:30 PM    THU,  7:30 PM to  8:50 PM    FRI,  2:00 PM to  3:20 PM"
+    ],
+    "points": 0.5619961240310076,
+    "percentRequirementsMet": 0.9,
+    "requirementsMet": {
+      "01:640:252": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:640:477": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:198:211": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:103": {
+        "printed": "Y"
+      },
+      "01:090:125": {
+        "printed": "Y",
+        "openStatus": true
+      }
+    }
+  },
+  {
+    "list": [
+      "section: 01:640:252:03,    index: 08368    -->    MON, 10:20 AM to 11:40 AM    THU, 10:20 AM to 11:40 AM",
+      "section: 01:640:477:02,    index: 08424    -->    MON,  0:10 PM to  1:30 PM    THU,  0:10 PM to  1:30 PM",
+      "section: 01:198:211:10,    index: 18715    -->    MON,  7:30 PM to  8:50 PM    TUE,  2:15 PM to  3:10 PM    WED,  7:30 PM to  8:50 PM",
+      "section: 01:090:103:HI,    index: 05739    -->    WED,  8:30 AM to  9:50 AM",
+      "section: 01:090:125:HI,    index: 05766    -->    WED,  0:10 PM to  1:30 PM    THU,  7:30 PM to  8:50 PM    FRI,  2:00 PM to  3:20 PM"
+    ],
+    "points": 0.5619961240310076,
+    "percentRequirementsMet": 0.9,
+    "requirementsMet": {
+      "01:640:252": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:640:477": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:198:211": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:103": {
+        "printed": "Y"
+      },
+      "01:090:125": {
+        "printed": "Y",
+        "openStatus": true
+      }
+    }
+  },
+  {
+    "list": [
+      "section: 01:640:252:03,    index: 08368    -->    MON, 10:20 AM to 11:40 AM    THU, 10:20 AM to 11:40 AM",
+      "section: 01:640:477:02,    index: 08424    -->    MON,  0:10 PM to  1:30 PM    THU,  0:10 PM to  1:30 PM",
+      "section: 01:198:211:10,    index: 18715    -->    MON,  7:30 PM to  8:50 PM    TUE,  2:15 PM to  3:10 PM    WED,  7:30 PM to  8:50 PM",
+      "section: 01:090:125:HI,    index: 05766    -->    WED,  0:10 PM to  1:30 PM    THU,  7:30 PM to  8:50 PM    FRI,  2:00 PM to  3:20 PM",
+      "section: 01:090:103:HN,    index: 05744    -->    THU,  5:40 PM to  7:00 PM"
+    ],
+    "points": 0.5619961240310076,
+    "percentRequirementsMet": 0.9,
+    "requirementsMet": {
+      "01:640:252": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:640:477": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:198:211": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:125": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:103": {
+        "printed": "Y"
+      }
+    }
+  },
+  {
+    "list": [
+      "section: 01:640:252:03,    index: 08368    -->    MON, 10:20 AM to 11:40 AM    THU, 10:20 AM to 11:40 AM",
+      "section: 01:640:477:02,    index: 08424    -->    MON,  0:10 PM to  1:30 PM    THU,  0:10 PM to  1:30 PM",
+      "section: 01:198:211:13,    index: 18718    -->    MON,  7:30 PM to  8:50 PM    TUE,  0:25 PM to  1:20 PM    WED,  7:30 PM to  8:50 PM",
+      "section: 01:090:103:HF,    index: 05736    -->    TUE,  5:40 PM to  7:00 PM",
+      "section: 01:090:125:HI,    index: 05766    -->    WED,  0:10 PM to  1:30 PM    THU,  7:30 PM to  8:50 PM    FRI,  2:00 PM to  3:20 PM"
+    ],
+    "points": 0.5619961240310076,
+    "percentRequirementsMet": 0.9,
+    "requirementsMet": {
+      "01:640:252": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:640:477": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:198:211": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:103": {
+        "printed": "Y"
+      },
+      "01:090:125": {
+        "printed": "Y",
+        "openStatus": true
+      }
+    }
+  },
+  {
+    "list": [
+      "section: 01:640:252:03,    index: 08368    -->    MON, 10:20 AM to 11:40 AM    THU, 10:20 AM to 11:40 AM",
+      "section: 01:640:477:02,    index: 08424    -->    MON,  0:10 PM to  1:30 PM    THU,  0:10 PM to  1:30 PM",
+      "section: 01:198:211:13,    index: 18718    -->    MON,  7:30 PM to  8:50 PM    TUE,  0:25 PM to  1:20 PM    WED,  7:30 PM to  8:50 PM",
+      "section: 01:090:103:HG,    index: 05737    -->    TUE,  5:40 PM to  7:00 PM",
+      "section: 01:090:125:HI,    index: 05766    -->    WED,  0:10 PM to  1:30 PM    THU,  7:30 PM to  8:50 PM    FRI,  2:00 PM to  3:20 PM"
+    ],
+    "points": 0.5619961240310076,
+    "percentRequirementsMet": 0.9,
+    "requirementsMet": {
+      "01:640:252": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:640:477": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:198:211": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:103": {
+        "printed": "Y"
+      },
+      "01:090:125": {
+        "printed": "Y",
+        "openStatus": true
+      }
+    }
+  },
+  {
+    "list": [
+      "section: 01:640:252:03,    index: 08368    -->    MON, 10:20 AM to 11:40 AM    THU, 10:20 AM to 11:40 AM",
+      "section: 01:640:477:02,    index: 08424    -->    MON,  0:10 PM to  1:30 PM    THU,  0:10 PM to  1:30 PM",
+      "section: 01:198:211:13,    index: 18718    -->    MON,  7:30 PM to  8:50 PM    TUE,  0:25 PM to  1:20 PM    WED,  7:30 PM to  8:50 PM",
+      "section: 01:090:103:HI,    index: 05739    -->    WED,  8:30 AM to  9:50 AM",
+      "section: 01:090:125:HI,    index: 05766    -->    WED,  0:10 PM to  1:30 PM    THU,  7:30 PM to  8:50 PM    FRI,  2:00 PM to  3:20 PM"
+    ],
+    "points": 0.5619961240310076,
+    "percentRequirementsMet": 0.9,
+    "requirementsMet": {
+      "01:640:252": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:640:477": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:198:211": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:103": {
+        "printed": "Y"
+      },
+      "01:090:125": {
+        "printed": "Y",
+        "openStatus": true
+      }
+    }
+  },
+  {
+    "list": [
+      "section: 01:640:252:03,    index: 08368    -->    MON, 10:20 AM to 11:40 AM    THU, 10:20 AM to 11:40 AM",
+      "section: 01:640:477:02,    index: 08424    -->    MON,  0:10 PM to  1:30 PM    THU,  0:10 PM to  1:30 PM",
+      "section: 01:198:211:13,    index: 18718    -->    MON,  7:30 PM to  8:50 PM    TUE,  0:25 PM to  1:20 PM    WED,  7:30 PM to  8:50 PM",
+      "section: 01:090:125:HI,    index: 05766    -->    WED,  0:10 PM to  1:30 PM    THU,  7:30 PM to  8:50 PM    FRI,  2:00 PM to  3:20 PM",
+      "section: 01:090:103:HN,    index: 05744    -->    THU,  5:40 PM to  7:00 PM"
+    ],
+    "points": 0.5619961240310076,
+    "percentRequirementsMet": 0.9,
+    "requirementsMet": {
+      "01:640:252": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:640:477": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:198:211": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:125": {
+        "printed": "Y",
+        "openStatus": true
+      },
+      "01:090:103": {
+        "printed": "Y"
+      }
+    }
+  }
+]
