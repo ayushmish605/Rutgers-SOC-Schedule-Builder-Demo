@@ -246,26 +246,35 @@ function isValidTravelTime(travelTime, rules) {
 }
 
 /**
- * Returns a list of travelTime objects between the given section objects,
- * structured as follows:
- * { fromCampusName: "COLLEGE AVENUE", toCampusName: "BUSCH", time: 30 }
- * If there is an overlap or if at least one of the rules is broken, no valid
- * schedule is produced, and returns null.
+ * Returns a list of all meetingTimes objects for all given sections.
  * @param {object[]} sections the sections, as objects
- * @param {object} rules the rules used to validate each travelTime object
- * @returns the travel times between the section meeting times as travelTime
- * objects, or null if at least one travelTime object is invalid
+ * @returns an array of meeting times for all sections
  */
-function getTravelTimes(sections, rules = travelRules) {
-    var allMeetingTimes = [], travelTimes = [];
+function getAllMeetingTimes(sections) {
+    var allMeetingTimes = [];
     // Get the sorted allMeetingTimes.
     for (var section of sections) {
         const meetingTimes = section.meetingTimes;
         allMeetingTimes = allMeetingTimes.concat(meetingTimes);
     }
     allMeetingTimes.sort((a, b) => { return a.startTime - b.startTime; });
+    return allMeetingTimes;
+}
 
+/**
+ * Returns a list of travelTime objects between the given section objects,
+ * structured as follows:
+ * { fromCampusName: "COLLEGE AVENUE", toCampusName: "BUSCH", time: 30 }
+ * If there is an overlap or if at least one of the rules is broken, no valid
+ * schedule is produced, and returns null.
+ * @param {object} allMeetingTimes the array of meeting times for all sections
+ * @param {object} rules the rules used to validate each travelTime object
+ * @returns the travel times between the section meeting times as travelTime
+ * objects, or null if at least one travelTime object is invalid
+ */
+function getTravelTimes(allMeetingTimes, rules = travelRules) {
     // Get the travelTimes between each meetingTimes.
+    var travelTimes = [];
     for (var i = 0; i < allMeetingTimes.length - 1; i ++) {
         const times1 = allMeetingTimes[i], times2 = allMeetingTimes[i + 1];
         var travelTime = {
@@ -324,10 +333,11 @@ function getSectionStr(courseID, section) {
  * Returns a schedule object given parallel arrays of courseIDs and sections.
  * @param {string[]} courseIDs the courseIDs used to write the schedule
  * @param {object[]} sections the sections corresponding to each courseID
- * @param {boolean} fullForm true to output object[], false to output string[]
+ * @param {object[]} travelTimes the travelTimes between the sections
+ * @param {boolean} form true to output object[], false to output string[]
  * @returns the schedule, either as an object[] or as a string[]
  */
-function getSchedule(courseIDs, sections, fullForm = false) {
+function getSchedule(courseIDs, sections, allMeetingTimes, travelTimes, form) {
     // Create an indices array which will be mapped to the sections array.
     var indices = sections.map((_x, i) => i); // indices === [0, 1, 2, ...]
     indices.sort((a, b) => {
@@ -340,17 +350,21 @@ function getSchedule(courseIDs, sections, fullForm = false) {
     const schedule = {
         list: [],
         points: 0,
-        percentRequirementsMet: 0,
-        requirementsMet: {}
+        percentRequirementsMet: 0
     };
+    if (form !== "brief") {
+        schedule.requirementsMet = {};
+        schedule.meetingTimes = allMeetingTimes;
+        schedule.travelTimes = travelTimes;
+    }
     var numRequirementsMet = 0, totalNumRequirements = 0;
     var totalPoints = 0; // travelTimesPoints TO BE IMPLEMENTED
     for (var i = 0; i < courseIDs.length; i ++) {
-        if (fullForm) schedule.list.push(sections[i]);
+        if (form === "verbose") schedule.list.push(sections[i]);
         else schedule.list.push(getSectionStr(courseIDs[i], sections[i]));
         numRequirementsMet += Object.entries(sections[i].requirementsMet).length;
         totalNumRequirements += sections[i].numRequirements;
-        schedule.requirementsMet[courseIDs[i]] = sections[i].requirementsMet;
+        if (form !== "brief") schedule.requirementsMet[courseIDs[i]] = sections[i].requirementsMet;
         totalPoints += sections[i].points;
     }
     schedule.percentRequirementsMet = numRequirementsMet / totalNumRequirements;
@@ -379,7 +393,8 @@ function pushSchedules(courseIDs, sectionsOfCourses, pointers, schedules, option
         for (var i = 0; i < pointers.length; i ++) {
             sections.push(sectionsOfCourses[i][pointers[i]]);
         }
-        var travelTimes = getTravelTimes(sections);
+        var allMeetingTimes = getAllMeetingTimes(sections);
+        var travelTimes = getTravelTimes(allMeetingTimes);
 
         // Success! travelTimes is not null ...
         if (travelTimes !== null) {
@@ -391,7 +406,8 @@ function pushSchedules(courseIDs, sectionsOfCourses, pointers, schedules, option
             // Final Success: If (pointers.length === courseIDs.length), sections from
             // all courses have been validated! Push a schedule to schedules.
             else if (pointers.length === courseIDs.length) {
-                const schedule = getSchedule(courseIDs, sections, options.fullForm);
+                const schedule = getSchedule(courseIDs, sections, allMeetingTimes, travelTimes,
+                    options.form);
                 schedules.push(schedule);
             }
         }
@@ -409,12 +425,14 @@ function pushSchedules(courseIDs, sectionsOfCourses, pointers, schedules, option
  * "cm" (Camden)
  * @param {string[]} courseIDs An Array of course IDs of the form
  *     UNIT:SUBJECT:COURSE; e.g., 01:198:111, 04:189:101, 01:640:251.
- * @param options special preferences corresponding to the courseIDs
+ * @param options special preferences corresponding to the courseIDs:
+ *        - batchSize: number of schedules to generate
+ *        - form: "brief", "compact", or "verbose"
  * @returns a list of possible schedules
  */
 async function generateSchedules(level, campus, courseIDs, courseOptions = {},
     options = {}) {
-    options = { fullForm: false, byPoints: false, batchSize: 500, ...options };
+    options = { form: "compact", byPoints: false, batchSize: 500, ...options };
     // Obtain the parallel array of section lists sectionsOfCourses.
     const sectionsOfCourses = await getSectionsOfCourses(level, campus, courseIDs, courseOptions);
     // Checks if any courses have no valid sections and prints them to the console.
@@ -430,7 +448,7 @@ async function generateSchedules(level, campus, courseIDs, courseOptions = {},
     var schedules = []; // list of possible schedules
     // Push schedules to the schedules array using a recursive algorithm.
     pushSchedules(courseIDs, sectionsOfCourses, [0], schedules,
-        { fullForm: options.fullForm, batchSize: options.batchSize });
+        { form: options.form, batchSize: options.batchSize });
     // Sort the schedules, first by percentRequirementsMet, then by points.
     const properties = (options.byPoints) ? ["points", "percentRequirementsMet"] :
         ["percentRequirementsMet", "points"];
@@ -448,7 +466,7 @@ async function generateSchedules(level, campus, courseIDs, courseOptions = {},
     const start = Date.now();
 
     const courseIDs = ["01:640:477", "01:640:252", "01:090:125",
-        "01:198:211", "01:090:103"];
+        "01:198:112", "01:090:103"];
     // const courseIDs = ["01:160:162", "01:750:204", "01:160:171", "01:750:206",
     //     "01:090:125", "07:965:211", "07:965:231"];
 
@@ -462,11 +480,11 @@ async function generateSchedules(level, campus, courseIDs, courseOptions = {},
     
     const courseOptions = {
         "ALL": { printed: "Y", openStatus: true, meetingTimesRanges: meetingTimesRanges },
-        "01:198:211": { instructors: { name: "KANIA, JAY" } }
+        "01:198:112": { instructors: { name: "CHANG, LILY" } }
     };
 
     const schedules = await generateSchedules("undergraduate", "nb", courseIDs, courseOptions,
-        { batchSize: 20 });
+        { batchSize: 500, form: "compact" });
 
     const numMatchingSchedules = schedules.filter((a) => a.percentRequirementsMet === 1).length;
     console.log(`${schedules.length} schedules generated. ${numMatchingSchedules} match.`);
